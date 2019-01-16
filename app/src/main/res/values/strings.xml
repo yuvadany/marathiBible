@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Luganda English Bible </string>
+    <string name="action_settings">Settings</string>
+    <string name="test">In the beginning</string>
+    <string name="test2">"CHAPTER 1
+    1 In the beginning God created the heaven and the earth. </string>
+    <string-array name="books">
+        <item>Genesis</item>
+    </string-array>
+    <string-array name="chapters">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+    </string-array>
+    <string-array name="list">
+        <item>1-100</item>
+        <item>101-200</item>
+        <item>201-300</item>
+        <item>301-400</item>
+        <item>401-500</item>
+        <item>501-600</item>
+        <item>601-700</item>
+        <item>701-800</item>
+        <item>801-900</item>
+        <item>901-1000</item>
+    </string-array>
+    <string name="title_activity_main2">Praises </string>
+    <string name="banner_home_footer">ca-app-pub-8821114814067767/2954166987</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="AboveAll">Above all powers, above all kings</string>
+    <string name="title_activity_lyrics">LyricsActivity</string>
+    <string name="title_activity_you_tube">YouTubeActivity</string>
+    <string name="admob_interstitial_id">ca-app-pub-8821114814067767/6701840305</string>
+    <string name="title_activity_songs">SongsActivity</string>
+</resources>
