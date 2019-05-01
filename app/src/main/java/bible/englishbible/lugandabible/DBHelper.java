@@ -66,12 +66,13 @@ public class DBHelper
 
     public ArrayList getVerse(int doy)
     {
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
         try {
-            CopyDataBaseFromAsset();
-        }
-        catch(Exception e )
-        {
-            System.out.println("Error in updateVersesDate");
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
         }
         int day = doy;
         ArrayList<String> dateAndVerse = new ArrayList<String>();
@@ -88,8 +89,15 @@ public class DBHelper
 
     public boolean updateVersesDate(String doy,String today) {
         // openDataBase();
-        try {
-            //CopyDataBaseFromAsset();
+        try {//dailyverseLugandaEnglish1
+            File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
+            try {
+                if (!localFile.exists()) {
+                    CopyDataBaseFromAsset();
+                }
+            } catch (Exception e) {
+                System.out.println("Error in saveBookmark");
+            }
             ContentValues contentValues = new ContentValues();
             contentValues.put("date", today);
             getWritableDatabase().update("verses", contentValues, "ID = ?", new String[]{doy});
@@ -128,12 +136,13 @@ public class DBHelper
 
     public String getPraises(String  id)
     {
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
         try {
-            CopyDataBaseFromAsset();
-        }
-        catch(Exception e )
-        {
-            System.out.println("Error in updateVersesDate");
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
         }
         int number2 = Integer.parseInt(id)-99;
         String from = String.valueOf(number2);
@@ -147,12 +156,13 @@ public class DBHelper
 
     public String[] getSongDetails()
     {
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
         try {
-            CopyDataBaseFromAsset();
-        }
-        catch(Exception e )
-        {
-            System.out.println("Error in updateVersesDate");
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
         }
         ArrayList localArrayList = new ArrayList();
         Cursor localCursor = getReadableDatabase().rawQuery("SELECT TITLE FROM ENGLISHSONGS ORDER BY title", null);
@@ -166,6 +176,14 @@ public class DBHelper
 
     public String getLyrics(String title)
     {
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
+        try {
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
+        }
         Cursor localCursor = getReadableDatabase().rawQuery("Select  title,lyrics from ENGLISHSONGS where title ='" + title + "'", null);
         int i = 0;
         String str = new String();
@@ -179,13 +197,13 @@ public class DBHelper
 
     public ArrayList searchSong(String word)
     {
-        System.out.println(" Keyword # "+word);
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
         try {
-            CopyDataBaseFromAsset();
-        }
-        catch(Exception e )
-        {
-            System.out.println("Error in updateVersesDate");
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
         }
         ArrayList localArrayList = new ArrayList();
         Cursor localCursor = getReadableDatabase().rawQuery("SELECT title FROM ENGLISHSONGS where  " +
@@ -197,7 +215,7 @@ public class DBHelper
     }
 
     public void saveBookmark(String word) {
-        File localFile = ctx.getDatabasePath("dailyversefrench1.sqlite");
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
         try {
             if (!localFile.exists()) {
                 CopyDataBaseFromAsset();
@@ -219,7 +237,7 @@ public class DBHelper
     }
 
     public String[] getAllBookmarks() {
-        File localFile = ctx.getDatabasePath("dailyversefrench1.sqlite");
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
         try {
             if (!localFile.exists()) {
                 CopyDataBaseFromAsset();
@@ -236,7 +254,7 @@ public class DBHelper
     }
 
     public void deleteBookmark(String selectedBookmark) {
-        File localFile = ctx.getDatabasePath("dailyversefrench1.sqlite");
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
         String whereClause = "verse=?";
         try {
             if (!localFile.exists()) {

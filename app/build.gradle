@@ -2,13 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 27
-    buildToolsVersion "27.0.3"
 
     defaultConfig {
         applicationId "bible.englishbible.lugandabible"
         minSdkVersion 15
         targetSdkVersion 27
-        versionCode 3
+        versionCode 4
         versionName "1.0"
     }
     buildTypes {

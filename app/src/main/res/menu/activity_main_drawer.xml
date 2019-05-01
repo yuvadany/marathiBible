@@ -4,6 +4,14 @@
     <item android:title="Luganda English Holy Bible">
         <menu>
             <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Settings" />
+            <item
+                android:id="@+id/bookmark"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Bookmarks" />
+            <item
                 android:id="@+id/praises"
                 android:icon="@drawable/ic_menu_send"
                 android:title="1000 Praises English"  />
