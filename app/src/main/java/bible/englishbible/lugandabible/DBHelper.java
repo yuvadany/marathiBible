@@ -9,17 +9,20 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Bundle;
+import android.util.Log;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 
 public class DBHelper
         extends SQLiteOpenHelper
 {
-    private static final String DATABASE_NAME = "dailyverseLugandaEnglish.sqlite";
+    private static final String DATABASE_NAME = "dailyverseLugandaEnglish1.sqlite";
     private static final int DATABASE_VERSION = 1;
     private static final String DB_PATH_SUFFIX = "/databases/";
     static Context ctx;
@@ -27,19 +30,19 @@ public class DBHelper
 
     public DBHelper(Context paramContext)
     {
-        super(paramContext, "dailyverseLugandaEnglish.sqlite", null, 1);
+        super(paramContext, "dailyverseLugandaEnglish1.sqlite", null, 1);
         ctx = paramContext;
     }
 
     private static String getDatabasePath()
     {
-        return ctx.getApplicationInfo().dataDir + "/databases/" + "dailyverseLugandaEnglish.sqlite";
+        return ctx.getApplicationInfo().dataDir + "/databases/" + "dailyverseLugandaEnglish1.sqlite";
     }
 
     public void CopyDataBaseFromAsset()
             throws IOException
     {
-        InputStream localInputStream = ctx.getAssets().open("dailyverseLugandaEnglish.sqlite");
+        InputStream localInputStream = ctx.getAssets().open("dailyverseLugandaEnglish1.sqlite");
         String str = getDatabasePath();
         File localFile = new File(ctx.getApplicationInfo().dataDir + "/databases/");
         if (!localFile.exists()) {
@@ -108,7 +111,7 @@ public class DBHelper
     public SQLiteDatabase openDataBase()
     {
 
-        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish.sqlite");
+        File localFile = ctx.getDatabasePath("dailyverseLugandaEnglish1.sqlite");
 
         try
         {
@@ -193,5 +196,67 @@ public class DBHelper
         return localArrayList;
     }
 
+    public void saveBookmark(String word) {
+        File localFile = ctx.getDatabasePath("dailyversefrench1.sqlite");
+        try {
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
+        }
+        Log.i("myTag", "This is my message word" + word);
+        ArrayList localArrayList = new ArrayList();
+        ContentValues localContentValues = new ContentValues();
+        localContentValues.put("verse", word);
+        localContentValues.put("date", getCurrentDate());
+        try {
+            getWritableDatabase().insertOrThrow("bookmark", null, localContentValues);
+            getWritableDatabase().close();
+        } catch (Exception exception) {
+            Log.i("myTag", "saveBookmark Exception #  " + exception);
+        }
+    }
+
+    public String[] getAllBookmarks() {
+        File localFile = ctx.getDatabasePath("dailyversefrench1.sqlite");
+        try {
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
+        }
+        ArrayList localArrayList = new ArrayList();
+        Cursor localCursor = getReadableDatabase().rawQuery("SELECT VERSE,DATE FROM BOOKMARK order by DATE desc", null);
+        while (localCursor.moveToNext()) {
+            localArrayList.add(localCursor.getString(1) + "# \n" + localCursor.getString(0));
+        }
+        return (String[]) localArrayList.toArray(new String[localArrayList.size()]);
+    }
+
+    public void deleteBookmark(String selectedBookmark) {
+        File localFile = ctx.getDatabasePath("dailyversefrench1.sqlite");
+        String whereClause = "verse=?";
+        try {
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in deleteBookmark");
+        }
+        try {
+            getWritableDatabase().delete("bookmark", whereClause, new String[]{selectedBookmark});
+            getWritableDatabase().close();
+        } catch (Exception exception) {
+            Log.i("myTag", "saveBookmark Exception #  " + exception);
+        }
+    }
+
+    public String getCurrentDate() {
+        Date date = new Date();
+        SimpleDateFormat formatter = new SimpleDateFormat("MMM-dd-yyyy HH:mm:ss");
+        return (formatter.format(date));
+    }
 }
 
