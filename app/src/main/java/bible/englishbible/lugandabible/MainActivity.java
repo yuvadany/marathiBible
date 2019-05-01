@@ -152,13 +152,13 @@ public class MainActivity extends AppCompatActivity
         fabShare.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String app_url = "https://play.google.com/store/apps/details?id=com.englishbible.frenchbible";
+                String app_url = "https://play.google.com/store/apps/details?id=bible.englishbible.lugandabible";
                 try {
                     Intent localIntent2 = new Intent("android.intent.action.SEND");
                     localIntent2.setType("text/plain");
-                    localIntent2.putExtra("android.intent.extra.SUBJECT", "The Holy Bible French & English Bible Parallel");
-                    localIntent2.putExtra("android.intent.extra.TEXT", "\nHi,\n Check on this Holy Bible French English Parallel App\n\n" + app_url + " \n\n");
-                    startActivity(Intent.createChooser(localIntent2, "French English Bible Share"));
+                    localIntent2.putExtra("android.intent.extra.SUBJECT", "The Holy Bible Luganda & English Bible Parallel");
+                    localIntent2.putExtra("android.intent.extra.TEXT", "\nHi,\n Check on this Holy Bible Luganda & English  Parallel App\n\n" + app_url + " \n\n");
+                    startActivity(Intent.createChooser(localIntent2, "Luganda & English Bible Share"));
                 } catch (Exception e) {
 
                 }
@@ -825,7 +825,7 @@ public class MainActivity extends AppCompatActivity
             startActivity(new Intent(this, SettingsActivity.class));
         }   else if (id == R.id.rate) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
-            intent.setData(Uri.parse("https://play.google.com/store/apps/details?id=com.englishbible.frenchbible"));
+            intent.setData(Uri.parse("https://play.google.com/store/apps/details?id=bible.englishbible.lugandabible"));
             startActivity(intent);
         } else if (id == R.id.praises) {
             startActivity(new Intent(this, PraisesActivity.class));
@@ -845,13 +845,13 @@ public class MainActivity extends AppCompatActivity
             intent.setData(Uri.parse("https://play.google.com/store/apps/developer?id=YUVARAJ+PALANISAMY"));
             startActivity(intent);
         } else if (id == R.id.nav_share) {
-            String app_url = "https://play.google.com/store/apps/details?id=com.englishbible.frenchbible";
+            String app_url = "https://play.google.com/store/apps/details?id=bible.englishbible.lugandabible";
             try {
                 Intent localIntent2 = new Intent("android.intent.action.SEND");
                 localIntent2.setType("text/plain");
-                localIntent2.putExtra("android.intent.extra.SUBJECT", "French  English Bible ");
-                localIntent2.putExtra("android.intent.extra.TEXT", "\nHi,\n Check on this French English Parallel Holy Bible App\n\n" + app_url + " \n\n");
-                startActivity(Intent.createChooser(localIntent2, "French Bible Share "));
+                localIntent2.putExtra("android.intent.extra.SUBJECT", "Luganda & English  Bible ");
+                localIntent2.putExtra("android.intent.extra.TEXT", "\nHi,\n Check on this Luganda & English  Parallel Holy Bible App\n\n" + app_url + " \n\n");
+                startActivity(Intent.createChooser(localIntent2, "Luganda & English  Bible Share "));
             } catch (Exception e) {
 
             }
