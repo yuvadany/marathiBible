@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity
     public static final String SHARED_PREF_BOOKMARK = "Book_Mark";
     public static final String SELECTED_VERSE = "Selected_Verse";
     public static final String SHARED_PREF_FONT_SIZE = "font_size";
-    public static final float TEXT_FONT_SIZE = 15;
+    public static final float TEXT_FONT_SIZE = 13;
     public static final String TEXT_FONT_SIZE_VAR = "text_float_size";
     public static final String SHARED_PREF_NIGHT_DAY_MODE = "Night_Day_Mode";
     public static final String TEXT_COLOUR_VAR = "Text_Colour_Var";
