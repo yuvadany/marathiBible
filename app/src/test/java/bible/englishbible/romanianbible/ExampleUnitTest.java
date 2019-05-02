@@ -1,4 +1,4 @@
-package bible.englishbible.lugandabible;
+package bible.englishbible.cebuanobible;
 
 import org.junit.Test;
 
