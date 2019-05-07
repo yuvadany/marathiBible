@@ -107,6 +107,12 @@ public class MainActivity extends AppCompatActivity
     public static final String BACKROUND_COLOUR_VAR = "Background_Colour_Var";
     public static final int BLACK_COLOUR = Color.parseColor("#000000");
     public static final int WHITE_COLOUR = Color.parseColor("#f2f2f2");
+    public static final String app_url = "https://play.google.com/store/apps/details?id=bible.englishbible.cebuanobible";
+    public static final String developer_id ="https://play.google.com/store/apps/developer?id=YUVARAJ+PALANISAMY";
+    public static final String extraSubject = "The Holy Bible Cebuano & English Bible Parallel";
+    public static final String extraText ="\nHi,\n Check on this Holy Bible Cebuano & English Parallel App\n\n" + app_url + " \n\n";
+    public static final String bibleShare = "Cebuano & English Bible Share";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -152,13 +158,12 @@ public class MainActivity extends AppCompatActivity
         fabShare.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String app_url = "https://play.google.com/store/apps/details?id=bible.englishbible.lugandabible";
                 try {
                     Intent localIntent2 = new Intent("android.intent.action.SEND");
                     localIntent2.setType("text/plain");
-                    localIntent2.putExtra("android.intent.extra.SUBJECT", "The Holy Bible Luganda & English Bible Parallel");
-                    localIntent2.putExtra("android.intent.extra.TEXT", "\nHi,\n Check on this Holy Bible Luganda & English  Parallel App\n\n" + app_url + " \n\n");
-                    startActivity(Intent.createChooser(localIntent2, "Luganda & English Bible Share"));
+                    localIntent2.putExtra("android.intent.extra.SUBJECT", extraSubject);
+                    localIntent2.putExtra("android.intent.extra.TEXT", extraText);
+                    startActivity(Intent.createChooser(localIntent2, bibleShare));
                 } catch (Exception e) {
 
                 }
@@ -386,7 +391,7 @@ public class MainActivity extends AppCompatActivity
                 //raw text test starts
                 int num = 5;
                 int id = 8;
-                id = this.getResources().getIdentifier("lug_1_1", "raw", this.getPackageName());
+                id = this.getResources().getIdentifier("ceb_1_1", "raw", this.getPackageName());
                 InputStream inputStream = getResources().openRawResource(id);
                 ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
                 int in;
@@ -402,7 +407,7 @@ public class MainActivity extends AppCompatActivity
                     e.printStackTrace();
                 }
                 sharedpreferences = getSharedPreferences(SHARED_PREF, Context.MODE_PRIVATE);
-                ArrayAdapter praiseArrayAdapter5 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "lug_")) {
+                ArrayAdapter praiseArrayAdapter5 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "ceb_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -444,7 +449,7 @@ public class MainActivity extends AppCompatActivity
                 englishList.setAdapter(praiseArrayAdapter);
                 registerForContextMenu(englishList);
                 if ("hindi".equalsIgnoreCase(language)) {
-                    praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "lug_")) {
+                    praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "ceb_")) {
                         @Override
                         public View getView(int position, View convertView, ViewGroup parent) {
                             /// Get the Item from ListView
@@ -486,7 +491,7 @@ public class MainActivity extends AppCompatActivity
             }
             case R.id.chapters_spinner: {
                 sharedpreferences = getSharedPreferences(SHARED_PREF, Context.MODE_PRIVATE);
-                String file = "lug_" + getBook_number(sp1) + "_" + Integer.parseInt(sp2);
+                String file = "ceb_" + getBook_number(sp1) + "_" + Integer.parseInt(sp2);
                 String hindi_verse = "test ";
                 int id = 1;
                 id = this.getResources().getIdentifier(file, "raw", this.getPackageName());
@@ -505,7 +510,7 @@ public class MainActivity extends AppCompatActivity
                     e.printStackTrace();
                 }
 
-                ArrayAdapter praiseArrayAdapter6 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "lug_")) {
+                ArrayAdapter praiseArrayAdapter6 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "ceb_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -546,7 +551,7 @@ public class MainActivity extends AppCompatActivity
                 englishList.setAdapter(praiseArrayAdapter);
                 // english_verses.setText(getVerse(sp1, sp2, "niv_"));
                 if ("hindi".equalsIgnoreCase(language)) {
-                    ArrayAdapter praiseArrayAdapter1 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "lug_")) {
+                    ArrayAdapter praiseArrayAdapter1 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "ceb_")) {
                         @Override
                         public View getView(int position, View convertView, ViewGroup parent) {
                             /// Get the Item from ListView
@@ -563,7 +568,7 @@ public class MainActivity extends AppCompatActivity
                         }
                     };
                     singleList.setAdapter(praiseArrayAdapter1);
-                    // single_text.setText(getVerse(sp1, sp2, "lug_"));
+                    // single_text.setText(getVerse(sp1, sp2, "ceb_"));
                 } else if ("niv".equalsIgnoreCase(language)) {
                     ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "niv_")) {
                         @Override
@@ -648,7 +653,7 @@ public class MainActivity extends AppCompatActivity
                 singleList.setVisibility(View.VISIBLE);
                 hindiList.setVisibility(View.GONE);
                 englishList.setVisibility(View.GONE);
-                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "lug_")) {
+                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "ceb_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -716,7 +721,7 @@ public class MainActivity extends AppCompatActivity
                     }
                 };
                 englishList.setAdapter(praiseArrayAdapter2);
-                ArrayAdapter praiseArrayAdapter3 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "lug_")) {
+                ArrayAdapter praiseArrayAdapter3 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "ceb_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -825,7 +830,7 @@ public class MainActivity extends AppCompatActivity
             startActivity(new Intent(this, SettingsActivity.class));
         }   else if (id == R.id.rate) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
-            intent.setData(Uri.parse("https://play.google.com/store/apps/details?id=bible.englishbible.lugandabible"));
+            intent.setData(Uri.parse(app_url));
             startActivity(intent);
         } else if (id == R.id.praises) {
             startActivity(new Intent(this, PraisesActivity.class));
@@ -842,16 +847,15 @@ public class MainActivity extends AppCompatActivity
             startActivity(new Intent(this, SongsActivity.class));
         }  else if (id == R.id.more) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
-            intent.setData(Uri.parse("https://play.google.com/store/apps/developer?id=YUVARAJ+PALANISAMY"));
+            intent.setData(Uri.parse(developer_id));
             startActivity(intent);
         } else if (id == R.id.nav_share) {
-            String app_url = "https://play.google.com/store/apps/details?id=bible.englishbible.lugandabible";
             try {
                 Intent localIntent2 = new Intent("android.intent.action.SEND");
                 localIntent2.setType("text/plain");
-                localIntent2.putExtra("android.intent.extra.SUBJECT", "Luganda & English  Bible ");
-                localIntent2.putExtra("android.intent.extra.TEXT", "\nHi,\n Check on this Luganda & English  Parallel Holy Bible App\n\n" + app_url + " \n\n");
-                startActivity(Intent.createChooser(localIntent2, "Luganda & English  Bible Share "));
+                localIntent2.putExtra("android.intent.extra.SUBJECT", extraSubject);
+                localIntent2.putExtra("android.intent.extra.TEXT", extraText);
+                startActivity(Intent.createChooser(localIntent2, bibleShare));
             } catch (Exception e) {
 
             }
@@ -907,7 +911,7 @@ public class MainActivity extends AppCompatActivity
         }
         for (int i = 1; i <= 66; i++) {
             for (int j = 1; j <= getChaptersCount(i); j++) {
-                file = "lug_" + i + "_" + j;
+                file = "ceb_" + i + "_" + j;
                 id = this.getResources().getIdentifier(file, "raw", this.getPackageName());
                 InputStream inputStream = getResources().openRawResource(id);
                 ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
