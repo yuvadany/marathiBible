@@ -4,10 +4,10 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "bible.englishbible.cebuanobible"
+        applicationId "bible.englishbible.Sinhalabible"
         minSdkVersion 15
         targetSdkVersion 27
-        versionCode 3
+        versionCode 2
         versionName "1.0"
     }
     buildTypes {

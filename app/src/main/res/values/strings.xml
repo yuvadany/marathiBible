@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Cebuano-English Bible </string>
+    <string name="app_name">බයිබලය-Bible </string>
     <string name="action_settings">Settings</string>
     <string name="test">In the beginning</string>
     <string name="test2">"CHAPTER 1
@@ -26,7 +26,7 @@
         <item>901-1000</item>
     </string-array>
     <string name="title_activity_main2">Praises </string>
-    <string name="banner_home_footer">ca-app-pub-8821114814067767/1336629959</string>
+    <string name="banner_home_footer">ca-app-pub-8821114814067767/6514664040</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="AboveAll">Above all powers, above all kings</string>
