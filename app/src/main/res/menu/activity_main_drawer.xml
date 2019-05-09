@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Sinhala-English Holy Bible">
+    <item android:title="பரிசுத்த வேதாகமம்-Holy Bible">
         <menu>
             <item
                 android:id="@+id/settings"
@@ -11,6 +11,14 @@
                 android:id="@+id/bookmark"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Bookmarks" />
+            <item
+                android:id="@+id/Tamilpraises"
+                android:icon="@drawable/ic_menu_send"
+                android:title=" ஸ்தோத்திர பலிகள் Sthothira Paligal" />
+            <item
+                android:id="@+id/jesusquotes"
+                android:icon="@drawable/ic_menu_send"
+                android:title="இயேசுவின் வார்த்தைகள்" />
             <item
                 android:id="@+id/praises"
                 android:icon="@drawable/ic_menu_send"

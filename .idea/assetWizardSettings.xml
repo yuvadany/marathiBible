@@ -61,6 +61,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="foregroundImage" value="C:\Users\admin\Desktop\horizontal.png" />
+                                      <entry key="previewDensity" value="HIGH" />
                                     </map>
                                   </option>
                                 </PersistentState>

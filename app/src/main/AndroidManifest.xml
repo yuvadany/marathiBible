@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="bible.englishbible.Sinhalabible">
+    package="com.englishbible.tamilbible">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -10,10 +10,12 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SettingsActivity"></activity>
-        <activity android:name=".BookmarkActivity" />
+        <activity android:name="com.englishbible.tamilbible.QuotesActivity"></activity>
+        <activity android:name="com.englishbible.tamilbible.TamilPraiseActivity" />
+        <activity android:name="com.englishbible.tamilbible.SettingsActivity" />
+        <activity android:name="com.englishbible.tamilbible.BookmarkActivity" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.englishbible.tamilbible.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -22,9 +24,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PraisesActivity" />
-        <activity android:name=".LyricsActivity" />
-        <activity android:name=".SongsActivity" />
+        <activity android:name="com.englishbible.tamilbible.PraisesActivity" />
+        <activity android:name="com.englishbible.tamilbible.LyricsActivity" />
+        <activity android:name="com.englishbible.tamilbible.SongsActivity" />
     </application>
 
 </manifest>
