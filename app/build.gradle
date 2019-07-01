@@ -7,7 +7,7 @@ android {
         applicationId "com.englishbible.tamilbible"
         minSdkVersion 15
         targetSdkVersion 27
-        versionCode 29
+        versionCode 30
         versionName "1.0"
     }
     buildTypes {
