@@ -116,9 +116,9 @@ public class MainActivity extends AppCompatActivity
     public static final int BLACK_COLOUR = Color.parseColor("#000000");
     public static final int WHITE_COLOUR = Color.parseColor("#f2f2f2");
     public static final String app_url = "https://play.google.com/store/apps/details?id=com.englishbible.tamilbible";
-    public static final String developer_id ="https://play.google.com/store/apps/developer?id=YUVARAJ+PALANISAMY";
+    public static final String developer_id = "https://play.google.com/store/apps/developer?id=YUVARAJ+PALANISAMY";
     public static final String extraSubject = "The Holy Bible Tamil & English Bible Parallel";
-    public static final String extraText ="\nHi,\n Check on this Holy Bible Tamil & English Parallel App\n\n" + app_url + " \n\n";
+    public static final String extraText = "\nHi,\n Check on this Holy Bible Tamil & English Parallel App\n\n" + app_url + " \n\n";
     public static final String bibleShare = "Tamil & English Bible Share";
     public static final String pay_app_url = "https://play.google.com/store/apps/details?id=noads.englishbible.tamilbible";
 
@@ -804,10 +804,14 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(app_url));
             startActivity(intent);
-        }else if (id == R.id.noAds) {
+        } else if (id == R.id.noAds) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(pay_app_url));
             startActivity(intent);
+        } else if (id == R.id.jesusquotes) {
+            startActivity(new Intent(this, QuotesActivity.class));
+        } else if (id == R.id.Tamilpraises) {
+            startActivity(new Intent(this, TamilPraiseActivity.class));
         } else if (id == R.id.praises) {
             startActivity(new Intent(this, PraisesActivity.class));
         } else if (id == R.id.notes) {

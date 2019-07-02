@@ -23,8 +23,10 @@ import com.google.android.gms.ads.AdView;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.HashMap;
+import java.util.Map;
 
-public class TamilPraiseActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener, GestureDetector.OnGestureListener {
+public class TamilPraiseActivity extends AppCompatActivity /*implements AdapterView.OnItemSelectedListener, GestureDetector.OnGestureListener*/ {
     Spinner praises_spinner;
     TextView praises_text;
     ScrollView scroll;
@@ -35,7 +37,7 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
     private AdView mAdView;
     String[] praisesArray = {"1-100", "101-200", "201-300", "301-400", "401-500",
             "501-600", "601-700", "701-800", "801-900", "901-1000"};
-    SharedPreferences sharedpreferences,sharedPreferencesReadMode;
+    SharedPreferences sharedpreferences, sharedPreferencesReadMode;
     public static final String SHARED_PREF_FONT_SIZE = "font_size";
     public static final float TEXT_FONT_SIZE = 13;
     public static final String TEXT_FONT_SIZE_VAR = "text_float_size";
@@ -52,9 +54,15 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
         setTitle("ஸ்தோத்திர பலிகள் Sthothira Paligal");
         scroll = ((ScrollView) findViewById(R.id.scrollPraise));
         praises_text = ((TextView) findViewById(R.id.praises_text));
-        praises_spinner = (Spinner) findViewById(R.id.praises_spinner);
+      /* praises_spinner = (Spinner) findViewById(R.id.praises_spinner);
         praises_spinner.setOnItemSelectedListener(this);
-        gestureDetector = new GestureDetector(TamilPraiseActivity.this, TamilPraiseActivity.this);
+        gestureDetector = new GestureDetector(TamilPraiseActivity.this, TamilPraiseActivity.this);*/
+        sharedpreferences = getSharedPreferences(SHARED_PREF_FONT_SIZE, Context.MODE_PRIVATE);
+        sharedPreferencesReadMode = getSharedPreferences(SHARED_PREF_NIGHT_DAY_MODE, Context.MODE_PRIVATE);
+        praises_text.setTextSize(TypedValue.COMPLEX_UNIT_DIP, sharedpreferences.getFloat(TEXT_FONT_SIZE_VAR, TEXT_FONT_SIZE));
+        praises_text.setBackgroundColor(sharedPreferencesReadMode.getInt(BACKROUND_COLOUR_VAR, WHITE_COLOUR));
+        praises_text.setTextColor(sharedPreferencesReadMode.getInt(TEXT_COLOUR_VAR, BLACK_COLOUR));
+        praises_text.setText(getTamilPraises().toString());
         mAdView = (AdView) findViewById(R.id.adView);
         mAdView.setAdListener(new AdListener() {
             @Override
@@ -84,22 +92,21 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
         // Back button starts
-        if(getSupportActionBar()!= null)
-        {
+        if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }
         // Back button ends
     }
 
-    @Override
+   /* @Override
     public void onNothingSelected(AdapterView<?> arg0) {
         // TODO Auto-generated method stu
 
     }
-
-    @Override
-    public void onItemSelected(AdapterView<?> parent, View arg1, int arg2, long arg3) { /* TODO Auto-generated method stub*/
+*/
+  /*  @Override
+    public void onItemSelected(AdapterView<?> parent, View arg1, int arg2, long arg3) { *//* TODO Auto-generated method stub*//*
         String sp1 = String.valueOf(praises_spinner.getSelectedItem());
         switch (parent.getId()) {
             case R.id.praises_spinner: {
@@ -127,13 +134,52 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
 
                 sharedpreferences = getSharedPreferences(SHARED_PREF_FONT_SIZE, Context.MODE_PRIVATE);
                 sharedPreferencesReadMode = getSharedPreferences(SHARED_PREF_NIGHT_DAY_MODE, Context.MODE_PRIVATE);
-                praises_text.setTextSize(TypedValue.COMPLEX_UNIT_DIP, sharedpreferences.getFloat(TEXT_FONT_SIZE_VAR,TEXT_FONT_SIZE));
+                praises_text.setTextSize(TypedValue.COMPLEX_UNIT_DIP, sharedpreferences.getFloat(TEXT_FONT_SIZE_VAR, TEXT_FONT_SIZE));
                 praises_text.setBackgroundColor(sharedPreferencesReadMode.getInt(BACKROUND_COLOUR_VAR, WHITE_COLOUR));
                 praises_text.setTextColor(sharedPreferencesReadMode.getInt(TEXT_COLOUR_VAR, BLACK_COLOUR));
                 praises_text.setText(praises);
                 scroll.fullScroll(ScrollView.FOCUS_UP);
             }
         }
+    }
+*/
+
+    public StringBuffer getTamilPraises() {
+        StringBuffer tamilPraises = new StringBuffer();
+        try {
+            int id = 8;
+            int in;
+            for (int i = 1; i <= 10; i++) {
+                ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
+                id = this.getResources().getIdentifier(getTamilPraisesFile(i), "raw", this.getPackageName());
+                InputStream inputStream = getResources().openRawResource(id);
+                in = inputStream.read();
+                while (in != -1) {
+                    byteArrayOutputStream.write(in);
+                    in = inputStream.read();
+                }
+                inputStream.close();
+                tamilPraises.append(byteArrayOutputStream.toString());
+            }
+        } catch (Exception e) {
+            System.out.println("getTamilPraises Error # " + e);
+        }
+        return tamilPraises;
+    }
+
+    public String getTamilPraisesFile(int i) {
+        Map<Integer, String> bookName = new HashMap<Integer, String>();
+        bookName.put(1, "1_100");
+        bookName.put(2, "101_200");
+        bookName.put(3, "201_300");
+        bookName.put(4, "301_400");
+        bookName.put(5, "401_500");
+        bookName.put(6, "501_600");
+        bookName.put(7, "601_700");
+        bookName.put(8, "701_800");
+        bookName.put(9, "801_900");
+        bookName.put(10, "901_1000");
+        return "praises_" + bookName.get(i);
     }
 
     public String getList(String number) {
@@ -164,7 +210,7 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
     }
 
 
-    @Override
+   /* @Override
     public void onLongPress(MotionEvent arg0) {
 
         // TODO Auto-generated method stub
@@ -192,7 +238,7 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
         // TODO Auto-generated method stub
 
         return false;
-    }
+    }*/
 
     @Override
     public boolean onTouchEvent(MotionEvent motionEvent) {
@@ -202,7 +248,7 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
         return gestureDetector.onTouchEvent(motionEvent);
     }
 
-    @Override
+   /* @Override
     public boolean onDown(MotionEvent arg0) {
 
         // TODO Auto-generated method stub
@@ -228,7 +274,7 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
         } else {
             return true;
         }
-    }
+    }*/
 
     public void displayNext(String current, String[] array) {
         String list_praise = "praises_" + getList(current);
@@ -293,6 +339,7 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
         }
         return ta_verse;
     }
+
     @Override
     public void onPause() {
         if (mAdView != null) {
@@ -316,10 +363,11 @@ public class TamilPraiseActivity extends AppCompatActivity implements AdapterVie
         }
         super.onDestroy();
     }
+
     // back option starts
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        if(item.getItemId() == android.R.id.home)
+        if (item.getItemId() == android.R.id.home)
             finish();
         return super.onOptionsItemSelected(item);
     }

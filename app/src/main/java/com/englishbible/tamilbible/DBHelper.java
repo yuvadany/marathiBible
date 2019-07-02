@@ -131,7 +131,7 @@ public class DBHelper
         }
     }
 
-    public String getPraises(String id) {
+   /* public String getPraises(String id) {
         File localFile = ctx.getDatabasePath(DATABASE_NAME);
         try {
             if (!localFile.exists()) {
@@ -148,6 +148,23 @@ public class DBHelper
             sf.append("\n" + localCursor.getString(0) + ".  " + localCursor.getString(1) + "  ( " + localCursor.getString(2) + " )\n");
         }
         return sf.toString();
+    }*/
+
+    public String getEnglishPraises() {
+        File localFile = ctx.getDatabasePath(DATABASE_NAME);
+        try {
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
+        }
+        StringBuffer sb = new StringBuffer();
+        Cursor localCursor = getReadableDatabase().rawQuery("SELECT id,praise,reference FROM praisesenglishkjvniv ", null);
+        while (localCursor.moveToNext()) {
+            sb.append("\n" + localCursor.getString(0) + ".  " + localCursor.getString(1) + "  ( " + localCursor.getString(2) + " )\n");
+        }
+        return sb.toString();
     }
 
     public String[] getSongDetails() {

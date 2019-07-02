@@ -19,15 +19,7 @@
         android:textSize="20.0sp"
         android:textStyle="bold" />
 
-    <Spinner
-        android:id="@+id/praises_spinner"
-        android:layout_width="wrap_content"
-        android:layout_height="40dip"
-        android:layout_marginLeft="135dip"
-        android:layout_marginRight="5dip"
-        android:layout_marginTop="11dip"
-        android:background="@color/colorPrimary"
-        android:entries="@array/list" />
+
 
     <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/scrollPraise"
