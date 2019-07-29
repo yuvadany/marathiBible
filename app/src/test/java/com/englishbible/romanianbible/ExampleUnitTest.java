@@ -1,4 +1,4 @@
-package com.englishbible.tamilbible;
+package com.englishbible.vietnamesebible;
 
 import org.junit.Test;
 
