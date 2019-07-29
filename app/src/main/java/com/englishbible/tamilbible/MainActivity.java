@@ -351,7 +351,7 @@ public class MainActivity extends AppCompatActivity
                 //raw text test starts
                 int num = 5;
                 int id = 8;
-                id = this.getResources().getIdentifier("ta_1_1", "raw", this.getPackageName());
+                id = this.getResources().getIdentifier("na_1_1", "raw", this.getPackageName());
                 InputStream inputStream = getResources().openRawResource(id);
                 ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
                 int in;
@@ -367,7 +367,7 @@ public class MainActivity extends AppCompatActivity
                     e.printStackTrace();
                 }
                 sharedpreferences = getSharedPreferences(SHARED_PREF, Context.MODE_PRIVATE);
-                ArrayAdapter praiseArrayAdapter5 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "ta_")) {
+                ArrayAdapter praiseArrayAdapter5 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "na_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -409,7 +409,7 @@ public class MainActivity extends AppCompatActivity
                 englishList.setAdapter(praiseArrayAdapter);
                 registerForContextMenu(englishList);
                 if ("hindi".equalsIgnoreCase(language)) {
-                    praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "ta_")) {
+                    praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "na_")) {
                         @Override
                         public View getView(int position, View convertView, ViewGroup parent) {
                             /// Get the Item from ListView
@@ -451,7 +451,7 @@ public class MainActivity extends AppCompatActivity
             }
             case R.id.chapters_spinner: {
                 sharedpreferences = getSharedPreferences(SHARED_PREF, Context.MODE_PRIVATE);
-                String file = "ta_" + getBook_number(sp1) + "_" + Integer.parseInt(sp2);
+                String file = "na_" + getBook_number(sp1) + "_" + Integer.parseInt(sp2);
                 String hindi_verse = "test ";
                 int id = 1;
                 id = this.getResources().getIdentifier(file, "raw", this.getPackageName());
@@ -470,7 +470,7 @@ public class MainActivity extends AppCompatActivity
                     e.printStackTrace();
                 }
 
-                ArrayAdapter praiseArrayAdapter6 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "ta_")) {
+                ArrayAdapter praiseArrayAdapter6 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "na_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -510,7 +510,7 @@ public class MainActivity extends AppCompatActivity
                 };
                 englishList.setAdapter(praiseArrayAdapter);
                 if ("hindi".equalsIgnoreCase(language)) {
-                    ArrayAdapter praiseArrayAdapter1 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "ta_")) {
+                    ArrayAdapter praiseArrayAdapter1 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "na_")) {
                         @Override
                         public View getView(int position, View convertView, ViewGroup parent) {
                             /// Get the Item from ListView
@@ -527,7 +527,7 @@ public class MainActivity extends AppCompatActivity
                         }
                     };
                     singleList.setAdapter(praiseArrayAdapter1);
-                    // single_text.setText(getVerse(sp1, sp2, "ta_"));
+                    // single_text.setText(getVerse(sp1, sp2, "na_"));
                 } else if ("niv".equalsIgnoreCase(language)) {
                     ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), englishBible_file)) {
                         @Override
@@ -625,7 +625,7 @@ public class MainActivity extends AppCompatActivity
                 singleList.setVisibility(View.VISIBLE);
                 hindiList.setVisibility(View.GONE);
                 englishList.setVisibility(View.GONE);
-                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "ta_")) {
+                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "na_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -693,7 +693,7 @@ public class MainActivity extends AppCompatActivity
                     }
                 };
                 englishList.setAdapter(praiseArrayAdapter2);
-                ArrayAdapter praiseArrayAdapter3 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "ta_")) {
+                ArrayAdapter praiseArrayAdapter3 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "na_")) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -896,7 +896,7 @@ public class MainActivity extends AppCompatActivity
         }
         for (int i = 1; i <= 66; i++) {
             for (int j = 1; j <= booksChapters.getChaptersCount(i); j++) {
-                file = "ta_" + i + "_" + j;
+                file = "na_" + i + "_" + j;
                 id = this.getResources().getIdentifier(file, "raw", this.getPackageName());
                 InputStream inputStream = getResources().openRawResource(id);
                 ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
