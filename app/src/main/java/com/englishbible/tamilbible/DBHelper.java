@@ -21,7 +21,7 @@ import java.util.Date;
 
 public class DBHelper
         extends SQLiteOpenHelper {
-    private static final String DATABASE_NAME = "dailyverseTamilEnglish1july19.sqlite";
+    private static final String DATABASE_NAME = "dailyverseTamilEnglish22july19.sqlite";
     private static final int DATABASE_VERSION = 1;
     private static final String DB_PATH_SUFFIX = "/databases/";
     static Context ctx;
@@ -204,6 +204,46 @@ public class DBHelper
         return str;
 
     }
+
+
+    public String[] getTamilSongDetails() {
+        File localFile = ctx.getDatabasePath(DATABASE_NAME);
+        try {
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
+        }
+        ArrayList localArrayList = new ArrayList();
+        Cursor localCursor = getReadableDatabase().rawQuery("SELECT TITLE_TAMIL FROM TAMILSONGS ORDER BY id", null);
+        int i = 1;
+        while (localCursor.moveToNext()) {
+            localArrayList.add(i + "." + localCursor.getString(0));
+            i++;
+        }
+        return (String[]) localArrayList.toArray(new String[localArrayList.size()]);
+    }
+
+    public String getTamilLyrics(String title) {
+        File localFile = ctx.getDatabasePath(DATABASE_NAME);
+        try {
+            if (!localFile.exists()) {
+                CopyDataBaseFromAsset();
+            }
+        } catch (Exception e) {
+            System.out.println("Error in saveBookmark");
+        }
+        Cursor localCursor = getReadableDatabase().rawQuery("Select  title_tamil,lyrics_tamil from TAMILSONGS where title_tamil ='" + title + "'", null);
+        int i = 0;
+        String str = new String();
+        while (localCursor.moveToNext()) {
+            str = localCursor.getString(0) + "\n" + localCursor.getString(1);
+        }
+        return str;
+
+    }
+
 
     public ArrayList searchSong(String word) {
         File localFile = ctx.getDatabasePath(DATABASE_NAME);

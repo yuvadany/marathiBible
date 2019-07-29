@@ -41,6 +41,7 @@ public class EditNotesActivity extends AppCompatActivity {
         id = (TextView) findViewById(R.id.id);
         id.setText("Id # " + notes_selected);
         save = (Button) findViewById(R.id.saveButton);
+        //;
         try {
             titleMessage = dbhelper.getTitleMessageById(notes_selected);
         } catch (Exception e) {

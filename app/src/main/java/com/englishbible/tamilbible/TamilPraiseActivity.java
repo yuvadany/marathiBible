@@ -54,6 +54,7 @@ public class TamilPraiseActivity extends AppCompatActivity /*implements AdapterV
         setTitle("ஸ்தோத்திர பலிகள் Sthothira Paligal");
         scroll = ((ScrollView) findViewById(R.id.scrollPraise));
         praises_text = ((TextView) findViewById(R.id.praises_text));
+       // praises_text = ((TextView) findViewById(R.id.praises_text));
       /* praises_spinner = (Spinner) findViewById(R.id.praises_spinner);
         praises_spinner.setOnItemSelectedListener(this);
         gestureDetector = new GestureDetector(TamilPraiseActivity.this, TamilPraiseActivity.this);*/

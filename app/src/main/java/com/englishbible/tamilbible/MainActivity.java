@@ -58,7 +58,7 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
-import static com.englishbible.tamilbible.BooksChapters.getChaptersCount;
+
 
 
 public class MainActivity extends AppCompatActivity
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity
     private Animation fab_open, fab_close, rotate_forward, rotate_backward;
     private FloatingActionButton fabShare, addNotes, fab1, fab2, fab3, fab4;
     private Boolean isFabOpen = false;
-    BooksChapters chapters = new BooksChapters();
+    BooksChapters booksChapters = new BooksChapters();
     String defaulthint = "Search here";
     ArrayList<String> listitems, verseDate;
     Button closePopupBtn, shareVerse, shareVerseOnly, shareEearchResult, closeShareResult;
@@ -800,7 +800,10 @@ public class MainActivity extends AppCompatActivity
             startActivity(new Intent(this, BookmarkActivity.class));
         } else if (id == R.id.settings) {
             startActivity(new Intent(this, SettingsActivity.class));
-        } else if (id == R.id.rate) {
+        }
+        else if (id == R.id.tamilSongs) {
+            startActivity(new Intent(this, TamilSongsActivity.class));
+        }else if (id == R.id.rate) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(app_url));
             startActivity(intent);
@@ -869,7 +872,7 @@ public class MainActivity extends AppCompatActivity
         words[0] = verse.substring(0, 1).toUpperCase() + verse.substring(1).toLowerCase();
         words[1] = verse.substring(0, 1).toLowerCase() + verse.substring(1).toLowerCase();
         for (int i = 1; i <= 66; i++) {
-            for (int j = 1; j <= getChaptersCount(i); j++) {
+            for (int j = 1; j <= booksChapters.getChaptersCount(i); j++) {
                 file = englishBible_file + i + "_" + j;
                 id = this.getResources().getIdentifier(file, "raw", this.getPackageName());
                 //  Toast.makeText(MainActivity.this,  this.getPackageName(), Toast.LENGTH_SHORT).show();
@@ -882,7 +885,7 @@ public class MainActivity extends AppCompatActivity
                     BufferedReader br = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
                     while ((line = br.readLine()) != null) {
                         if (line.contains(words[0]) || line.contains(words[1])) {
-                            sb.append(chapters.getBookName(i) + ":" + j + "\n" + line + "\n");
+                            sb.append(booksChapters.getBookName(i) + ":" + j + "\n" + line + "\n");
                         }
                     }
                     verses = sb.toString();
@@ -892,7 +895,7 @@ public class MainActivity extends AppCompatActivity
             }
         }
         for (int i = 1; i <= 66; i++) {
-            for (int j = 1; j <= getChaptersCount(i); j++) {
+            for (int j = 1; j <= booksChapters.getChaptersCount(i); j++) {
                 file = "ta_" + i + "_" + j;
                 id = this.getResources().getIdentifier(file, "raw", this.getPackageName());
                 InputStream inputStream = getResources().openRawResource(id);
@@ -904,7 +907,7 @@ public class MainActivity extends AppCompatActivity
                     BufferedReader br = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
                     while ((line = br.readLine()) != null) {
                         if (line.contains(words[0]) || line.contains(words[1])) {
-                            sb.append(chapters.getBookName(i) + ":" + j + "\n" + line + "\n");
+                            sb.append(booksChapters.getBookName(i) + ":" + j + "\n" + line + "\n");
                         }
                     }
                 } catch (IOException e) {
@@ -963,7 +966,7 @@ public class MainActivity extends AppCompatActivity
         booksArray = loadBooks();
         for (int i = 0; i < 66; i++) {
             if (booksArray[i].equalsIgnoreCase(bookName)) {
-                return getChaptersCount(i + 1);
+                return booksChapters.getChaptersCount(i + 1);
             }
         }
         return 1;
@@ -987,7 +990,7 @@ public class MainActivity extends AppCompatActivity
         int bookNumber = getBook_number(bookSpinner);
         int chapterNumber = Integer.parseInt(chapterSpinner);
         if (1 < chapterNumber) {
-            int totalChapters = getChaptersCount(bookNumber);
+            int totalChapters = booksChapters.getChaptersCount(bookNumber);
             if (totalChapters >= chapterNumber) {
                 return String.valueOf(chapterNumber);
             } else if (totalChapters < chapterNumber) {

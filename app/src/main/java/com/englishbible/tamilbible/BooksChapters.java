@@ -8,7 +8,7 @@ import java.util.Map;
  */
 public class BooksChapters {
 
-    public static int  getChaptersCount(int book)
+    public int  getChaptersCount(int book)
     {
         HashMap<Integer,Integer> booksChapters = new HashMap<Integer,Integer>();
         booksChapters.put(	1 , 50	);
@@ -80,7 +80,7 @@ public class BooksChapters {
         return booksChapters.get(book);
     }
 
-    public static String getBookName(int booknumber) {
+    public String getBookName(int booknumber) {
         Map<Integer, String> bookName = new HashMap<Integer, String>();
         bookName.put(1, "ஆதியாகமம்-Genesis");
         bookName.put(2, "யாத்திராகமம்-Exodus");
@@ -136,7 +136,7 @@ public class BooksChapters {
         bookName.put(52, "1 தெசலோனிக்கேயர்-1 Thessalonians");
         bookName.put(53, "2 தெசலோனிக்கேயர்-2 Thessalonians");
         bookName.put(54, "1 தீமோத்தேய-1 Timothy");
-        bookName.put(55, "2 தீமோத்தேய-2 Timothy");
+        bookName.put(55, "2 தீமோத்தேய-2 Timothy");;
         bookName.put(56, "தீத்து-Titus");
         bookName.put(57, "பிலேமோன்-Philemon");
         bookName.put(58, "எபிரெயர்-Hebrews");
