@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.englishbible.punjabibible">
+    package="com.englishbible.marathibible">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -10,25 +10,25 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.englishbible.punjabibible.TamilSongsActivity" />
+        <activity android:name="com.englishbible.marathibible.TamilSongsActivity" />
         <activity
-            android:name="com.englishbible.punjabibible.EditNotesActivity"
+            android:name="com.englishbible.marathibible.EditNotesActivity"
             android:label="Update Notes" />
         <activity
-            android:name="com.englishbible.punjabibible.AddNotesActivity"
+            android:name="com.englishbible.marathibible.AddNotesActivity"
             android:label="Add Notes" />
         <activity
-            android:name="com.englishbible.punjabibible.NotesViewActivity"
+            android:name="com.englishbible.marathibible.NotesViewActivity"
             android:label="Notes" />
         <activity
-            android:name="com.englishbible.punjabibible.NotesActivity"
+            android:name="com.englishbible.marathibible.NotesActivity"
             android:label="All Notes" />
-        <activity android:name="com.englishbible.punjabibible.QuotesActivity" />
-        <activity android:name="com.englishbible.punjabibible.TamilPraiseActivity" />
-        <activity android:name="com.englishbible.punjabibible.SettingsActivity" />
-        <activity android:name="com.englishbible.punjabibible.BookmarkActivity" />
+        <activity android:name="com.englishbible.marathibible.QuotesActivity" />
+        <activity android:name="com.englishbible.marathibible.TamilPraiseActivity" />
+        <activity android:name="com.englishbible.marathibible.SettingsActivity" />
+        <activity android:name="com.englishbible.marathibible.BookmarkActivity" />
         <activity
-            android:name="com.englishbible.punjabibible.MainActivity"
+            android:name="com.englishbible.marathibible.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -37,9 +37,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.englishbible.punjabibible.PraisesActivity" />
-        <activity android:name="com.englishbible.punjabibible.LyricsActivity" />
-        <activity android:name="com.englishbible.punjabibible.SongsActivity" />
+        <activity android:name="com.englishbible.marathibible.PraisesActivity" />
+        <activity android:name="com.englishbible.marathibible.LyricsActivity" />
+        <activity android:name="com.englishbible.marathibible.SongsActivity" />
     </application>
 
 </manifest>
