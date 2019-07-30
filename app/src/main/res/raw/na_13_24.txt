@@ -1,23 +1,55 @@
- 1 Nầy là ban thứ của con cháu A-rôn: Con trai của A-rôn là Na-đáp, A-bi-hu, Ê-lê-a-sa, và Y-tha-ma.
-2 Na-đáp và A-bi-hu chết trước cha của chúng và không có con; nên Ê-lê-a-sa và Y-tha-ma làm chức thầy tế lễ.
-3 Ða-vít khiến Xa-đốc, con cháu Ê-lê-a-sa, và A-hi-mê-léc, con cháu Y-tha-ma, phân ban thứ cho chúng tùy theo chức việc chúng làm.
-4 Trong con cái Ê-lê-a-sa có nhiều trưởng tộc hơn trong con cháu Y-tha-ma; họ phân ban thứ như về: về con cháu Ê-lê-a-sa có mười sáu trưởng tộc.
-5 Người ta bắt thăm phân chúng từng ban thứ, hoặc người nầy người kia; vì các trưởng của nơi thánh, và các trưởng của Ðức Chúa Trời đều thuộc trong con cháu Ê-lê-a-sa và trong con cháu Y-tha-ma.
-6 Sê-ma-gia, con trai của Na-tha-na-ên, người ký lục, thuộc trong chi phái Lê-vi, biên tên chúng vào sổ tại trước mặt vua và trước mặt các quan trưởng, trước mặt thầy tế lễ Xa-đốc, A-hi-mê-léc, con trai của A-bia-tha, và trước mặt các trưởng tộc của những thầy tế lễ và người Lê-vi; trong con cháu Ê-lê-a-sa bắt thăm lấy một họ hàng, rồi trong con cháu Y-tha-ma cũng bắt thăm lấy một họ hàng.
-7 Cái năm thứ nhứt trúng nhằm Giê-hô-gia-ríp; cái thăm thứ nhì nhằm Giê-đa-ê-gia; 8 cái thăm thứ ba nhằm Ha-rim; cái thăm thứ tư nhằm Sê-ô-rim; 9 cái thăm thứ năm nhằm Manh-kia; cái thăm thứ sáu nhằm Mia-min; 10 cái thăm thứ bảy nhằm Cốt; cái thăm thứ tám nhằm A-bi-gia; 11 cái thăm thứ chín nhằm Giê-sua; cái thăm thứ mười nhằm Sê-ca-nia; 12 cái thăm thứ mười một nhằm Ê-li-a-síp; cái thăm thứ mười hai nhằm Gia-kim; 13 cái thăm thứ mười ba nhằm Húp-ba; cái thăm thứ mười bốn nhằm Giê-sê-báp; 14 cái thăm thứ mười lăm nhằm Binh-ga; cái thăm thứ mười sáu nhằm Y-mê; 15 cái thăm thứ mười bảy nhằm Hê-xia; cái thăm thứ mười tám nhằm Phi-xết; 16 cái thăm thứ mười chín nhằm Phê-ta-hia, cái thăm thứ hai mươi nhằm Ê-xê-chi-ên; 17 cái thăm thứ hai mươi mốt nhằm Gia-kin; cái thăm thứ hai mươi hai nhằm Ga-mun; 18 cái thăm thứ hai mươi ba nhằm Ðê-la-gia; cái thăm thứ hai mươi bốn nhằm Ma-a-xia.
-19 Ấy đó là ban thứ của chúng trong chức việc mình, đặng vào trong đền của Ðức Giê-hô-va, tùy theo lịnh của A-rôn, tổ phụ chúng, đã truyền cho, y như Giê-hô-va Ðức Chúa Trời của Y-sơ-ra-ên đã phán dặn người.
-20 Nầy là con cháu của Lê-vi còn lại: về con cháu Am-ram có Su-ba-ên; về con cháu Su-ba-ên có Giê-đia.
-21 Về con cháu Rê-ha-bia có Di-si-gia làm trưởng.
-22 Trong con cháu Dít-sê-ha có Sê-lô-mốt; về con cháu Sê-lô-mốt có Gia-hát.
-23 Về con cháu Hếp-rôn có Giê-ri-gia, con trưởng; A-ma-ria thứ nhì, Gia-ha-xi-ên thứ ba, và Gia-ca-mê-am thứ tư.
-24 Về con cháu U-xi-ên có Mi-ca; về con cháu Mi-ca có Sa-mia.
-25 Anh em của Mi-ca là Dít-hi-gia; về con cháu Dít-hi-gia có Xa-cha-ri.
-26 Con trai Mê-ra-ri là Mác-li và Mu-si; con trai Gia-a-xi-gia là Bê-nô, 27 con cháu của Mê-ra-ri là Bê-nô, Sô-ham, Xác-cua, và Y-bê-ri, đều là con trai của Gia-a-xi-gia.
-28 Con trai của Mác-li là Ê-lê-a-sa, là người không có con trai.
-29 Về con cháu Kích có Giê-rác-mê-ên.
-30 Con trai của Mu-si là Mác-li, Ê-đe và Giê-ri-mốt.
-Ấy đó là con cháu Lê-vi, tùy theo tông tộc của chúng.
-31 Chúng cũng như anh em mình, là con cháu A-rôn, bắt thăm tại trước mặt vua Ða-vít, Xa-đốc, và A-hi-mê-léc, cùng trước mặt các trưởng tộc của những thầy tế lễ và người Lê-vi; các trưởng tộc cũng phải bắt thăm như các em út mình.
-         
+ 1 ਹਾਰੂਨ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਟੋਲੇ ਇਉਂ ਸਨ:
+ ਹਾਰੂਨ ਦੇ ਪੁੱਤਰ ਨਾਦਾਬ, ਅਬੀਹੂ, ਅਲਆਜ਼ਾਰ ਅਤੇ ਈਬਾਮਾਰ ਸਨ।
+ 2 ਪਰ ਨਾਦਾਬ ਅਤੇ ਅਬੀਹੂ ਬੇਔਲਾਦੇ ਹੀ ਆਪਣੇ ਪਿਤਾ ਦੇ ਮਰਨ ਤੋਂ ਵੀ ਪਹਿਲਾਂ ਹੀ ਮਰ ਗਏ।
+ ਇਸ ਲਈ ਅਲਆਜ਼ਾਰ ਅਤੇ ਈਬਾਮਾਰ ਨੇ ਜਾਜਕ ਦੇ ਰੂਪ 'ਚ ਕੰਮ ਕੀਤਾ।
+ 3 ਦਾਊਦ ਨੇ ਅਲਆਜ਼ਾਰ ਅਤੇ ਈਬਾਮਾਰ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਨੂੰ ਦੋ ਅਲੱਗ-ਅਲੱਗ ਟੋਲਿਆਂ ਵਿੱਚ ਵੰਡ ਦਿੱਤਾ।
+ ਤਾਂ ਜੋ ਉਨ੍ਹਾਂ ਨੂੰ ਜੋ-ਜੋ ਕੰਮ ਸੌਂਪੇ ਗਏ ਹਨ, ਉਹ ਆਪਣੇ ਕੰਮਾਂ ਦੇ ਫ਼ਰਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੰਭਾਲਣ ਅਤੇ ਕਰਨ।
+ ਦਾਊਦ ਨੇ ਇਹ ਕਾਰਜ ਸਾਦੋਕ ਅਤੇ ਅਹੀਮਲਕ ਦੀ ਮਦਦ ਨਾਲ ਕੀਤਾ।
+ ਸਾਦੋਕ ਅਲਆਜ਼ਾਰ ਦੇ ਉੱਤਰਾਧਿਕਾਰੀਆਂ ਵਿੱਚੋਂ ਸੀ ਅਤੇ ਅਹੀਮਲਕ ਈਬਾਮਾਰ ਦੀ।
+ 4 ਅਲਆਜ਼ਾਰ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਈਬਾਮਾਰ ਦੇ ਘਰਾਣੇ ਦੀ ਬਜਾਇ ਵਧੇਰੇ ਸਰਦਾਰ ਆਗੂ ਸਨ।
+ ਅਲਆਜ਼ਾਰ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਸੋਲ੍ਹਾਂ ਅਤੇ ਈਬਾਮਾਰ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਅੱਠ ਆਗੂ ਸਨ।
+ 5 ਗੁਣਾ ਸੁੱਟ ਕੇ ਹਰੇਕ ਘਰਾਣਿਆਂ ਵਿੱਚੋਂ ਮਨੁੱਖਾਂ ਦੀ ਚੋਣ ਕੀਤੀ ਗਈ।
+ ਉਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕੁਝ ਆਦਮੀਆਂ ਨੂੰ ਪਵਿੱਤਰ ਅਸਬਾਨ ਦਾ ਮੁਖੀ ਬਾਪਿਆ ਗਿਆ ਅਤੇ ਕੁਝ ਨੂੰ ਜਾਜਕ ਦਾ ਕਾਰਜ ਸੰਭਾਲਿਆ ਗਿਆ।
+ ਪਰ ਇਹ ਸਾਰੇ ਮਨੁੱਖ ਅਲਆਜ਼ਾਰ ਅਤੇ ਈਬਾਮਾਰ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਸਨ।
+ 6 ਸ਼ਮਅਯਾਹ ਉਨ੍ਹਾਂ ਦਾ ਸਕੱਤਰ ਸੀ ਜੋ ਕਿ ਨਬਨਿੇਲ ਦਾ ਪੁੱਤਰ ਸੀ।
+ ਸ਼ਮਅਯਾਹ ਲੇਵੀਆਂ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸੀ ਜੋ ਕਿ ਉਨ੍ਹਾਂ ਵੰਸ਼ਜਾਂ ਦੇ ਨਾਂ ਲਿਖਣ ਦਾ ਕਾਰਜ ਕਰਦਾ ਸੀ।
+ ਉਸਨੇ ਉਨ੍ਹਾਂ ਦੇ ਨਾਉਂ ਦਾਊਦ ਦੀ ਹਾਜ਼ਰੀ ਵਿੱਚ ਲਿਖੇ ਅਤੇ ਇਹ ਆਗੂ ਸਨ:
+ ਸਾਦੋਕ ਜਾਜਕ, ਅਹੀਮਲਕ ਅਤੇ ਜਾਜਕਾਂ ਅਤੇ ਲੇਵੀਆਂ ਦੇ ਘਰਾਣੇ ਦੇ ਆਗੂ ਸਨ।
+ ਅਹੀਮਲਕ ਅਬਯਾਬਾਰ ਦਾ ਪੁੱਤਰ ਸੀ।
+ ਹਰ ਵਾਰ ਗੁਣਾ ਸੁੱਟ ਕੇ ਮਨੁੱਖ ਦੀ ਚੋਣ ਕੀਤੀ ਜਾਂਦੀ ਅਤੇ ਸ਼ਮਅਯਾਹ ਲਿਖਾਰੀ ਉਨ੍ਹਾਂ ਦੇ ਨਾਉਂ ਲਿਖ ਦਿੰਦਾ।
+ ਇਉਂ ਉਨ੍ਹਾਂ ਅਲਆਜ਼ਾਰ ਅਤੇ ਈਬਾਮਾਰ ਘਰਾਣਿਆਂ ਦੇ ਮਨੁੱਖਾਂ ਦੇ ਕੰਮ ਵੰਡੇ ਹੋਏ ਸਨ।
+ 7 ਪਹਿਲਾ ਟੋਲਾ ਯਹੋਯਾਰੀਬ ਦਾ ਸੀ।
+ ਦੂਜਾ ਟੋਲਾ ਯਿਦਅਯਾਹ ਦਾ।
+ 8 ਤੀਜਾ ਟੋਲਾ ਹਾਰੀਮ ਦਾ ਚੌਬਾ ਸਓਰੀਮ ਦਾ।
+ 9 ਪੰਜਵਾ ਟੋਲਾ ਮਲਕੀਯਾਹ ਅਤੇ ਛੇਵਾਂ ਮੀਯਾਮੀਨ ਦਾ।
+ 10 ਸੱਤਵਾਂ ਟੋਲਾ ਹਕ੍ਕੋਸ ਦਾ ਅਤੇ ਅੱਠਵਾਂ ਟੋਲਾ ਅਬੀਯਾਹ ਦਾ।
+ 11 ਨੌਵਾਂ ਯੇਸ਼ੂਆ ਦਾ ਟੋਲਾ ਤੇ ਦਸਵਾਂ ਸ਼ਕਨਯਾਹ ਟੋਲਾ ਸੀ।
+ 12 ਗਿਆਰ੍ਹਵਾਂ ਅਲਯਾਸ਼ੀਬ ਦਾ ਅਤੇ ਬਾਰ੍ਹਵਾਂ ਟੋਲਾ ਯਾਕੀਮ ਦਾ ਸੀ।
+ 13 ਤੇਰ੍ਹਵਾਂ ਟੋਲਾ ਹੁਪ੍ਪਾਹ ਦਾ ਤੇ ਚੌਦਵਾਂ ਟੋਲਾ ਯਸ਼ਬਆਬ ਦਾ।
+ 14 ਪਂਦਰਵਾਂ ਟੋਲਾ ਬਿਲਗਾਹ ਦਾ ਸੋਲ੍ਹਵਾਂ ਇਂਮੇਰ ਦਾ।
+ 15 ਸਤਾਰ੍ਹਵਾਂ ਹੇਜ਼ੀਰ ਦਾ ਟੋਲਾ ਅਤੇ ਅਠਾਰ੍ਹਵਾਂ ਟੋਲਾ ਹਪ੍ਪੀਸੇਁਸ ਦਾ।
+ 16 ਉਨ੍ਹੀਵਾਂ ਟੋਲਾ ਪਬਹਯਾਹ, 20 ਵਾਂ ਯਹਜ਼ਕੇਲ ਦਾ ਸੀ।
+ 17 ਇੱਕੀਵਾਂ ਟੋਲਾ ਯਾਕੀਨ ਦਾ 22 ਵਾਂ ਗਾਮੂਲ ਦਾ।
+ 18 ਤੇਈਵਾਂ ਦਲਾਯਾਹ ਦਾ ਟੋਲਾ ਅਤੇ ਚੌਵੀਵਾਂ ਮਅਜ਼ਯਾਹ ਦਾ ਟੋਲਾ ਸੀ।
+ 19 ਇਹ ਸਾਰੇ ਟੋਲੇ ਯਹੋਵਾਹ ਦੇ ਮੰਦਰ ਦੀ ਸੇਵਾ ਸੰਭਾਲ ਕਰਨ ਲਈ ਚੁਣੇ ਗਏ।
+ ਇਨ੍ਹਾਂ ਨੇ ਮੰਦਰ ਦੀ ਸੇਵਾ ਲਈ ਹਾਰੂਨ ਦੇ ਹੁਕਮਾਂ ਦਾ ਪਾਲਣ ਕੀਤਾ ਜਿਹੜੇ ਕਿ ਯਹੋਵਾਹ ਇਸਰਾਏਲ ਦੇ ਪਰਮੇਸ਼ੁਰ ਨੇ ਹਾਰੂਨ ਨੂੰ ਦਿੱਤੇ ਸਨ।
+ 20 ਲੇਵੀਆਂ ਦੇ ਬਾਕੀ ਉੱਤਰਾਧਿਕਾਰੀਆਂ ਦੇ ਨਾਂ ਇਉਂ ਸਨ:
+ ਅਮਰਾਮ ਦੇ ਉੱਤਰਾਧਿਕਾਰੀਆਂ ਵਿੱਚੋਂ ਸ਼ੂਬਾੇਲ ਅਤੇ ਸ਼ੂਬਾੇਲ ਦੇ ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ ਜਹਦਯਾਹ।
+ 21 ਰਹਬਯਾਹ ਵਿੱਚੋਂ ਯਿਸ਼੍ਸ਼ਾਯਾਹ (ਜੋ ਕਿ ਸਭ ਤੋਂ ਵੱਡਾ ਪੁੱਤਰ ਸੀ।
+) 22 ਯਿਸ੍ਸਹਾਰੀਆਂ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਸ਼ਲੋਮੋਬ ਅਤੇ ਸ਼ਲੋਮੋਬ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਯਹਬ।
+ 23 ਹਬਰੋਨ ਦੇ ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ ਸਭ ਤੋਂ ਵੱਡਾ ਯਰੀਯਾਹ ਸੀ ਅਤੇ ਅਮਰਯਾਹ ਹਬਰੋਨ ਦਾ ਦੂਜਾ ਪੁੱਤਰ ਸੀ, ਯਹਜ਼ੀੇਲ ਤੀਜਾ ਅਤੇ ਯਕਮਆਮ ਚੌਬਾ ਸੀ।
+ 24 ਉਜ਼ੀੇਲ੍ਲ ਦਾ ਪੁੱਤਰ ਮੀਕਾਹ ਅਤੇ ਮੀਕਾਹ ਦਾ ਪੁੱਤਰ ਸ਼ਾਮੀਰ ਸੀ।
+ 25 ਯਿਸ਼੍ਸ਼ੀਯਾਹ ਮੀਕਾਹ ਦਾ ਭਰਾ ਸੀ ਅਤੇ ਯਿਸ਼੍ਸ਼ੀਯਾਹ ਦਾ ਪੁੱਤਰ ਜ਼ਕਰਯਾਹ।
+ 26 ਮਰਾਰੀ ਦੇ ਉੱਤਰਾਧਿਕਾਰੀ ਮਹਲੀ ਤੇ ਮੂਸ਼ੀ ਅਤੇ ਉਸਦਾ ਪੁੱਤਰ ਯਅਜ਼ੀਯਾਹ ਸੀ।
+ 27 ਮਰਾਰੀ ਦੇ ਪੁੱਤਰ ਯਅਜ਼ੀਯਾਹ ਦੇ ਪੁੱਤਰ ਸ਼ੋਹਮ, ਜ਼ਕ੍ਕੂਰ ਅਤੇ ਇਬਰੀ ਸਨ।
+ 28 ਮਹਲੀ ਦਾ ਪੁੱਤਰ ਅਲਆਜ਼ਾਰ ਸੀ ਪਰ ਅਲਆਜ਼ਾਰ ਦੇ ਘਰ ਕੋਈ ਪੁੱਤਰ ਨਾ ਜੰਮਿਆ।
+ 29 ਕੀਸ਼ ਦੇ ਪੁੱਤਰ ਦਾ ਨਾਂ ਯਰਹਮੇਲ ਸੀ।
+ 30 ਮੂਸ਼ੀ ਦੇ ਪੁੱਤਰ ਮਹਲੀ, ੇਦਰ ਅਤੇ ਯਿਰੀਮੋਬ ਸਨ।
+ਇਹ ਲੇਵੀ ਆਗੂ ਉਨ੍ਹਾਂ ਦੇ ਪਰਿਵਾਰਾਂ ਮੁਤਾਬਕ ਦਰਜ ਕੀਤੇ ਗਏ ਸਨ।
+ 31 ਇਨ੍ਹਾਂ ਨੂੰ ਵਿਸ਼ੇਸ਼ ਕੰਮਾਂ ਲਈ ਚੁਣਿਆ ਗਿਆ ਸੀ।
+ ਉਨ੍ਹਾਂ ਨੇ ਆਪਣੇ ਰਿਸ਼ਤੇਦਾਰਾਂ, ਜਾਜਕਾਂ ਵਾਂਗ ਗੁਣੇ ਪਾਏ।
+ ਜਾਜਕ ਹਾਰੂਨ ਦੇ ਉੱਤਰਾਧਿਕਾਰੀ ਸਨ ਜਿਨ੍ਹਾਂ ਨੇ ਰਾਜੇ ਦਾਊਦ, ਸਾਦੋਕ, ਅਹੀਮਲਕ, ਅਤੇ ਜਾਜਕਾਂ ਦੇ ਪਰਿਵਾਰਾਂ ਦੇ ਆਗੂਆਂ ਅਤੇ ਲੇਵੀ ਪਰਿਵਾਰਾਂ ਦੇ ਸਾਮ੍ਹਣੇ ਗੁਣੇ ਪਾਏ ਸਨ।
+ ਜਦੋਂ ਇਨ੍ਹਾਂ ਦੇ ਕੰਮ ਦੀ ਚੋਣ ਹੁੰਦੀ ਸੀ ਤਾਂ ਵੱਡੇ-ਛੋਟੇ ਘਰਾਣਿਆਂ ਨੂੰ ਬਰਾਬਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਵੇਖਿਆ ਜਾਂਦਾ ਸੀ।
+ 31          
 
 

@@ -1,61 +1,109 @@
- 1 Xảy sau tai vạ nầy, Ðức Giê-hô-va phán cùng Môi-se và Ê-lê-a-sa, con trai A-rôn, thầy tế lễ, mà rằng: 2 Hãy dựng sổ cả hội chúng Y-sơ-ra-ên, từ hai mươi tuổi sắp lên, tùy theo tông tộc của họ, tức là hết thảy người trong Y-sơ-ra-ên đi ra trận được.
-3 Vậy, Môi-se và Ê-lê-a-sa, thầy tế lễ, nói cùng dân Y-sơ-ra-ên trong đồng Mô-áp gần sông Giô-đanh, đối ngang Giê-ri-cô, mà rằng: 4 Hãy tu bộ dân sự từ hai mươi tuổi sắp lên, như Ðức Giê-hô-va đã phán dặn Môi-se và dân Y-sơ-ra-ên, mà đã ra khỏi xứ Ê-díp-tô.
-5 Ru-bên, con trưởng nam của Y-sơ-ra-ên.
-Con trai Ru-bên là Hê-nóc; do nơi người sanh ra họ Hê-nóc; do nơi Pha-lu sanh họ Pha-lu; 6 do nơi Hết-rôn sanh họ Hết-rôn; do nơi Cạt-mi sanh ra họ Cạt-mi.
-7 Ðó là các họ của Ru-bên, và những tên người mà người ta tu bộ, cộng được bốn mươi ba ngàn bảy trăm ba mươi.
-8 Con trai Pha-lu là Ê-li-áp.
-9 Các con trai của Ê-li-áp là Nê-mu-ên, Ða-than và A-bi-ram.
-Ấy là Ða-than và A-bi-ram nầy, trưởng của hội chúng dấy loạn cùng Môi-se và A-rôn, tại phe đảng Cô-rê, khi họ dấy loạn cùng Ðức Giê-hô-va.
-10 Ấy, khi đất hả miệng ra nuốt hai người và Cô-rê cùng những kẻ đã hiệp đảng chết luôn, lúc lửa thiêu nuốt hai trăm rưởi người; họ làm gương như vậy.
-11 Nhưng các con trai Cô-rê không chết.
-12 Các con trai Si-mê-ôn, tùy theo họ hàng mình: do nơi Nê-mu-ên sanh ra họ Nê-mu-ên; do nơi Gia-min sanh ra họ Gia-min; do nơi Gia-kin sanh ra họ Gia-kin; 13 do nơi Xê-rách sanh ra họ Xê-rách; do nơi Sau-lơ sanh ra họ Sau-lơ.
-14 Ðó là các họ của Si-mê-ôn: số là hai mươi hai ngàn hai trăm người.
-15 Các con trai của Gát, tùy theo họ hàng mình: do nơi Xê-phôn sanh ra họ Xê-phôn; do nơi Ha-ghi sanh ra họ Ha-ghi; do nơi Su-ni sanh ra họ Su-ni; 16 do nơi Oùc-ni sanh ra họ Oùc-ni; do nơi Ê-ri sanh ra họ Ê-ri; 17 do nơi A-rốt sanh ra họ A-rốt; do nơi A-rê-li sanh ra họ A-rê-li.
-18 Ðó là các họ của những con trai Gát, tùy theo tu bộ: số là bốn mươi ngàn năm trăm người.
-19 Các con trai Giu-đa: Ê-rơ và Ô-nan; nhưng Ê-rơ và Ô-nan đã qua đời tại xứ Ca-na-an.
-20 Các con trai Giu-đa, tùy theo họ hàng mình: do nơi Sê-la sanh ra họ Sê-la; do nơi Phê-rết sanh ra họ Phê-rết; do nơi Xê-rách sanh ra họ Xê-rách.
-21 Các con trai của Pha-rết: do nơi Hết-rôn sanh ra họ Hết-rôn; do nơi Ha-mun sanh ra họ Ha-mun.
-22 Ðó là các họ của Giu-đa, tùy theo tu bộ: số là bảy mươi sáu ngàn năm trăm người.
-23 Các con trai Y-sa-ca, tùy theo họ hàng mình: do nơi Thô-la sanh ra họ Thô-la; do nơi Phu-va sanh ra họ Phu-va; 24 do nơi Gia-súp sanh ra họ Gia-súp; do nơi Sim-rôn sanh ra họ Sim-rôn.
-25 Ðó là các họ Y-sa-ca, tùy theo tu bộ: số là sáu mươi bốn ngàn ba trăm người.
-26 Các con trai Sa-bu-lôn, tùy theo họ hàng mình: do nơi Sê-rết sanh ra họ Sê-rết; do nơi Ê-lôn sanh ra họ Ê-lôn; do nơi Gia-lê-ên sanh ra họ Gia-lê-ên.
-27 Ðó là các họ của Sa-bu-lôn tùy theo tu bộ: số là sáu mươi ngàn năm trăm người.
-28 Các con trai Giô-sép, tùy theo họ hàng mình, là Ma-na-se và Ép-ra-im.
-29 Các con trai Ma-na-se: do nơi Ma-ki sanh ra họ Ma-ki, Ma-ki sanh Ga-la-át: do nơi Ga-la-át sanh ra họ Ga-la-át.
-30 Nầy là các con trai Ga-la-át: do nơi Giê-xe sanh ra họ Giê-xe; do nơi Hê-léc sanh ra họ Hê-léc; 31 do nơi Ách-ri-ên sanh ra họ Ách-ri-ên; do nơi Si-chem sanh ra họ Si-chem; 32 do nơi Sê-mi-đa sanh ra họ Sê-mi-đa; do nơi Hê-phe sanh ra họ Hê-phe.
-33 Vả, Xê-lô-phát, con trai Hê-phe, không có con trai, nhưng có con gái.
-Tên các con gái Xê-lô-phát là Mách-la, Nô-a, Hốt-la, Minh-ca và Thiệt-sa.
-34 Ðó là các họ Ma-na-se, tùy theo tu bộ: số là năm mươi hai ngàn bảy trăm người.
-35 Nầy là các con trai Ép-ra-im, tùy theo họ hàng mình: do nơi Su-thê-lách sanh ra họ Su-thê-rách; do nơi Bê-ke sanh ra họ Bê-ke; do nơi Tha-chan sanh ra họ Tha-chan.
-36 Nầy là con trai của Su-thê-lách: do nơi Ê-ran sanh ra họ Ê-ran.
-37 Ðó là họ của các con trai Ép-ra-im, tùy theo tu bộ: số là ba mươi hai ngàn năm trăm người.
-Ấy là các con trai Giô-sép, tùy theo họ hàng mình vậy.
-38 Các con trai Bên gia-min, tùy theo họ hàng mình: do nơi Bê-la sanh ra họ Bê-la; do nơi Ách-bên sanh ra họ Ách-bên, do nơi A-chi-ram sanh ra họ A-chi-ram; 39 do nơi Sê-phu-pham sanh ra họ Sê-phu-pham; do nơi Hu-pham sanh ra họ Hu-pham.
-40 Các con trai Bê-la là A-rết và Na-a-man; do nơi A-rết sanh ra họ A-rết; do nơi Na-a-man sanh ra họ Na-a-man.
-41 Ðó là các con trai Bên-gia-min, tùy theo họ hàng và tùy theo tu bộ: số là bốn mươi lăm ngàn sáu trăm người.
-42 Nầy là các con trai của Ðan, tùy theo họ hàng mình: do nơi Su-cham sanh ra họ Su-cham.
-Ðó là họ của Ðan; 43 họ Su-cham, tùy theo tu bộ: số là sáu mươi bốn ngàn bốn trăm người.
-44 Các con trai A-se, tùy theo họ hàng mình: do nơi Di-ma sanh ra họ Di-ma; do nơi Dích-vi sanh ra họ Dích-vi; do nơi Bê-ri-a sanh ra họ Bê-ri-a.
-45 Các con trai Bê-ri-a: do nơi Hê-be sanh ra họ Hê-be; do nơi Manh-ki-ên sanh ra họ Manh-ki-ên.
-46 Tên của con gái A-se là Sê-rách.
-47 Ðó là những họ của các con trai A-se, tùy theo tu bộ: số là năm mươi ba ngàn bốn trăm người.
-48 Các con trai Nép-ta-li, tùy theo họ hàng mình: do nơi Giát-sê-ên sanh ra họ Giát-sê-ên; do nơi Gu-ni sanh ra họ Gu-ni; 49 do nơi Dít-se sanh ra họ Dít-se: do nơi Si-lem sanh ra họ Si-lem.
-50 Ðó là các họ của Nép-ta-li, tùy theo họ hàng và tu bộ mình: số là bốn mươi lăm ngàn bốn trăm người.
-51 Ðó là những người trong dân Y-sơ-ra-ên mà người ta tu bộ lại: số là sáu trăm một ngàn bảy trăm ba mươi người.
-52 Ðức Giê-hô-va phán cùng Môi-se rằng: 53 Phải tùy theo số các danh mà chia xứ ra cho những người nầy làm sản nghiệp; 54 chi phái nào số dân đông thì ngươi phải cho một sản nghiệp lớn hơn, chi phái nào số dân ít, thì phải cho một sản nghiệp nhỏ hơn, tức là phải cho mỗi chi phái sản nghiệp mình cân phân cùng số tu bộ.
-55 Nhưng phải bắt thăm mà chia xứ ra; dân Y-sơ-ra-ên sẽ lãnh phần sản nghiệp mình theo tên của các chi phái tổ tông.
-56 Phải tùy sự bắt thăm mà chia sản nghiệp ra cho mỗi chi phái, hoặc số dân đông hay ít.
-57 Nầy là người Lê-vi mà người ta tu bộ lại, tùy theo họ hàng mình: do nơi Ghẹt-sôn sanh ra họ Ghẹt-sôn; do nơi Kê-hát sanh ra họ Kê-hát; do nơi Mê-ra-ri sanh ra họ Mê-ra-ri.
-58 Nầy là các họ Lê-vi: họ Líp-ni, họ Hếp-rôn, họ Mách-li, họ Mu-si, họ Cô-rê.
-Vả, Kê-hát sanh Am-ram.
-59 Tên vợ Am-ram là Giô-kê-bết, con gái của Lê-vi, sanh trong xứ Ê-díp-tô; nàng sanh cho Am-ram, A-rôn, Môi-se và chị của hai người là Mi-ri-am.
-60 Còn A-rôn sanh Na-đáp và A-bi-hu, Ê-lê-a-sa và Y-tha-ma.
-61 Nhưng Na-đáp và A-bi-hu chết trong khi dâng một thứ lửa lạ trước mặt Ðức Giê-hô-va.
-62 Những nam đinh mà người ta tu bộ từ một tháng sắp lên, cộng được hai mươi ba ngàn; vì người Lê-vi không được kể vào số tu bộ của dân Y-sơ-ra-ên, bởi người Lê-vi không được phần sản nghiệp giữa dân Y-sơ-ra-ên.
-63 Ðó là sự tu bộ mà Môi-se và Ê-lê-a-sa, thầy tế lễ, làm về dân Y-sơ-ra-ên trong đồng bằng Mô-áp gần Giô-đanh, đối ngang Giê-ri-cô.
-64 Trong các người nầy không có một ai thuộc về bọn mà Môi-se và A-rôn, thầy tế lễ, đã kiểm soát khi hai người tu bộ dân Y-sơ-ra-ên tại đồng vắng Si-na-i.
-65 Vì Ðức Giê-hô-va có phán về bọn đó rằng: Chúng nó hẳn sẽ chết trong đồng vắng!
- Vậy, chẳng còn lại một tên, trừ ra Ca-lép, con trai Giê-phu-nê, và Giô-suê, con trai Nun.
-         
+ 1 ਮਹਾਮਾਰੀ ਤੋਂ ਮਗਰੋਂ ਯਹੋਵਾਹ ਨੇ ਮੂਸਾ ਅਤੇ ਜਾਜਕ ਹਾਰੂਨ ਦੇ ਪੁੱਤਰ ਅਲਆਜ਼ਾਰ ਨਾਲ ਗੱਲ ਕੀਤੀ।
+ 2 ਉਸਨੇ ਆਖਿਆ, “ਇਸਰਾਏਲ ਦੇ ਲੋਕਾਂ ਦੀ ਗਿਣਤੀ ਕਰੋ।
+ ਉਨ੍ਹਾਂ ਸਾਰੇ ਆਦਮੀਆਂ ਦੀ ਗਿਣਤੀ ਕਰੋ ਜਿਹੜੇ 20 ਸਾਲਾਂ ਜਾਂ ਇਸਤੋਂ ਵਡੇਰੇ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਪਰਿਵਾਰਾਂ ਸਮੇਤ ਸੂਚੀ ਬਣਾਉ।
+ ਇਹ ਉਹ ਲੋਕ ਹਨ ਜਿਹੜੇ ਇਸਰਾਏਲ ਦੀ ਫ਼ੌਜ ਵਿੱਚ ਸੇਵਾ ਕਰਨ ਦੇ ਯੋਗ ਹਨ।
+” 3 ਇਹ ਯਰੀਹੋ ਦੇ ਸਾਮ੍ਹਣੇ ਪਾਸੇ ਯਰਦਨ ਨਦੀ ਦੇ ਨੇੜੇ ਸੀ।
+ ਇਸ ਲਈ ਮੂਸਾ ਅਤੇ ਅਲਆਜ਼ਾਰ ਨੇ ਲੋਕਾਂ ਨਾਲ ਗੱਲ ਕੀਤੀ।
+ ਉਨ੍ਹਾਂ ਨੇ ਆਖਿਆ, 4 “ਤੁਹਾਨੂੰ ਹਰ ਉਸ ਬੰਦੇ ਦੀ ਗਿਣਤੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਜਿਹੜਾ 20 ਸਾਲਾਂ ਜਾਂ ਇਸਤੋਂ ਵਡੇਰੀ ਉਮਰ ਦਾ ਹੈ।
+ ਯਹੋਵਾਹ ਨੇ ਮੂਸਾ ਨੂੰ ਇਹ ਆਦੇਸ਼ ਦਿੱਤਾ ਸੀ।
+”ਇਹ ਇਸਰਾਏਲ ਦੇ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਦੀ ਸੂਚੀ ਹੈ ਜਿਹੜੇ ਮਿਸਰ ਵਿੱਚੋਂ ਬਾਹਰ ਆਏ ਸਨ:
+ 5 ਇਹ ਰਊਬੇਨ ਦੇ ਪਰਿਵਾਰ ਦੇ ਲੋਕ ਹਨ।
+ (ਰਊਬੇਨ ਇਸਰਾਏਲ) ਦਾ ਪਲੇਠਾ ਪੁੱਤਰ ਸੀ।
+ ਪਰਿਵਾਰ ਸਨ:
+ 6 ਹਸਰੋਨ - ਹਸਰੋਨੀਆ ਪਰਿਵਾਰ।
+ 7 ਇਹ ਰਊਬੇਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ।
+ ਇਨ੍ਹਾਂ ਵਿੱਚ ਕੁੱਲ 43,730 ਆਦਮੀ ਸਨ।
+ 8 ਪੱਲੂ ਦਾ ਪੁੱਤਰ ਸੀ ਅਲੀਆਬ।
+ 9 ਅਲੀਆਬ ਦੇ ਤਿੰਨ ਪੁੱਤਰ ਸਨ - ਨਮੂਏਲ, ਦਾਥਾਨ ਅਤੇ ਅਬੀਰਾਮ।
+ ਚੇਤੇ ਕਰੋ, ਦਾਥਾਨ ਅਤੇ ਅਬੀਰਾਮ ਉਹ ਦੋ ਆਗੂ ਸਨ ਜਿਹੜੇ ਮੂਸਾ ਅਤੇ ਹਾਰੂਨ ਦੇ ਵਿਰੁੱਧ ਹੋ ਗਏ ਸਨ।
+ ਉਹ ਕੋਰਹ ਦੇ ਪਿਛੇ ਲੱਗੇ ਸਨ ਜਦੋਂ ਕੋਰਹ ਯਹੋਵਾਹ ਦੇ ਵਿਰੁੱਧ ਹੋ ਗਿਆ ਸੀ।
+ 10 ਇਹ ਉਹ ਸਮਾਂ ਸੀ ਜਦੋਂ ਧਰਤੀ ਪਾਟ ਗਈ ਸੀ ਅਤੇ ਕੋਰਹ ਅਤੇ ਉਸਦੇ ਸਾਰੇ ਅਨੁਯਾਈਆਂ ਨੂੰ ਨਿਗਲ ਗਈ ਸੀ।
+ ਅਤੇ 250 ਆਦਮੀ ਮਾਰੇ ਗਏ ਸਨ।
+ ਇਹ ਇਸਰਾਏਲ ਦੇ ਸਮੂਹ ਲੋਕਾਂ ਲਈ ਇੱਕ ਚਿਤਾਵਨੀ ਸੀ।
+ 11 ਪਰ ਕੋਰਹ ਪਰਿਵਾਰ ਦੇ ਹੋਰ ਲੋਕ ਵੀ ਸਨ ਜਿਹੜੇ ਮਾਰੇ ਨਹੀਂ ਗਏ ਸਨ।
+ 12 ਇਹ ਸ਼ਿਮਓਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 13 ਜ਼ਰਹ - ਜ਼ਰਹੀਆਂ ਪਰਿਵਾਰ।
+ 14 ਇਹ ਸ਼ਿਮਓਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ।
+ ਇਸ ਵਿੱਚ ਕੁੱਲ 22 ,200 ਅਦਮੀ ਸਨ।
+ 15 ਇਹ ਗਾਦ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 16 ਆਜ਼ਨੀ - ਆਜ਼ਨੀਆਂ ਪਰਿਵਾਰ।
+ 17 ਅਰੋਦ - ਅਰੋਦੀਆਂ ਪਰਿਵਾਰ।
+ 18 ਇਹ ਪਰਿਵਾਰ ਗਾਦ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸਨ।
+ ਇਸ ਵਿੱਚ ਕੁੱਲ 40,500 ਆਦਮੀ ਸਨ।
+ 19 ਇਹ ਯਹੂਦਾਹ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਹਨ:
+ 20 21 ਇਹ ਪਰਸ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 22 ਇਹ ਪਰਿਵਾਰ ਯਹੂਦਾਹ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸਨ।
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 76,500 ਸੀ।
+ 23 ਯਿੱਸਾਕਾਰ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 24 ਯਾਸੂਬ - ਯਾਸੂਬੀਆਂ ਪਰਿਵਾਰ।
+ 25 ਇਹ ਪਰਿਵਾਰ ਯਿੱਸਾਕਾਰ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸਨ।
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 64,300 ਸੀ।
+ 26 ਜ਼ਬੂਲੁਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 27 ਇਹ ਜ਼ਬੂਲੁਨੀਆਂ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 60,500 ਸੀ।
+ 28 ਯੂਸੁਫ਼ ਦੇ ਦੋ ਪੁੱਤਰ ਸਨ ਮਨਸ਼ਹ ਅਤੇ ਅਫ਼ਰਾਈਮ ਹਰ ਪੁੱਤਰ ਆਪੋ-ਆਪਣੇ ਪਰਿਵਾਰ ਨਾਲ ਇੱਕ ਪਰਿਵਾਰ-ਸਮੂਹ ਬਣ ਗਿਆ।
+ 29 ਮਨਸ਼ਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 30 ਗਿਲਆਦ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 31 ਅਸਰੀਏਲ - ਅਸਰੀਏਲੀਆਂ ਪਰਿਵਾਰ।
+ 32 ਸ਼ਮੀਦਾ - ਸ਼ਮੀਦਾਈਆਂ ਪਰਿਵਾਰ।
+ 33 ਸਲਾਫ਼ਹਾਦ ਹੇਫ਼ਰ ਦਾ ਪੁੱਤਰ ਸੀ।
+ ਪਰ ਉਸਦਾ ਕੋਈ ਪੁੱਤਰ ਨਹੀਂ ਸੀ - ਸਿਰਫ਼ ਧੀਆਂ ਸਨ।
+ ਉਸ ਦੀਆਂ ਧੀਆਂ ਦੇ ਨਾਮ ਸਨ ਮਹਲਾਹ, ਨੋਆਹ, ਹਾਗਲਾਹ, ਮਿਲਕਾਹ ਅਤੇ ਤਿਰਸਾਹ।
+ 34 ਉਹ ਸਾਰੇ ਮਨਸ਼ਹ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹਾਂ ਦੇ ਪਰਿਵਾਰ ਸਨ।
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 52,700 ਸੀ।
+ 35 ਅਫ਼ਰਾਈਮ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹਾਂ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 36 ਏਰਾਨ ਸੂਥਲਹ ਪਰਿਵਾਰ ਵਿੱਚੋਂ ਸੀ।
+ 37 ਇਹ ਅਫ਼ਰਾਈਮ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ।
+ ਕੁੱਲ ਆਦਮੀਆਂ ਦੀ ਗਿਣਤੀ 32,500 ਸੀ।
+ ਉਹ ਸਾਰੇ ਲੋਕ ਯੂਸੁਫ਼ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸਨ।
+ 38 ਬਿਨਯਾਮੀਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 39 ਸ਼ਫ਼ੂਫ਼ਾਮ - ਸ਼ਫ਼ੂਫ਼ਾਮੀਆਂ ਪਰਿਵਾਰ 40 ਬਲਾ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 41 ਇਹ ਸਾਰੇ ਪਰਿਵਾਰ ਬਿਨਯਾਮੀਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸਨ।
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 45,600 ਸੀ।
+ 42 ਦਾਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ਇਹ ਦਾਨ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦਾ ਪਰਿਵਾਰ ਸੀ।
+ 43 ਸ਼ੂਹਾਮ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਸਨ।
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 64,400 ਸੀ।
+ 44 ਆਸ਼ੇਰ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 45 ਬਰੀਯਾਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 46 (ਆਸ਼ੇਰ ਦੀ ਇੱਕ ਧੀ ਵੀ ਸੀ ਜਿਸਦਾ ਨਾਮ ਸਾਰਹ ਸੀ।
+) 47 ਇਹ ਆਸ਼ੇਰ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ।
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 53,400 ਸੀ।
+ 48 ਨਫ਼ਤਾਲੀ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ:
+ 49 ਯੇਸਰ - ਯੇਸਰੀਆਂ ਪਰਿਵਾਰ।
+ 50 ਇਹ ਨਫ਼ਤਾਲੀ ਦੇ ਪਰਿਵਾਰ - ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਸਨ।
+ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 45,400 ਸੀ।
+ 51 ਇਸ ਤਰ੍ਹਾਂ ਇਸਰਾਏਲ ਦੇ ਆਦਮੀਆਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 601,730 ਸੀ।
+ 52 ਯਹੋਵਾਹ ਨੇ ਮੂਸਾ ਨੂੰ ਆਖਿਆ, 53 “ਧਰਤੀ ਫ਼ੇਰ ਵੰਡੀ ਜਾਵੇਗੀ ਅਤੇ ਇਨ੍ਹਾਂ ਲੋਕਾਂ ਨੂੰ ਦਿੱਤੀ ਜਾਵੇਗੀ।
+ ਹਰੇਕ ਪਰਿਵਾਰ-ਸਮੂਹ ਨੂੰ ਗਿਣਤੀ ਕੀਤੇ ਗਏ ਲੋਕਾਂ ਲਈ ਧਰਤੀ ਮਿਲੇਗੀ।
+ 54 ਵੱਡੇ ਪਰਿਵਾਰ ਨੂੰ ਵਧੇਰੇ ਧਰਤੀ ਮਿਲੇਗੀ ਅਤੇ ਛੋਟੇ ਪਰਿਵਾਰ ਨੂੰ ਘੱਟ ਧਰਤੀ ਮਿਲੇਗੀ।
+ ਉਹ ਧਰਤੀ ਜਿਹੜੀ ਉਨ੍ਹਾਂ ਨੂੰ ਮਿਲੇਗੀ ਉਹ ਗਿਣਤੀ ਕੀਤੇ ਹੋਏ ਲੋਕਾਂ ਦੇ ਬਰਾਬਰ ਹੋਵੇਗੀ।
+ 55 ਪਰ ਤੁਹਾਨੂੰ ਗੁਣੇ ਪਾਕੇ ਨਿਰਣਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਕਿਹੜੇ ਪਰਿਵਾਰ ਨੂੰ ਧਰਤੀ ਦਾ ਕਿਹੜਾ ਭਾਗ ਮਿਲੇਗਾ।
+ ਹਰੇਕ ਪਰਿਵਾਰ-ਸਮੂਹ ਆਪਣਾ ਹਿੱਸਾ ਪ੍ਰਾਪਤ ਕਰੇਗਾ ਅਤੇ ਇਸਤੋਂ ਬਾਦ ਉਸ ਧਰਤੀ ਨੂੰ ਨਾਮ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ 56 ਵੱਡੀ ਜਾਂ ਛੋਟੀ ਧਰਤੀ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਦਿੱਤੀ ਜਾਵੇਗੀ।
+ ਅਤੇ ਤੁਸੀਂ ਨਿਰਣਾ ਕਰਨ ਲਈ ਗੁਣੇ ਪਾਵੋਂਗੇ।
+” 57 ਉਨ੍ਹਾਂ ਨੇ ਲੇਵੀ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੀ ਗਿਣਤੀ ਵੀ ਕੀਤੀ।
+ ਲੇਵੀ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਦੇ ਪਰਿਵਾਰ ਇਹ ਹਨ:
+ 58 ਇਹ ਪਰਿਵਾਰ ਵੀ ਲੇਵੀ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਹਨ:
+ਅਮਰਾਮ ਕਹਾਥ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸੀ।
+ 59 ਅਮਰਾਮ ਦੀ ਪਤਨੀ ਦਾ ਨਾਮ ਯੋਕਬਦ ਸੀ।
+ ਉਹ ਵੀ ਲੇਵੀ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਸੀ।
+ ਉਹ ਮਿਸਰ ਵਿੱਚ ਜੰਮੀ ਸੀ।
+ ਅਮਰਾਮ ਅਤੇ ਯੋਕਬਦ ਦੇ ਦੋ ਪੁੱਤਰ ਸਨ, ਹਾਰੂਨ ਅਤੇ ਮੂਸਾ।
+ ਉਨ੍ਹਾਂ ਦੀ ਇੱਕ ਧੀ ਵੀ ਸੀ, ਮਿਰਯਮ।
+ 60 ਹਾਰੂਨ ਨਾਦਾਮ, ਅਬੀਹੂ, ਅਲਆਜ਼ਾਰ ਅਤੇ ਈਥਾਮਾਰ ਦਾ ਪਿਤਾ ਸੀ।
+ 61 ਪਰ ਨਾਦਾਬ ਅਤੇ ਅਬੀਹੂ ਮਰ ਗਏ ਸਨ।
+ ਉਹ ਇਸ ਲਈ ਮਰ ਗਏ ਸਨ ਕਿਉਂਕਿ ਉਨ੍ਹਾਂ ਨੇ ਯਹੋਵਾਹ ਨੂੰ ਅਜਿਹੀ ਹੋਮ ਦੀ ਭੇਟ ਚੜਾਈ ਸੀ ਜਿਸਦੀ ਆਗਿਆ ਨਹੀਂ ਸੀ।
+ 62 ਲੇਵੀ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚ ਹਰ, ਇੱਕ ਮਹੀਨੇ ਅਤੇ ਇਸਤੋਂ ਵਧ ਉਮਰ ਵਾਲੇ ਨਰਾਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ 23 ,000 ਸੀ।
+ ਪਰ ਇਨ੍ਹਾਂ ਦੀ ਗਿਣਤੀ ਇਸਰਾਏਲ ਦੇ ਹੋਰਨਾਂ ਲੋਕਾਂ ਨਾਲ ਨਹੀਂ ਕੀਤੀ ਗਈ ਸੀ।
+ ਉਨ੍ਹਾ ਨੂੰ ਉਸ ਧਰਤੀ ਦਾ ਉਹ ਹਿੱਸਾ ਨਹੀਂ ਮਿਲਿਆ ਜਿਹੜੀ ਯਹੋਵਾਹ ਨੇ ਹੋਰਨਾਂ ਲੋਕਾਂ ਨੂੰ ਦਿੱਤੀ ਸੀ।
+ 63 ਮੂਸਾ ਅਤੇ ਜਾਜਕ ਅਲਆਜ਼ਾਰ ਨੇ ਇਨ੍ਹਾਂ ਸਾਰੇ ਲੋਕਾਂ ਦੀ ਗਿਣਤੀ ਉਦੋਂ ਕੀਤੀ ਜਦੋਂ ਉਹ ਮੋਆਬ ਵਿੱਚ ਯਰਦਨ ਵਾਦੀ ਵਿੱਚ ਸਨ।
+ ਇਹ ਯਰੀਹੋ ਤੋਂ ਯਰਦਨ ਨਦੀ ਦੇ ਪਾਰ ਸੀ।
+ 64 ਬਹੁਤ ਵਰ੍ਹੇ ਪਹਿਲਾਂ, ਸੀਨਈ ਮਾਰੂਥਲ ਵਿੱਚ ਮੂਸਾ ਅਤੇ ਜਾਜਕ ਹਾਰੂਨ ਨੇ ਇਸਰਾਏਲ ਦੇ ਲੋਕਾਂ ਦੀ ਗਿਣਤੀ ਕੀਤੀ ਸੀ।
+ ਪਰ ਉਹ ਸਾਰੇ ਲੋਕ ਮਰ ਚੁੱਕੇ ਸਨ।
+ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਵਿੱਚੋਂ ਕੋਈ ਵੀ ਹੁਣ ਜਿਉਂਦਾ ਨਹੀਂ ਸੀ।
+ 65 ਕਿਉਂਕਿ ਯਹੋਵਾਹ ਨੇ ਇਸਰਾਏਲ ਦੇ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਨੂੰ ਦੱਸਿਆ ਸੀ ਕਿ ਉਹ ਸਾਰੇ ਹੀ ਮਾਰੂਥਲ ਅੰਦਰ ਮਾਰੇ ਜਾਣਗੇ।
+ ਸਿਰਫ਼ ਦੋ ਬੰਦੇ ਜਿਹੜੇ ਜਿਉਂਦੇ ਬਚ ਗਏ ਸਨ ਉਹ ਸਨ ਯਫ਼ੁੰਨਹ ਦਾ ਪੁੱਤਰ ਕਾਲੇਬ ਅਤੇ ਨੂਨ ਦਾ ਪੁੱਤਰ ਯਹੋਸ਼ੁਆ।
+          
 
 

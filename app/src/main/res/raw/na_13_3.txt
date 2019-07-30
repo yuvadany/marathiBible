@@ -1,20 +1,56 @@
-1 Nầy là những con trai Ða-vít sanh tại Hếp-rôn: con trưởng nam là Am-nôn bởi A-hi-nô-am, người Gít-rê-ên; con thứ nhì là Ða-ni-ên bởi A-bi-ga-in, người Cạt-mên; 2 thứ ba, Áp-sa-lôm, con trai của Ma-a-ca, con gái của Tanh-mai, vua đất Ghê-su-rơ; thứ tư, A-đô-ni-gia, con trai của Ha-ghít; 3 thứ năm, Sê-pha-ti-a, con trai của A-bi-tanh; thứ sáu, Dít-rê-am, con của Éc-la, vợ Ða-vít.
-4 Sáu con trai nầy sanh tại Hếp-rôn; ở đó Ða-vít trị vì bảy năm sáu tháng; còn tại Giê-ru-sa-lem, Ða-vít trị vì ba mươi ba năm.
-5 Ðây là những con trai Ða-vít sanh tại Giê-ru-sa-lem: Si-mê-a, Sô-báp, Na-than, và Sa-lô-môn, cộng được bốn người, đều là con của Bát-sua, con gái của A-mi-ên.
-6 Lại có Gi-ba, E-li-sa-ma, Ê-li-phê-lết, 7 Nô-ga, Nê-phết, Gia-phia, 8 Ê-li-sa-ma, Ê-li-gia-đa, và Ê-li-phê-lết, cộng được chín người.
-9 Ấy là những con trai của Ða-vít, chẳng kể các con trai của những cung phi; và Ta-ma là chị em của chúng.
-10 Con trai Sa-lô-môn là Rô-bô-am, con trai Rô-bô-am là A-bi-gia, con trai A-bi-gia là A-sa, con trai A-sa là Giô-sa-phát, 11 con trai Giô-sa-phát là Giô-ram, con trai Giô-ram là A-cha-xia, con trai A-cha-xia là Giô-ách; 12 con trai Giô-ách là A-ma-xia, con trai A-ma-xia là A-xa-ria, con trai A-xa-ria là Giô-tham, 13 con trai Giô-tham là A-cha, con trai A-cha là Ê-xê-chia, con trai Ê-xê-chia là Ma-na-se, 14 con trai Ma-na-se là A-môn, con trai A-môn là Giô-si-a.
-15 Con trai của Giô-si-a: con trưởng nam là Giô-ha-nan; con thứ nhì là Giê-hô-gia-kim, thứ ba là Sê-đe-kia, thứ tư là Sa-lum.
-16 Con trai của Giê-hô-gia-kim là Giê-chô-nia và Sê-đê-kia.
-17 Con trai của Giê-chô-nia, tức người bị lưu đày, là Sa-la-thi-ên, 18 Manh-ki-ram, Phê-đa-gia, Sê-na-xa, Giê-ca-mia, Hô-sa-ma, và Nê-đa-bia.
-19 Con trai của Phê-đa-gia là Xô-rô-ba-bên và Si-mê-i.
-Con trai của Xô-rô-ba-bên là Mê-su-lam và Ha-na-nia; còn Sê-lô-mít là chị em của chúng.
-20 Lại có Ha-su-ba, Ô-hên, Bê-rê-kia, Ha-sa-đia, Du-sáp-Hê-rết, cộng là năm người.
-21 Con trai của Ha-na-nia là Phê-la-tia và Ê-sai; lại có con cháu Ô-ba-đia, và con cháu Sê-ca-nia.
-22 Con trai của Sê-ca-nia là Sê-ma-gia.
-Những con trai của Sê-ma-gia là Hát-túc, Di-ganh, Ba-ria, Nê-a-ria, và Sa-phát, cộng được sáu người.
-23 Con của Nê-a-ria là Ê-li-ô-ê-nai, Ê-xê-chia, và A-ri-kham, cộng được ba người.
-24 Con trai của Ê-li-ô-ê-nai là Hô-đa-via, Ê-li-a-síp, Phê-la-gia, A-cúp, Giô-ha-nan, Ðê-la-gia, và A-na-ni, cộng được bảy người.
-         
+1 ਦਾਊਦ ਦੇ ਕੁਝ ਪੁੱਤਰ ਹਬਰੋਨ ਸ਼ਹਿਰ ਵਿੱਚ ਜਨਮੇ ਸਨ।
+ ਉਨ੍ਹਾਂ ਦੀ ਸੂਚੀ ਇਉਂ ਹੈ:
+ਦਾਊਦ ਦਾ ਪਹਿਲਾ ਪੁੱਤਰ ਅਮਨੋਨ ਸੀ।
+ ਉਸਦੀ ਮਾਂ ਅਹੀਨੋਅਮ ਸੀ ਜੋ ਕਿ ਯਿਜ਼ਰੇਲ ਤੋਂ ਸੀ।
+ਉਸਦਾ ਦੂਜਾ ਪੁੱਤਰ ਦਾਨਿੇਲ ਸੀ, ਅਤੇ ਉਸਦੀ ਮਾਂ ਦਾ ਨਾਂ ਅਬੀਗੈਲ ਸੀ ਜੋ ਕਿ ਯਹੂਦਾਹ ਵਿੱਚ ਕਰਮਲ ਤੋਂ ਸੀ।
+ 2 ਉਸ ਦੇ ਤੀਜੇ ਪੁੱਤਰ ਦਾ ਨਾਂ ਸੀ ਅਬਸ਼ਾਲੋਮ।
+ ਉਹ ਮਅਕਾਹ ਦਾ ਪੁੱਤਰ ਸੀ।
+ ਇਹ ਗਸ਼ੂਰ ਦੇ ਰਾਜਾ ਤਲਮਈ ਦੀ ਧੀ ਸੀ।
+ ਦਾਊਦ ਦਾ ਚੌਬਾ ਪੁੱਤਰ ਅਦੋਨੀਯਾਹ ਸੀ ਅਤੇ ਉਸਦੀ ਮਾਂ ਹਗ੍ਗੀਬ ਸੀ।
+ 3 ਉਸ ਦਾ ਪੰਜਵਾਂ ਪੁੱਤਰ ਸ਼ਫਟਯਾਹ ਸੀ, ਉਸਦੀ ਮਾਂ ਅਬੀਟਾਲ ਸੀ।
+ਉਸ ਦਾ ਛੇਵਾਂ ਪੁੱਤਰ ਯਿਬਰਆਮ ਸੀ, ਅਤੇ ਉਸਦੀ ਮਾਂ ਅਗਲਾਹ ਸੀ।
+ 4 ਦਾਊਦ ਦੇ ਇਹ ਛੇ ਪੁੱਤਰ ਹਬਰੋਨ ਵਿੱਚ ਜਨਮੇ ਸਨ।
+ ਉਸਨੇ ਹਬਰੋਨ ਵਿੱਚ ਸਾਢੇ ਸੱਤ ਸਾਲ ਸ਼ਾਸਨ ਕੀਤਾ।
+ 5 ਫ਼ਿਰ ਦਾਊਦ ਨੇ ਯਰੂਸ਼ਲਮ ਵਿੱਚ 33 ਵਰ੍ਹੇ ਰਾਜ ਕੀਤਾ।
+ ਅਤੇ ਯਰੂਸ਼ਲਮ ਵਿੱਚ ਦਾਊਦ ਦੇ ਜਿਹੜੇ ਪੁੱਤਰ ਪੈਦਾ ਹੋਏ ਇਸ ਤਰ੍ਹਾਂ ਹਨ:
+ (ਦਾਊਦ) ਦੀ ਪਤਨੀ ਬਬਸ਼ੂਆ, ਅੰਮੀੇਲ ਦੀ ਧੀ ਸੀ।
+ਬਬਸ਼ੂਆ ਨੇ ਚਾਰ ਪੁੱਤਰ ਸ਼ਿਮਆ, ਸ਼ੋਬਾਬ, ਨਾਬਾਨ ਅਤੇ ਸੁਲੇਮਾਨ ਜੰਮੇ।
+ 6 ਦਾਊਦ ਦੇ 9 ਹੋਰ ਪੁਤਰਾਂ ਦੇ ਨਾਂ ਸਨ:
+ ਯਿਬਹਾਰ, ਅਲੀਸ਼ਾਮਾ, ਅਲੀਫ਼ਾਲਟ, ਨੋਗਹ, ਨਫ਼ਗ, ਯਾਫ਼ੀਆ, ਅਲੀਸ਼ਾਮਾ, ਅਲਯਾਦਾ ਅਤੇ ਅਲੀਫ਼ਲਟ।
+ 7 8 9 ਇਹ ਸਾਰੇ ਦਾਊਦ ਦੇ ਪੁੱਤਰ ਸਨ।
+ ਇਸਤੋਂ ਇਲਾਵਾ ਉਸਦੇ ਦਾਸੀਆਂ ਤੋਂ ਵੀ ਪੁੱਤਰ ਸਨ।
+ ਅਤੇ ਤਾਮਾਰ ਨਾਂ ਦੀ ਦਾਊਦ ਦੀ ਇੱਕ ਧੀ ਸੀ।
+ 10 ਸੁਲੇਮਾਨ ਦਾ ਪੁੱਤਰ ਰਹਬੁਆਮ ਸੀ।
+ ਅਤੇ ਰਹਬੁਆਮ ਦਾ ਪੁੱਤਰ ਅਬੀਯਾਹ।
+ ਅਬੀਯਾਹ ਦਾ ਪੁੱਤਰ ਆਸਾ ਸੀ ਅਤੇ ਆਸਾ ਦਾ ਯਹੋਸ਼ਾਫ਼ਾਟ।
+ 11 ਯਹੋਸ਼ਾਫ਼ਾਟ ਦਾ ਪੁੱਤਰ ਯੋਰਾਮ ਅਤੇ ਯੋਰਾਮ ਦਾ ਪੁੱਤਰ ਅਹਜ਼ਯਾਹ ਸੀ।
+ ਅਤੇ ਅਹਜ਼ਯਾਹ ਦਾ ਪੁੱਤਰ ਸੀ ਯੋਆਸ਼।
+ 12 ਯੋਆਸ਼ ਦਾ ਪੁੱਤਰ ਸੀ ਅਮਸਯਾਹ ਅਤੇ ਅਮਸਯਾਹ ਦਾ ਪੁੱਤਰ ਅਜ਼ਰਯਾਹ ਅਤੇ ਉਸਦਾ ਪੁੱਤਰ ਸੀ ਯੋਬਾਮ।
+ 13 ਯੋਬਾਮ ਦਾ ਪੁੱਤਰ ਸੀ ਆਹਾਜ਼ ਅਤੇ ਆਹਾਜ਼ ਦਾ ਹਿਜ਼ਕੀਯਾਹ ਅਤੇ ਹਿਜ਼ਕੀਯਾਹ ਦਾ ਪੁੱਤਰ ਸੀ ਮਨਸ਼੍ਸ਼ਹ।
+ 14 ਮਨਸ਼੍ਸ਼ਹ ਦਾ ਪੁੱਤਰ ਆਮੋਨ ਅਤੇ ਆਮੋਨ ਦਾ ਪੁੱਤਰ ਯੋਸੀਯਾਹ ਸੀ।
+ 15 ਅਤੇ ਯੋਸ਼ੀਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਦੀ ਸੂਚੀ ਇਵੇਂ ਹੈ:
+ ਉਸਦਾ ਪਲੇਠਾ ਪੁੱਤਰ ਯੋਹਾਨਾਨ ਅਤੇ ਦੂਜਾ ਯਹੋਯਕੀਮ ਸੀ।
+ ਤੀਜੇ ਪੁੱਤਰ ਦਾ ਨਾਉਂ ਸੀ ਸਿਦਕੀਯਾਹ ਤੇ ਚੌਬੇ ਦਾ ਸ਼ੱਲੂਮ।
+ 16 ਯਹੋਯਕੀਮ ਦੇ ਉੱਤਰਾਧਿਕਾਰੀ ਸਨ:
+ ਯਕਾਨਯਾਹ ਅਤੇ ਉਸ ਦਾ ਪੁੱਤਰ, ਸਿਦਕੀਯਾਹ ਅਤੇ ਉਸਦਾ ਪੁੱਤਰ।
+ਬਾਬਲ ਦੀ ਹਿਰਾਸਤ ਉਪਰੰਤ ਦਾਊਦ ਦਾ ਘਰਾਣਾ 17 ਇਹ ਪੱਤ੍ਰੀ ਹੈ ਯਕਾਨਯਾਹ ਦੀ ਔਲਾਦ ਦੀ ਜਦੋਂ ਯਕਾਨਯਾਹ ਬਾਬੁਲ ਦਾ ਬੰਦੀ ਬਣ ਜਾਂਦਾ ਹੈ।
+ ਉਸ ਉਪਰੰਤ ਉਸਦੀ ਔਲਾਦ ਇਵੇਂ ਹੈ:
+ ਸ਼ਅਲਤੀਏਲ, 18 ਮਲਕੀਰਾਮ, ਫ਼ਦਾਯਾਹ ਸ਼ਨਸ੍ਸਰ, ਯਕਮਯਾਹ, ਹੋਸ਼ਾਮਾ ਅਤੇ ਨਦਬਯਾਹ।
+ 19 ਫ਼ਦਾਯਾਹ ਦੇ ਪੁੱਤਰ ਜ਼ਰੁੱਬਾਬਲ ਅਤੇ ਸ਼ਿਮਈ ਸਨ।
+ ਜ਼ਰੁੱਬਾਬਲ ਦੇ ਪੁੱਤਰ ਸਨ ਮਸੁਲ੍ਲਾਮ ਅਤੇ ਹਨਨਯਾਹ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਭੈਣ ਸੀ ਸ਼ਲੋਮੀਬ।
+ 20 ਜ਼ਰੁੱਬਾਬਲ ਦੇ ਪੰਜ ਹੋਰ ਵੀ ਪੁੱਤਰ ਸਨ।
+ ਉਨ੍ਹਾਂ ਦੇ ਨਾਉਂ ਸਨ:
+ ਹਸ਼ੁਬਾਹ, ਓਹਲ, ਬਰਕਯਾਹ, ਹਸਦਯਾਹ ਅਤੇ ਯੂਸ਼ਬ-ਹਸਦ।
+ 21 ਹਨਨਯਾਹ ਦਾ ਪੁੱਤਰ ਸੀ ਪਲਟਯਾਹ ਅਤੇ ਉਸਦਾ ਪੁੱਤਰ ਸੀ ਯਿਸਅਯਾਹ ਅਤੇ ਯਿਸਅਯਾਹ ਦੇ ਪੁੱਤਰ ਦਾ ਨਾਂ ਸੀ ਰਫ਼ਾਯਾਹ।
+ ਤੇ ਰਫਾਯਾਹ ਦਾ ਪੁੱਤਰ ਅਰਨਾਨ, ਅਰਨਾਨ ਦਾ ਪੁੱਤਰ ਓਬਦਯਾਹ ਤੇ ਓਬਦਯਾਹ ਦਾ ਸ਼ਕਨਯਾਹ ਪੁੱਤਰ ਸੀ।
+ 22 ਸ਼ਕਨਯਾਹ ਦੇ ਉੱਤਰਾਧਿਕਾਰੀਆਂ ਦੀ ਸੂਚੀ ਇਉਂ ਹੈ:
+ ਸ਼ਕਨਯਾਹ ਦਾ ਪੁੱਤਰ ਸ਼ਮਅਯਾਹ।
+ ਸ਼ਮਅਯਾਹ ਦੇ 6 ਪੁੱਤਰ ਸਨ:
+ ਸ਼ਅਮਾਹ, ਹੱਟੂਸ਼, ਯਿਗਾਲ, ਬਾਰੀਅਹ, ਨਅਰਯਾਹ ਅਤੇ ਸ਼ਾਫ਼ਾਟ।
+ 23 ਨਅਰਯਾਹ ਦੇ ਅੱਗੋਂ 3 ਪੁੱਤਰ ਸਨ:
+ ਅਲਯੋੇਨਈ, ਹਿਜ਼ਕੀਯਾਹ ਅਤੇ ਅਜ਼ਰੀਕਾਮ।
+ 24 ਅਲਯੋੇਨਈ ਦੇ ਅੱਗੋਂ 7 ਪੁੱਤਰ ਹੋਏ:
+ ਹੋਦੈਯਾਹ, ਅਲਯਾਸ਼ੀਬ, ਫ਼ਲਾਯਾਹ, ਅੱਕੂਬ, ਯੋਹਾਨਾਨ, ਦਲਾਯਾਹ ਅਤੇ ਅਨਾਨੀ।
+          
 
 

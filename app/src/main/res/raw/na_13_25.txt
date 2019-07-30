@@ -1,13 +1,50 @@
- 1 Ða-vít và các quan tướng đội binh cũng để riêng ra mấy con cháu của A-sáp, Hê-man và Giê-đu-thun hầu phục dịch, lấy đờn cầm, đờn sắt, và chập chỏa đặng nói tiên tri; số người phục sự theo chức của họ là như sau nầy: 2 Về con trai A-sáp, có Xác-cua, Giô-sép, Nê-tha-nia, và A-sa-rê-la, đều là con trai của A-sáp, ở dưới tay A-sáp cai quản, vâng theo ý chỉ của vua mà ca xướng.
-3 Về con trai của Giê-đu-thun có Ghê-đa-lia, và Si-mê-i, là sáu người đều ở dưới quyền cai quản của cha chúng, là Giê-đu-thun, dùng đờn cầm mà nói tiên tri, cảm tạ và ngợi khen Ðức Giê-hô-va.
-4 Về con trai của Hê-man có Búc-ki-gia, Ma-tha-nia, U-xi-ên, Sê-bu-ên, Giê-ri-mốt, Ha-na-nia, Ha-na-ni, Ê-li-a-tha, Ghi-đanh-thi, Rô-mam-ti-Ê-xe, Giốt-bê-ca-sa, Ma-lô-thi, Hô-thia, và Ma-ha-xi-ốt.
-5 Những người đó đều là con trai của Hê-man, thổi kèn và ngợi khen Ðức Chúa Trời.
-Hê-man vâng mạng của Ðức Chúa Trời mà làm đấng tiên kiến của vua.
-Ðức Chúa Trời ban cho Hê-man được mười bốn con trai và ba con gái.
-6 Các người ấy đều ở dưới quyền cai quản của cha mình là A-sáp, Giê-đu-thun, và Hê-man, để ca-xướng trong đền Ðức Giê-hô-va với chập chỏa, đờn sắt, đờn cầm, và phục sự tại đền của Ðức Chúa Trời, theo mạng lịnh của vua.
-7 Chúng luôn với anh em mình có học tập trong nghề ca hát cho Ðức Giê-hô-va, tức là những người thông thạo, số được hai trăm tám mươi tám người.
-8 Chúng đều bắt thăm về ban thứ mình, người lớn như kẻ nhỏ, người thông thạo như kẻ học tập.
-9 Cái thăm thứ nhứt nhằm cho Giô-sép về dòng A-sáp; cái thăm thứ nhì nhằm Ghê-đa-lia; người anh em và con trai người, cộng được mười hai người; 10 cái thăm thứ ba nhằm Xác-cua, các con trai và anh em người, cộng được mười hai người; 11 cái thăm thứ tư nhằm Dít-sê-ri, các con trai và anh em người, cộng được mười hai người; 12 cái thăm thứ năm nhằm Nê-tha-nia, các con trai và anh em người, cộng được mười hai người; 13 cái thăm thứ sáu nhằm Búc-ki-gia, các con trai và anh em người, cộng được mười hai người; 14 cái thăm thứ bảy nhằm Giê-sa-rê-la, các con trai và anh em người, cộng được mười hai người; 15 cái thăm thứ tám nhằm Ê-sai, các con trai và anh em người, cộng được mười hai người; 16 cái thăm thứ chín nhằm Ma-tha-nia, các con trai và anh em người, cộng được mười hai người; 17 cái thăm thứ mười nhằm Si-mê-i; các con trai và anh em người, cộng được mười hai người; 18 cái thăm thứ mười một nhằm A-xa-rên, các con trai và anh em người, cộng được mười hai người; 19 cái thăm thứ mười hai nhằm Ha-sa-bia, các con trai và anh em người, cộng được mười hai người; 20 cái thăm thứ mười ba nhằm Su-ba-ên, các con trai và anh em người, cộng được mười hai người; 21 cái thăm thứ mười bốn nhằm Ma-ti-thia, các con trai và anh em người, cộng được mười hai người; 22 cái thăm thứ mười lăm nhằm Giê-rê-mốt, các con trai và anh em người, cộng được mười hai người; 23 cái thăm thừ mười sáu nhằm Ha-na-nia, các con trai và anh em người, cộng được mười hai người; 24 cái thăm thứ mười bảy nhằm Giốt-bê-ca-sa, các con trai và anh em người, cộng được mười hai người; 25 cái thăm thứ mười tám nhằm Ha-na-ni, các con trai và anh em người, cộng được mười hai người; 26 cái thăm thứ mười chín nhằm Ma-lô-thi, các con trai và anh em người, cộng được mười hai người; 27 cái thăm thứ hai mươi nhằm Ê-li-gia-ta, các con trai và anh em người, cộng được mười hai người; 28 cái thăm thứ hai mươi mốt nhằm Hô-thia, các con trai và anh em người, cộng được mười hai người; 29 cái thăm thứ hai mươi hai nhằm Ghi-đanh-thi, các con trai và anh em người, cộng được mười hai người; 30 cái thăm thứ hai mươi ba nhằm Ma-ha-xi-ốt, các con trai và anh em người, cộng được mười hai người; 31 cái thăm thứ hai mươi bốn nhằm Rô-man-ti-Ê-xe, các con trai và anh em người, cộng được mười hai người.
-         
+ 1 ਦਾਊਦ ਅਤੇ ਫ਼ੌਜ ਦੇ ਸੈਨਾਪਤੀਆਂ ਨੇ ਆਸਾਫ਼ ਦੇ ਪੁੱਤਰਾਂ ਨੂੰ ਖਾਸ ਸੇਵਾ ਲਈ ਵੱਖ ਕਰ ਦਿੱਤਾ।
+ ਆਸਾਫ਼ ਦੇ ਪੁੱਤਰ ਹੇਮਾਨ ਅਤੇ ਯਦੂਬੂਨ ਸਨ।
+ ਉਨ੍ਹਾਂ ਦਾ ਖਾਸ ਕੰਮ ਪਰਮੇਸ਼ੁਰ ਦੀ ਅਗੰਮੀ ਵਾਣੀ ਨੂੰ, ਉਸਦੇ ਸੰਦੇਸ਼ਾਂ ਨੂੰ ਬਰਬਤਾਂ, ਦਿਲਰੁਬਾ, ਛੈਣਿਆਂ ਆਦਿ ਸਾਜ਼ਾਂ ਨਾਲ ਲੋਕਾਂ ਤੀਕ ਪਹੁੰਚਾਣਾ ਸੀ।
+ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਇਸ ਤਰੀਕੇ ਨਾਲ ਸੇਵਾ ਵਿੱਚ ਹਿੱਸਾ ਲਿਆ, ਉਨ੍ਹਾਂ ਦੀ ਸੂਚੀ ਇਸ ਤਰ੍ਹਾਂ ਹੈ:
+ 2 ਆਸਾਫ਼ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ:
+ ਜ਼ਕੂਰ, ਯੂਸੁਫ਼, ਨਬਾਨਯਾਹ ਤੇ ਅਸ਼ਰੇਲਾਹ।
+ ਦਾਊਦ ਨੇ ਆਸਾਫ਼ ਨੂੰ ਭਵਿੱਖਬਾਣੀ ਕਰਨ ਲਈ ਚੁਣਿਆ ਤੇ ਆਸਾਫ਼ ਨੇ ਆਪਣੇ ਪੁੱਤਰਾਂ ਦੀ ਅਗਵਾਈ ਕੀਤੀ।
+ 3 ਯਦੂਬੂਨ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਗਦਾਲਯਾਹ, ਸਰੀ, ਯਸ਼ਆਯਾਹ, ਸ਼ਿਮਈ ਹਸ਼ਬਯਾਹ ਅਤੇ ਮਤਿਬ੍ਬਯਾਹ ਸਨ।
+ ਇਹ ਕੁਲ 6 ਸਨ ਜਿਨ੍ਹਾਂ ਨੂੰ ਯਦੂਬੂਨ ਨੇ ਇਹ ਕਾਰਜ ਸੌਂਪਿਆ।
+ ਯਦੂਬੂਨ ਬਰਬਤ ਨਾਲ ਯਹੋਵਾਹ ਦੀ ਉਸਤਤਿ ਕਰਕੇ ਨਬੁਵ੍ਵਤ ਕਰਦਾ ਹੁੰਦਾ ਸੀ।
+ 4 ਹੇਮਾਨ ਦੇ ਪੁੱਤਰ ਬੁੱਕੀਯਾਹ ਮਤਨਯਾਹ, ਉਜ਼ੀੇਲ੍ਲ, ਸ਼ਬੂੇਲ, ਯਰੀਮੋਬ, ਹਨਨਯਾਹ, ਹਨਾਨੀ, ਅਲੀਆਬਾਹ, ਗਦ੍ਦਲਤੀ, ਰੋਮਮਤੀ-ਅਜ਼ਰ, ਯਾਸ਼ਬਕਾਸ਼ਾਹ, ਮਲ੍ਲੋਬੀ, ਹੋਬੀਰ ਅਤੇ ਮਹਜ਼ੀਓਬ ਸਨ।
+ 5 ਇਹ ਸਭ ਹੇਮਾਨ, ਦਾਊਦ ਦੇ ਪੈਗੰਬਰ ਦੇ ਪੁੱਤਰ ਸਨ।
+ ਅਤੇ ਪਰਮੇਸ਼ੁਰ ਨੇ ਉਸ ਨੂੰ ਮਜ਼ਬੂਤ ਬਨਾਉਣ ਦਾ ਇਕਰਾਰ ਕੀਤਾ।
+ ਇਸ ਲਈ ਹੇਮਾਨ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪੁੱਤਰ ਹੋਏ।
+ ਪਰਮੇਸ਼ੁਰ ਨੇ ਹੇਮਾਨ ਨੂੰ 14 ਪੁੱਤਰ ਦਿੱਤੇ, ਅਤੇ ਤਿੰਨ ਧੀਆਂ ਦਿੱਤੀਆਂ।
+ 6 ਹੇਮਾਨ ਨੇ ਆਪਣੇ ਸਾਰੇ ਪੁੱਤਰਾਂ ਨੂੰ ਯਹੋਵਾਹ ਦੇ ਮੰਦਰ ਵਿੱਚ ਉਸਦੀ ਕੀਰਤੀ ਗਾਉਣ ਦੇ ਕੰਮ ਲਾਇਆ।
+ ਉਸਦੇ ਪੁੱਤਰ ਗਾਨ ਵੇਲੇ ਛੈਣੇ, ਦਿਲਰੁਬਾ ਤੇ ਬਰਬਤਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ।
+ ਪਰਮੇਸ਼ੁਰ ਦੇ ਮੰਦਰ ਵਿੱਚ ਸੇਵਾ ਕਰਨ ਦਾ ਉਨ੍ਹਾਂ ਦਾ ਇਹੀ ਤਰੀਕਾ ਸੀ।
+ ਇਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੀ ਚੋਣ ਦਾਊਦ ਨੇ ਕੀਤੀ ਸੀ।
+ 7 ਲੇਵੀਆਂ ਦੇ ਪਰਿਵਾਰ-ਸਮੂਹ ਵਿੱਚੋਂ ਇਨ੍ਹਾਂ ਆਦਮੀਆਂ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਸੰਬੰਧੀਆਂ ਨੂੰ ਪਵਿੱਤਰ ਗੀਤ ਗਾਉਣ ਦੀ ਸਿਖਲਾਈ ਦਿੱਤੀ ਹੋਈ ਸੀ।
+ ਯਹੋਵਾਹ ਦੀ ਸਤੁਤੀ ਗਾਨ ਵਾਲੇ ਪ੍ਰਵੀਨ ਮਨੁੱਖਾਂ ਦੀ ਗਿਣਤੀ 28 8 ਸੀ।
+ 8 ਹਰ ਇੱਕ ਦੇ ਹਿੱਸੇ ਕਿਹੜਾ ਕੰਮ ਆਵੇ, ਤੇ ਉਹ ਕੀ ਕਰੇ ਇਸ ਲਈ ਗੁਣਾ ਸੁਟਿਆ ਜਾਂਦਾ ਅਤੇ ਹਰ ਮਨੁੱਖ ਨਾਲ ਬਰਬਰਤਾ ਦਾ ਵਿਵਹਾਰ ਹੁੰਦਾ।
+ ਵੱਡੇ-ਛੋਟੇ ਨੂੰ ਸਮਾਨ ਦਿ੍ਰਸ਼ਟੀ ਨਾਲ ਵੇਖਿਆ ਜਾਂਦਾ ਅਤੇ ਗੁਰੂ ਨੂੰ ਵੀ ਉਸੇ ਨਿਗਾਹ ਨਾਲ ਵੇਖਿਆ ਜਾਂਦਾ ਜਿਸ ਨਾਲ ਸ਼ਿਸ਼ ਨੂੰ।
+ 9 ਪਹਿਲੇ 'ਚ ਆਸਾਫ਼ (ਯੂਸੁਫ਼) ਦੇ ਪੁੱਤਰਾਂ ਅਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ਦੂਜੇ 'ਚ ਗਦਾਲਯਾਹ ਦੇ ਪੁੱਤਰ ਅਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 10 ਤੀਜੇ 'ਚ ਜ਼ਕੂਰ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 11 ਚੌਬੇ 'ਚ ਯਸਰੀ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 12 ਪੰਜਵੇਂ 'ਚ ਨਬਨਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 13 ਛੇਵੇਂ 'ਚ ਬੁੱਕੀਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 14 ਸੱਤਵੇਂ 'ਚ ਯਸ਼ਰੇਲਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 15 ਅੱਠਵੇਂ 'ਚ ਯਸ਼ਆਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 16 ਨੌਵੇਂ ਵਿੱਚ ਮਤ੍ਤਨਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 17 ਦਸਵੇਂ ਵਿੱਚ ਸ਼ਿਮਈ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 18 ਗਿਆਰ੍ਹਵੇ 'ਚ ਅਜ਼ਰੇਲ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 19 ਬਾਰ੍ਹਵੇਂ 'ਚ ਹਸ਼ਬਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 20 ਤੇਰਵੇਂ 'ਚ ਸ਼ੂਬਾੇਲ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 21 ਚੌਦ੍ਹਵੇਂ ਸਮੂਹ 'ਚ ਮਤਿਬ੍ਬਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਅਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 22 ਪਂਦਰ੍ਹਵੇਂ ਸਮੂਹ 'ਚ ਯਰੇਮੋਬ ਦੇ ਪੁੱਤਰਾਂ ਅਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 23 ਸੋਲ੍ਹਵੇਂ 'ਚ ਹਨਨਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 24 ਸਤਾਰ੍ਹਵੇਂ 'ਚ ਯਾਸ਼ਬਕਾਸ਼ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 25 ਅਠਾਰ੍ਹਵੇਂ ਸਮੂਹ 'ਚ ਹਨਾਨੀ, ਉਸਦੇ ਪੁੱਤਰਾਂ ਅਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 26 ਉਨ੍ਨੀਁਵੇਂ 'ਚ ਮਲ੍ਲੋਬੀ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 27 ਵੀਹਵੇਂ 'ਚ ਅਲੀਯਾਬਾਹ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 28 ਇੱਕੀਵੇਂ 'ਚ ਹੋਬੀਰ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 29 ਬਾਈਵੇਂ 'ਚ ਗਿਦ੍ਦਲਤੀ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 30 ਤੇਈਵੇਂ 'ਚ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+ 31 ਚੌਵੀਵੇਂ 'ਚ ਰੋਮਮਤੀ-ਅਜ਼ਰ ਦੇ ਪੁੱਤਰਾਂ ਤੇ ਸੰਬੰਧੀਆਂ ਵਿੱਚੋਂ 12 ਆਦਮੀ ਚੁਣੇ ਗਏ ਸਨ।
+          
 
 

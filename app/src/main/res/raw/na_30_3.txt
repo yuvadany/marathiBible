@@ -1,13 +1,38 @@
-1 Hỡi con cái Y-sơ-ra-ên, hãy nghe lời nầy, là lời Ðức Giê-hô-va phán nghịch cùng các ngươi, tức là nghịch cùng cả họ hàng mà ta đã đem lên khỏi đất Ê-díp-tô.
-2 Ta đã biết chỉ một mình các ngươi trong mọi họ hàng trên đất; vậy nên ta sẽ thăm phạt các ngươi vì mọi sự gian ác các ngươi.
-3 Nếu hai người không đồng ý với nhau, thì há cùng đi chung được sao? 4 Nếu sư tử không bắt được mồi, thì há có gầm thét trong rừng sao? Sư tử con nếu không bắt được gì, thì há có làm vang những tiếng kêu từ nơi sâu của hang nó sao? 5 Con chim, nếu chẳng có bẫy gài để bắt nó, thì nó há sa vào trong lưới giăng ra trên đất sao? Bằng chẳng bắt được gì thì lưới há có dựt lên khỏi đất? 6 Kèn thổi trong thành thì dân sự há chẳng sợ sao? Sự tai vạ há có xảy ra cho một thành kia nếu mà Ðức Giê-hô-va chẳng làm? 7 Cũng vậy, Chúa Giê-hô-va chẳng có làm một việc gì mà Ngài chưa tỏ sự kín nhiệm Ngài ra trước cho tôi tớ Ngài, là các Ðấng tiên tri.
-8 Khi sư tử gầm thét, thì ai mà chẳng sợ? Khi Chúa Giê-hô-va đã phán dạy, thì ai mà chẳng nói tiên tri? 9 Hãy rao truyền ra trong các đền đài Ách-đốt và trong các đền đài của đất Ê-díp-tô, và nói rằng: Các ngươi khá nhóm lại trên các núi của Sa-ma-ri; hãy xem nhiều sự rối loạn lớn lao ở đó, và những sự bạo ngược giữa nó.
-10 Ðức Giê-hô-va phán: Chúng nó không biết làm sự ngay thẳng; chúng nó chất chứa của hung dữ và cướp dựt ở trong các đền đài mình.
-11 Vậy nên Chúa Giê-hô-va phán như vầy: Nầy, kẻ nghịch sẽ đến vây bọc đất nầy; nó cất mất sức mạnh ngươi, và những đền đài ngươi sẽ bị cướp phá.
-12 Ðức Giê-hô-va phán như vầy: Như kẻ chăn chiên chỉ gỡ được hai giò hay một tai ra khỏi họng sư tử, thì những con cái Y-sơ-ra-ên, là những kẻ ngồi tại Sa-ma-ri nơi góc giường và trên thảm của Ða-mách, cũng sẽ được cứu cách như vậy.
-13 Chúa Giê-hô-va, Ðức Chúa Trời vạn quân phán rằng: Hãy nghe, và làm chứng nghịch cùng nhà Gia-cốp.
-14 Ðến ngày mà ta sẽ thăm phạt Y-sơ-ra-ên về tội lỗi nó, ta cũng sẽ thăm phạt các bàn thờ của Bê-tên; những sừng của bàn thờ sẽ bị chặt và rơi xuống đất.
-15 Bấy giờ ta sẽ đánh nhà mùa đông và nhà mùa hạ; những nhà bằng ngà voi sẽ bị phá, và những nhà lớn sẽ bị hủy diệt, Ðức Giê-hô-va phán vậy.
-         
+1 ਹੇ ਇਸਰਾਏਲੀਓ, ਇਹ ਸੰਦੇਸ਼ ਸੁਣੋ!
+ ਯਹੋਵਾਹ ਨੇ ਤੁਹਾਡੇ ਬਾਰੇ ਇਹ ਗੱਲਾਂ ਆਖੀਆਂ ਹਨ।
+ ਇਹ ਸੰਦੇਸ਼ ਉਸ ਪੂਰੇ ਪਰਿਵਾਰ ਦੇ ਖਿਲਾਫ਼ ਹੈ ਜਿਸਨੂੰ ਮੈਂ ਮਿਸਰ ਤੋਂ ਲਿਆਇਆ।
+ 2 "ਇਸ ਧਰਤੀ ਤੇ ਬਹੁਤ ਸਾਰੇ ਘਰਾਣੇ ਹਨ ਪਰ ਉਨ੍ਹਾਂ ਸਾਰਿਆਂ ਵਿੱਚੋਂ ਸਿਰਫ਼ ਤੁਹਾਨੂੰ ਮੈਂ ਤਰਜੀਹ ਦਿੱਤੀ।
+ ਅਤੇ ਤੁਸੀਂ ਹੀ ਮੇਰੇ ਖਿਲਾਫ਼ ਹੋ ਗਏ।
+ ਇਸ ਲਈ ਮੈਂ ਤੁਹਾਡੇ ਸਾਰੇ ਕੀਤੇ ਪਾਪਾਂ ਲਈ ਤੁਹਾਨੂੰ ਸਜ਼ਾ ਦੇਵਾਂਗਾ।
+" 3 ਦੋ ਮਨੁੱਖ ਸਹਿਮਤੀ ਬਗ਼ੈਰ ਇਕੱਠੇ ਨਾ ਤੁਰਨਗੇ।
+ 4 ਜੰਗਲ ਵਿੱਚ ਸ਼ੇਰ ਸ਼ਿਕਾਰ ਲੱਭਣ ਉਪਰੰਤ ਹੀ ਗਜ੍ਜੇਗਾ।
+ ਜੇਕਰ ਕੋਈ ਬਬ੍ਬਰ-ਸ਼ੇਰ ਆਪਣੀ ਖੁਂਦਰ ਵਿਚੋਂ ਗਜ੍ਜੇਗਾ ਤਾਂ ਇਸਦਾ ਮਤਲਬ ਉਸਦੇ ਹੱਥ ਕੋਈ ਸ਼ਿਕਾਰ ਲੱਗਾ ਹੈ।
+ 5 ਇੱਕ ਪੰਛੀ ਤਾਂ ਹੀ ਫ਼ਸੇਗਾ ਜੇ ਉਸਨੂੰ ਫ਼ਸਾਉਣ ਲਈ ਇੱਕ ਜਾਲ ਹੈ।
+ ਉਸ ਦਾ ਜਾਲ ਤਾਂ ਹੀ ਛੜਪ੍ਪਾ ਮਾਰੇਗਾ ਜੇ ਓਥੇ ਫ਼ੜਨ ਲਈ ਕੋਈ ਪੰਛੀ ਹੋਵੇਗਾ।
+ 6 ਜੇਕਰ ਤੂਰ੍ਹੀ ਸ਼ਹਿਰ ਵਿੱਚ ਚੇਤਾਵਨੀ ਦੇਵੇ ਜ਼ਰੂਰ ਹੀ ਲੋਕ ਡਰ ਨਾਲ ਕੰਬ ਉੱਠਣਗੇ।
+ ਜੇਕਰ ਸਹਿਰ ਵਿੱਚ ਕੋਈ ਦੁਰਘਟਨਾ ਘਟ ਜਾਵੇ ਤਾਂ ਅਵੱਸ਼ ਇਹ ਯਹੋਵਾਹ ਹੀ ਕਰਦਾ ਹੈ।
+ 7 ਪ੍ਰਭੂ ਮੇਰਾ ਯਹੋਵਾਹ ਭਾਵੇਂ ਕੋਈ ਫ਼ੈਸਲਾ ਲੈ ਲਵੇ ਪਰ ਕੁਝ ਵੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਉਹ ਆਪਣੀ ਯੋਜਨਾ ਆਪਣੇ ਸੇਵਕਾਂ, ਨਬੀਆਂ ਨੂੰ ਜ਼ਰੂਰ ਪ੍ਰਗਟਾਵੇਗਾ।
+ 8 ਜੇਕਰ ਸ਼ੇਰ ਗਰਜਦਾ ਹੈ ਤਾਂ ਲੋਕ ਡਰ ਜਾਂਦੇ ਹਨ, ਜੇਕਰ ਯਹੋਵਾਹ ਬੋਲਦਾ ਹੈ, ਤਾਂ ਨਬੀ ਅਗੰਮੀ ਵਾਕ ਆਖਦੇ ਹਨ।
+ 9 ਜਾਓ ਅਤੇ ਜਾਕੇ ਮਿਸਰ ਅਤੇ ਅਸ਼ਦੋਦ ਦੇ ਕਿਲਿਆਂ ਵਿੱਚ ਇਸ ਸੰਦੇਸ਼ ਦਾ ਐਲਾਨ ਕਰੋ:
+ "ਸਾਮਰਿਯਾ ਦੇ ਪਹਾੜਾਂ ਉੱਪਰ ਇਕੱਠੇ ਹੋ ਜਾਵੋ।
+ ਉੱਥੇ ਤੁਸੀਂ ਵੱਡੀ ਤਬਾਹੀ ਅਤੇ ਅਤਿਆਚਾਰ ਵੇਖੋਁਗੇ।
+ 10 ਕਿਉਂ ਕਿ ਲੋਕਾਂ ਨੂੰ ਸਹੀ ਜੀਵਨ ਜਿਉਣ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੈ।
+ ਉਹ ਲੋਕ ਆਪਣੇ ਮਹਿਲ ਵਿੱਚ ਹੋਰਾਂ ਲੋਕਾਂ ਲਈ ਬੜੇ ਜ਼ਾਲਿਮ ਹਨ।
+ ਇਹੀ ਹੈ ਜੋ ਯਹੋਵਾਹ ਨੇ ਆਖਿਆ।
+" 11 ਇਸ ਲਈ ਯਹੋਵਾਹ ਆਖਦਾ, "ਵੈਰੀ ਇਸ ਦੇਸ ਨੂੰ ਘੇਰ ਲਵੇਗਾ ਅਤੇ ਤੁਹਾਡੀ ਸ਼ਕਤੀ ਤੁਹਾਡੇ ਤੋਂ ਖੋਹ ਲਵੇਗਾ।
+ ਉਹ ਤੁਹਾਡੇ ਮਹਿਲਾਂ ਵਿੱਚ ਲੁਕੇ ਹੋਏ ਖਜ਼ਾਨੇ ਖੋਹ ਲਵੇਗਾ।
+" 12 ਯਹੋਵਾਹ ਆਖਦਾ ਹੈ,"ਬਬ੍ਬਰ-ਸ਼ੇਰ ਲੇਲੇ ਤੇ ਹਮਲਾ ਕਰੇ ਅਤੇ ਆਜੜੀ ਲੇਲੇ ਨੂੰ ਬਚਾਉਣ ਦਾ ਯਤਨ ਕਰਦਾ ਹੈ, ਪਰ ਉਹ ਲੇਲੇ ਦਾ ਕੁਝ ਹਿੱਸਾ ਹੀ ਬਚਾਅ ਪਾਉਂਦਾ ਹੈ।
+ ਜਿਵੇਂ ਉਹ ਦੋ ਲੱਤਾਂ ਜਾਂ ਕੰਨ ਆਦਿ ਉਸ ਦੇ ਮੂੰਹੋਁ ਛੁਡਾਅ ਲੈਂਦਾ ਹੈ ਉਸੇ ਤਰ੍ਹਾਂ ਬਹੁਤ ਸਾਰੇ ਇਸਰਾਏਲ ਦੇ ਲੋਕ ਤਾਂ ਬਰਬਾਦ ਹੋ ਜਾਣਗੇ।
+ ਇਸਰਾਏਲੀ ਛੁਡਾੇ ਤਾਂ ਜਾਣਗੇ ਪਰ ਸਾਮਰਿਯਾ ਵਿੱਚ ਵਸਦੇ ਲੋਕ ਮਂਜੀਆਂ ਦੀਆਂ ਨੁਕਰਾਂ ਉੱਤੇ ਅਤੇ ਗਦਿਆਂ ਦੇ ਇੱਕ ਟੁਕੜੇ ਦੇ ਤੁਲ ਉਨ੍ਹਾਂ ਦਾ ਬਚਾਅ ਹੋਵੇਗਾ।
+" 13 ਮੇਰੇ ਪ੍ਰਭੂ, ਸਰਬ ਸ਼ਕਤੀਮਾਨ ਯਹੋਵਾਹ ਪਰਮੇਸ਼ੁਰ ਨੇ ਇਹ ਬਚਨ ਆਖੇ ਹਨ:
+ "ਯਾਕੂਬ ਦੇ ਘਰਾਣੇ (ਇਸਰਾਏਲ) ਨੂੰ ਇਨ੍ਹਾਂ ਗੱਲਾਂ ਤੋਂ ਖਬਰਦਾਰ ਕਰੋ।
+ 14 ਇਸਰਾਏਲ ਨੇ ਪਾਪ ਕੀਤੇ ਹਨ ਅਤੇ ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਪਾਪਾਂ ਦੀ ਸਜ਼ਾ ਦੇਵਾਂਗਾ।
+ ਮੈਂ ਬੈਤ-ੇਲ ਦੀਆਂ ਜਗਵੇਦੀਆਂ ਨੂੰ ਨਸ਼ਟ ਕਰ ਦੇਵਾਂਗਾ।
+ ਅਤੇ ਜਗਵੇਦੀ ਦੇ ਸਿੰਗ ਕੱਟੇ ਜਾਣਗੇ ਤੇ ਕੱਟਕੇ ਧਰਤੀ ਤੇ ਢਹਿ ਜਾਣਗੇ।
+ 15 ਮੈਂ ਸਰਦੀ ਦੇ ਮਹਿਲ ਨੂੰ ਗਰਮੀ ਦੇ ਮਹਿਲ ਨਾਲ ਨਸ਼ਟ ਕਰਾਂਗਾ।
+ ਹਾਬੀ ਦੰਦ ਦਾ ਮਹਿਲ ਵੀ ਨਸ਼ਟ ਹੋ ਜਾਵੇਗਾ।
+ ਬਹੁਤ ਸਾਰੇ ਘਰ ਤਬਾਹ ਹੋ ਜਾਣਗੇ।
+" ਯਹੋਵਾਹ ਨੇ ਇਹ ਗੱਲਾਂ ਆਖੀਆਂ।
+          
 
 

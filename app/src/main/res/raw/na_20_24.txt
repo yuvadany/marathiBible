@@ -1,27 +1,50 @@
- 1 Chớ ganh ghét kẻ làm ác.
-Ðừng ước ao ở cùng chúng nó.
-2 Vì lòng chúng nó toan điều hủy phá, Và môi họ nói ra sự tổn hại.
-3 Nhờ sự khôn ngoan, cửa nhà được xây cất nên, Và được vững vàng bởi sự thông sáng; 4 Nhờ sự tri thức, các phòng vi đều được đầy đủ Các thứ tài vật quí báu đẹp đẽ.
-5 Người khôn ngoan có sức mạnh, Và người tri thức gia thêm năng lực.
-6 Vì con phải nhờ mưu khôn mà đánh giặc; Ðâu có nhiều mưu sĩ thì đặng toàn thắng.
-7 Sự khôn ngoan lấy làm cao xa quá cho kẻ ngu dại; Nó không mở miệng ra nơi cửa thành.
-8 Kẻ nào toan làm điều ác, Người ta sẽ gọi hắn là kẻ gian giảo.
-9 Tư tưởng ngu dại là tội lỗi; Kẻ nhạo báng lấy làm gớm ghiếc cho loài người.
-10 Nếu con ngã lòng trong ngày hoạn nạn, Thì sức lực con nhỏ mọn thay.
-11 Hãy giải cứu kẻ bị đùa đến sự chết, Và chớ chối rỗi cho người đi xiêu tó tới chốn hình khổ.
-12 Nếu con nói: Chúng tôi chẳng biết gì đến; Thì Ðấng mà cân nhắc lòng người ta, há chẳng xem xét điều ấy sao? Và Ðấng gìn giữ linh hồn con, há không biết đến ư? Chớ thì Ngài chẳng báo cho mỗi người tùy theo công việc họ làm sao? 13 Hỡi con, hãy ăn mật, vì nó ngon lành; Tàng ong lấy làm ngọt ngào cho ổ gà con.
-14 Con sẽ biết sự khôn ngoan nơi linh hồn con cũng như vậy; Nếu con đã tìm được sự khôn ngoan, ắt sẽ có phần thưởng, Và sự trông đợi của con sẽ chẳng phải thành luống công.
-15 Hỡi kẻ ác, chớ rình rập nhà người công bình; Ðừng phá tan chỗ nghĩ ngơi của người.
-16 Vì người công bình dầu sa ngã bảy lần, cũng chổi dậy; Còn kẻ hung ác bị tai vạ đánh đổ.
-17 Khi kẻ thù nghịch con sa ngã, chớ vui mừng; Lúc nó bị đánh đổ, lòng con đừng hớn hở; 18 Kẻo e Ðức Giê-hô-va thấy điều đó, mà chẳng đẹp lòng, Bèn cất cơn thạnh nộ Ngài khỏi nó chăng.
-19 Chớ nổi giận vì cớ kẻ làm ác, Cũng đừng ganh ghét những người hung dữ; 20 Vì kẻ làm gian ác sẽ không được thiện báo, Và đèn kẻ hung dữ sẽ tắt đi.
-21 Hỡi con, hãy kính sợ Ðức Giê-hô-va và tôn kính vua; Chớ hội hiệp cùng kẻ phản nghịch; 22 Vì sự tai họa của chúng xảy đến thình lình; Và ai biết sự phá hại của người nầy người kia? 23 Những ngôn ngữ nầy cũng do kẻ khôn ngoan mà đến: Trong việc xét đoán tư vị người, ấy chẳng phải tốt lành.
-24 Kẻ nào nói với kẻ ác rằng: Ngươi là công bình, Sẽ bị dân tộc rủa sả, và các nước lấy làm gớm ghiếc mình; 25 Còn người nào quở trách kẻ ác ắt sẽ được đẹp lòng, Và sự phước lành sẽ giáng trên họ.
-26 Ai đáp lời chánh đáng, Tất như hôn nơi môi miệng vậy.
-27 Hãy sửa sang công việc ở ngoài của con, Và sắm sẵn tại trong ruộng con; Rồi sau hãy cất nhà của con.
-28 Chớ làm chứng vô cớ nghịch kẻ lân cận mình; Con há muốn lấy môi miệng mình mà phỉnh gạt sao? 29 Chớ nên nói: Tôi sẽ làm cho hắn như hắn đã làm cho tôi; Tôi sẽ báo người tùy công việc của người.
-30 Ta có đi ngang qua gần ruộng kẻ biếng nhác, Và gần vườn nho của kẻ ngu muội, 31 Thấy cây tật lê mọc khắp cùng, Gai góc che khuất mặt đất, Và tường đá của nó đã phá hư rồi 32 Ta nhìn xem, bèn để ý vào đó; Ta thấy và nhận được sự dạy dỗ.
-33 Ngủ một chút, chợp mắt một chút, Khoanh tay ngủ một chút, 34 Thì sự nghèo của con sẽ đến như một kẻ đi rạo, Và sự thiếu thốn của con áp tới như một kẻ cầm binh khí.
-         
+ 1 ਬਦ ਲੋਕਾਂ ਨਾਲ ਹੋਢ਼ ਨਾ ਕਰੋ, ਉਨ੍ਹਾਂ ਦੀ ਸੰਗਤ ਵਿੱਚ ਰਹਿਣ ਦੀ ਲੋਚਾ ਨਾ ਕਰੋ।
+ 2 ਉਹ ਆਪਣੇ ਦਿਲਾਂ ਅੰਦਰ ਬਦੀ ਦੀਆਂ ਯੋਜਨਾਵਾਂ ਬਣਾਉਂਦੇ ਹਨ।
+ ਉਹ ਸਿਰਫ਼ ਮੁਸੀਬਤਾਂ ਖੜੀਆਂ ਕਰਨ ਬਾਰੇ ਹੀ ਗੱਲਾਂ ਕਰਦੇ ਹਨ।
+ 3 ਇੱਕ ਘਰ ਸਿਆਣਪ ਦੁਆਰਾ ਉਸਾਰਿਆ ਜਾਂਦਾ ਹੈ, ਅਤੇ ਇੱਕ ਚੰਗੀ ਸੂਝ ਨਾਲ ਮਜ਼ਬੂਤ ਰਹਿੰਦਾ ਹੈ।
+ 4 ਅਤੇ ਗਿਆਨ ਕਮਰਿਆਂ ਨੂੰ ਨਾਯਾਬ ਅਤੇ ਸੁੰਦਰ ਖਜ਼ਾਨਿਆਂ ਨਾਲ ਭਰ ਦਿੰਦਾ ਹੈ।
+ 5 ਇੱਕ ਸਿਆਣੇ ਆਦਮੀ ਕੋਲ ਮਹਾਨ ਤਾਕਤ ਹੁੰਦੀ ਹੈ ਅਤੇ ਇੱਕ ਗਿਆਨ ਵਾਨ ਆਦਮੀ ਸ਼ਕਤੀ ਵਧਾਉਂਦਾ ਹੈ।
+ 6 ਯੁੱਧ ਲੜਨ ਲਈ, ਤੁਹਾਨੂੰ ਮਾਰਗ ਦਰਸ਼ਨ ਦੀ ਜਰੂਰਤ ਹੁੰਦੀ ਹੈ ਅਤੇ ਜਿੱਤਣ ਲਈ, ਤੁਹਾਨੂੰ ਬਹੁਤਤਾ ਸਲਾਹਕਾਰ ਚਾਹੀਦੇ ਹਨ।
+ 7 ਮੂਰਖ ਲਈ ਸਿਆਣਪ ਬਹੁਤ ਪੇਚੀਦਾ ਹੁੰਦੀ ਹੈ।
+ ਜਦੋਂ ਲੋਕ ਮਹੱਤਵਪੂਰਣ ਮਸਲਿਆਂ ਬਾਰੇ ਗੱਲ ਕਰ ਰਹੇ ਹੁੰਦੇ ਹਨ, ਉਸ ਕੋਲ ਆਖਣ ਲਈ ਕੁਝ ਨਹੀਂ ਹੁੰਦਾ।
+ 8 ਜਿਹੜਾ ਵਿਅਕਤੀ ਨੁਕਸਾਨਦੇਹ ਵਿਉਂਤਾਂ ਵਿਉਂਤੇ, ਇੱਕ ਸਾਜਸੀ ਹੀ ਮੰਨਿਆ ਜਾਵੇਗਾ।
+ 9 ਇੱਕ ਮੂਰਖ ਆਦਮੀ ਦੀਆਂ ਵਿਉਂਤਾਂ ਪਾਪ ਹੁੰਦੀਆਂ ਹਨ ਅਤੇ ਲੋਕੀਂ ਮਖੌਲੀ ਨੂੰ ਨਫ਼ਰਤ ਕਰਦੇ ਹਨ।
+ 10 ਜੇ ਤੁਸੀਂ ਮੁਸੀਬਤ ਵੇਲੇ ਕਮਜ਼ੋਰ ਹੋ ਤਾਂ ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਕਮਜ਼ੋਰ ਹੋ।
+ 11 ਜੇਕਰ ਕੋਈ ਕਿਸੇ ਵਿਅਕਤੀ ਨੂੰ ਮਾਰ ਦੇਣ ਦੀ ਯੋਜਨਾ ਬਣਾ ਰਿਹਾ ਹੋਵੇ, ਤਾਂ ਤੁਹਾਨੂੰ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਬਚਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।
+ 12 ਤੁਸੀਂ ਇਹ ਨਹੀਂ ਆਖ ਸਕਦੇ, "ਇਹ ਮੇਰਾ ਕੰਮ ਨਹੀਂ।
+" ਯਹੋਵਾਹ ਸਭ ਕੁਝ ਜਾਣਦਾ ਹੈ।
+ ਉਹ ਇਹ ਵੀ ਜਾਣਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਸਭ ਕੁਝ ਕਿਉਂ ਕਰਦੇ ਹੋ।
+ ਯਹੋਵਾਹ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਕਰਦਾ ਹੈ।
+ ਉਹ ਜਾਣਦਾ ਹੈ ਉਹ ਇੱਕ ਵਿਅਕਤੀ ਨੂੰ ਉਸ ਦੀਆਂ ਕਰਨੀਆਂ ਅਨੁਸਾਰ ਇਨਾਮ ਦਿੰਦਾ ਹੈ।
+ 13 ਮੇਰੇ ਬੇਟੇ, ਸ਼ਹਿਦ ਖਾਓ, ਕਿਉਂ ਕਿ ਇਹ ਚੰਗਾ ਹੁੰਦਾ ਹੈ।
+ ਤਾਜ਼ਾ ਸ਼ਹਿਦ ਤੁਹਾਡੇ ਮੂੰਹ ਵਿੱਚ ਮਿੱਠਾ ਹੁੰਦਾ ਹੈ।
+ 14 ਇਸੇ ਤਰ੍ਹਾਂ ਹੀ ਗਿਆਨ ਅਤੇ ਸਿਆਣਪ ਤੁਹਾਡੀ ਰੂਹ ਲਈ ਮਿੱਠੇ ਹਨ।
+ ਜੇਕਰ ਤੁਸੀਂ ਸਿਆਣੇ ਹੋ, ਤੁਹਾਡੇ ਕੋਲ ਭਵਿੱਖ ਹੋਵੇਗਾ, ਅਤੇ ਤੁਹਾਡੇ ਕੋਲ ਹਮੇਸ਼ਾ ਉਮੀਦ ਹੋਵੇਗੀ।
+ 15 ਕਿਸੇ ਅਪਰਾਧੀ ਵਾਂਗ, ਧਰਮੀ ਵਿਅਕਤੀ ਦੇ ਘਰ ਦੇ ਇੰਤਜ਼ਾਰ ਵਿੱਚ ਨਾ ਰਹੋ, ਉਸਦੇ ਘਰ ਵਿੱਚ ਸਂਨ੍ਹ ਨਾ ਮਾਰੋ।
+ 16 ਕਿਉਂਕਿ ਇੱਕ ਧਰਮੀ ਵਿਅਕਤੀ, ਭਾਵੇਂ ਉਹ ਸੱਤ ਵਾਰੀ ਡਿੱਗ ਪਵੇ, ਆਖਰਕਾਰ ਉੱਠ ਪੈਂਦਾ ਹੈ, ਪਰ ਦੁਸ਼ਟ ਲੋਕ ਲੜਖ੍ਹਹਕੇ ਡਿੱਗ ਪੈਂਦੇ ਹਨ, ਜਦੋਂ ਮੁਸੀਬਤਾਂ ਆਉਂਦੀਆਂ ਹਨ।
+ 17 ਆਪਣੇ ਦੁਸ਼ਮਣ ਨੂੰ ਮੁਸੀਬਤ ਵਿੱਚ ਦੇਖਕੇ ਖੁਸ਼ ਨਾ ਹੋਵੋ।
+ ਜਦੋਂ ਉਹ ਡਿੱਗੇ ਤਾਂ ਖੁਸ਼ ਨਾ ਹੋਵੋ।
+ 18 ਕਿਉਂ ਜੁ ਹੋ ਸਕਦਾ ਯਹੋਵਾਹ ਇਸ ਨੂੰ ਵੇਖ ਲਵੇ ਅਤੇ ਉਹ ਇਸਨੂੰ ਪਸੰਦ ਨਾ ਕਰੇ ਅਤੇ ਹੋ ਸਕਦਾ ਉਹ ਆਪਣਾ ਗੁੱਸਾ ਤੁਹਾਡੇ ਦੁਸ਼ਮਣ ਤੋਂ ਹਟਾ ਲਵੇ।
+ 19 ਬਦ ਲੋਕਾਂ ਕਾਰਣ ਪਰੇਸ਼ਾਨ ਨਾ ਹੋਵੋ, ਦੁਸ਼ਟ ਨਾਲ ਈਰਖਾ ਨਾ ਕਰੋ ਆਸ ਰੱਖੋ ਕਿ ਤੁਹਾਨੂੰ ਉਨ੍ਹਾਂ ਨਾਲ ਦਲੀਲਬਾਜ਼ੀ ਨਾ ਕਰਨੀ ਪਵੇ।
+ 20 ਕਿਉਂਕਿ ਇੱਕ ਬਦ ਇਨਸਾਨ ਦਾ ਕੋਈ ਭਵਿੱਖ ਨਹੀਂ ਹੁੰਦਾ, ਅਤੇ ਦੁਸ਼ਟ ਦਾ ਦੀਵਾ ਬੁਝਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ 21 ਮੇਰੇ ਬੇਟੇ, ਯਹੋਵਾਹ ਅਤੇ ਰਾਜੇ ਤੋਂ ਡਰੋੋ।
+ ਅਤੇ ਵਿਦਰੋਹੀਆਂ ਦਾ ਸੰਗ ਨਾ ਕਰੋ।
+ 22 ਕਿਉਂਕਿ ਉਨ੍ਹਾਂ ਦੀ ਤਬਾਹੀ ਬਿਨਾ ਚਿਤਾਵਨੀ ਦਿਤਿਆਂ ਆਵ੍ਵੇਗੀ ਅਤੇ ਕੌਣ ਜਾਣਦਾ ਉਹ ਕਿਸ ਬਿਪਤਾ ਨੂੰ ਝਲ੍ਲਣਗੇ।
+ 23 ਇਹ ਸਿਆਣੇ ਬੰਦਿਆਂ ਦੇ ਸ਼ਬਦ ਹਨ:
+ਨਿਆਂ ਕਰਨ ਵਾਲੇ ਨੂੰ ਹਮੇਸ਼ਾ ਬੇਲਾਗ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।
+ ਉਸਨੂੰ ਕਿਸੇ ਬੰਦੇ ਦਾ ਸਿਰਫ਼ ਇਸ ਕਰਕੇ ਪੱਖ ਨਹੀਂ ਲੈਣਾ ਚਾਹੀਦਾ ਕਿਉਂ ਕਿ ਉਹ ਉਸਨੂੰ ਜਾਣਦਾ ਹੈ।
+ 24 ਜਿਹੜਾ ਵਿਅਕਤੀ ਅਪਰਾਧੀ ਨੂੰ ਆਖਦਾ, "ਤੂੰਁ ਬੇਗੁਨਾਹ ਹੈ, "ਅਜਿਹਾ ਵਿਅਕਤੀ ਲੋਕਾਂ ਦੁਆਰਾ ਸਰਾਪਿਆ ਜਾਵੇਗਾ ਅਤੇ ਕੌਮਾਂ ਉਸ ਨੂੰ ਨਫ਼ਰਤ ਕਰਨਗੀਆਂ।
+ 25 ਪਰ ਜੇ ਕੋਈ ਨਿਆਂਕਾਰ ਕਿਸੇ ਦੋਸ਼ੀ ਨੂੰ ਦੰਡ ਦਿੰਦਾ ਹੈ ਉਹ ਪਸੰਦ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਵਧੇਰੇ ਅਸੀਸਾਂ ਪ੍ਰਾਪਤ ਕਰੇਗਾ।
+ 26 ਸਿਧ੍ਧਾ ਉੱਤਰ ਦੇਣਾ ਕਿਸੇ ਵਿਅਕਤੀ ਨੂੰ ਚੁੰਮਣ ਵਾਂਗ ਹੈ।
+ 27 ਪਹਿਲਾਂ ਆਪਣਾ ਬਾਹਰਲਾ ਕੰਮ ਅਤੇ ਖੇਤ ਵਿੱਚ ਕੰਮ ਕਰ ਲਵੋ, ਤਾਂ ਹੀ ਆਪਣੇ ਘਰ ਨਿਰਮਾਣ ਕਰੋ।
+ 28 ਬਿਨਾਂ ਕਿਸੇ ਕਾਰਣ ਆਪਣੇ ਗੁਆਂਢੀ ਦੇ ਖਿਲਾਫ਼ ਗਵਾਹੀ ਨਾ ਦਿਓ, ਆਪਣੇ ਹੀ ਬੁਲ੍ਹਾਂ ਨਾਲ ਛਲ ਨਾ ਕਰੋ।
+ 29 ਇਹ ਨਾ ਆਖੋ, "ਉਸਨੇ ਮੈਨੂੰ ਦੁੱਖ ਦਿੱਤਾ ਹੈ, ਇਸ ਲਈ ਮੈਂ ਵੀ ਉਸ ਨਾਲ ਅਜਿਹਾ ਹੀ ਕਰਾਂਗਾ।
+ ਉਸਨੇ ਜੋ ਕੁਝ ਮੇਰੇ ਨਾਲ ਕੀਤਾ ਹੈ ਮੈਂ ਉਸਨੂੰ ਇਸਦੀ ਸਜ਼ਾ ਦੇਵਾਂਗਾ।
+" 30 ਮੈਂ ਇੱਕ ਆਲਸੀ ਬੰਦੇ ਦੇ ਖੇਤ ਰਾਹੀਂ, ਬਿਨਾਂ ਸੂਝ ਵਾਲੇ ਬੰਦੇ ਦੇ ਅੰਗੂਰਾਂ ਦੇ ਬਾਗ਼ ਰਾਹੀਂ ਲੰਘਿਆ।
+ 31 ਉਹ ਖੇਤ ਕੰਡਿਆਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਸੀ, ਘਾਹ ਫ਼ੂਸ ਹਦ੍ਦੋਁ ਵਧ ਉਗਿਆ ਹੋਇਆ ਸੀ।
+ ਅਤੇ ਚਾਰ ਦੀਵਾਰੀ ਢਠ੍ਠੀ ਹੋਈ ਸੀ।
+ 32 ਅਤੇ ਮੈਂ ਜੋ ਵੇਖਿਆ ਉਸ ਬਾਰੇ ਸੋਚਿਆ ਅਤੇ ਇੱਕ ਸਬਕ ਸਿਖਿਆ:
+ 33 ਬੋੜੀ ਜਿਹੀ ਨੀਂਦ, ਬੋੜੀ ਜਿਹੀ ਝਪਕੀ, ਕੰਮ ਤੋਂ ਥੋੜਾ ਜਿਹਾ ਆਰਾਮ, 34 ਅਤੇ ਇੱਥੇ ਤੁਸੀਂ ਗਰੀਬ ਹੋ ਜਾਵੋਂਗੇ, ਅਤੇ ਤੁਸੀਂ ਜਰੂਰਤ ਮਂਦ ਹੋ ਜਾਵੋਗੇ ਜਿਵੇਂ ਕਿਸੇ ਡਕੈਤ ਦੁਆਰਾ ਲੁੱਟ ਲੇ ਗਏ ਹੋਵੋ।
+          
 
 

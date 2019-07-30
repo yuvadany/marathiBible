@@ -1,22 +1,47 @@
-1 Khi người nào làm chứng bị bắt thề rồi, và phạm tội vì không tỏ ra điều mình đã thấy hay là đã biết, thì người đó sẽ mang tội mình.
-2 Khi ai sẽ đụng đến một vật ô uế, hoặc thây của con thú nhà không tinh sạch, hoặc thây của con thú rừng không tinh sạch, hoặc thây của loài côn trùng nào không tinh sạch, mà không tự biết, thì sẽ bị ô uế và mắc tội.
-3 Khi ai, hoặc tự biết hay không biết, sẽ đụng đến sự ô uế nào của loài người, không cứ bị ô uế cách nào, thì cũng sẽ mắc tội.
-4 Khi ai nói sơ ý thề thốt làm ác hay là làm thiện, mặc dầu cách nào, trước không ngờ đến, rồi sau lại tự biết, thì ai đó sẽ mắc tội trong điều nầy hay là điều kia.
-5 Vậy, khi nào ai mắc tội về một trong các điều nầy, thì phải xưng mình phạm tội chi, 6 rồi vì tội mình đã phạm, dẫn đến Ðức Giê-hô-va một con cái trong bầy súc vật nhỏ, hoặc chiên cái hay là dê cái, đặng làm của lễ chuộc tội; thì thầy tế lễ sẽ làm lễ chuộc tội cho người.
-7 Nếu không phương thế lo cho có một chiên cái hay là một dê cái được, thì phải vì tội mình đã phạm, đem đến cho Ðức Giê-hô-va một cặp cu hay là cặp bồ câu con: một con dùng làm của lễ chuộc tội, một con dùng làm của lễ thiêu.
-8 Người sẽ đem cặp đó đến cho thầy tế lễ; thầy tế lễ sẽ dâng trước con dùng làm của lễ chuộc tội, vặn rứt đầu gần nơi gáy cổ không gãy lìa ra; 9 đoạn rảy huyết của con sinh tế chuộc tội trên một phía của bàn thờ; huyết còn dư lại thì vắt dưới chân bàn thờ; ấy là một của lễ chuộc tội.
-10 Còn chim kia, người phải tùy theo lệ đã định, dùng làm một của lễ thiêu.
-Ấy vậy, thầy tế lễ sẽ vì người đó làm lễ chuộc tội người đã phạm, thì tội người sẽ được tha.
-11 Nếu không phương thế lo cho có một cặp cu hay là cặp bồ câu con được, thì người vì tội mình đã phạm, phải đem một phần mười ê-pha bột lọc làm của lễ chuộc tội, không nên đổ dầu trên và cũng không nên thêm nhũ hương, vì là một của lễ chuộc tội.
-12 Người sẽ đem bột đó đến thầy tế lễ; thầy tế lễ sẽ bốc một nắm làm kỷ niệm.
-và xông trên bàn thờ như cách xông của lễ dùng lửa dâng cho Ðức Giê-hô-va: ấy là một của lễ chuộc tội.
-13 Ấy vậy, thầy tế lễ sẽ vì người đó làm lễ chuộc tội người đã phạm về một trong mấy điều nầy, thì tội người sẽ được tha; bột còn dư lại sẽ thuộc về thầy tế lễ như trong cuộc của lễ chay vậy.
-14 Ðức Giê-hô-va lại phán cùng Môi-se rằng: 15 Khi nào ai ở bất trung, lầm lỡ phạm đến vật thánh của Ðức Giê-hô-va, thì ai đó vì sự mắc lỗi mình, phải dẫn đến Ðức Giê-hô-va một con chiên đực không tì vít chi bắt ở trong bầy, đánh giá bằng siếc-lơ bạc, tùy theo siếc-lơ của đền thánh: ấy sẽ là một của lễ chuộc sự mắc lỗi.
-16 Người đó phải bồi thường và phụ thêm một phần năm giá trị của vật mình đã phạm đến nơi đền thánh, rồi giao vật đó cho thầy tế lễ.
-Thầy tế lễ sẽ dùng chiên con đực về của lễ chuộc sự mắc lỗi mà làm lễ chuộc tội cho người ấy, và tội người sẽ được tha.
-17 Khi nào ai phạm một trong các điều răn của Ðức Giê-hô-va mà không tự biết, và làm điều không nên làm, thì ai dó sẽ mắc lỗi và mang lấy tội mình.
-18 Người vì sự lỗi mình phải dẫn đến thầy tế lễ một con chiên đực, không tì vít chi bắt trong bầy, tùy theo ý ngươi đánh giá; rồi thầy tế lễ sẽ làm lễ chuộc lỗi cho người đã lầm lỡ phạm tội và không tự biết, thì lỗi người sẽ được tha.
-19 Ấy là của lễ chuộc sự mắc lỗi: người hẳn phải mắc lỗi cùng Ðức Giê-hô-va vậy.
-         
+1 “ਜਦੋਂ ਕਿਸੇ ਬੰਦੇ ਨੂੰ ਗਵਾਹੀ ਦੇਣ ਲਈ ਸਦਿਆ ਜਾਂਦਾ ਅਤੇ ਉਹ ਚਸ਼ਮਦੀਦ ਗਵਾਹ ਜਾਂ ਉਸ ਘਟਨਾ ਬਾਰੇ ਕੁਝ ਜਾਣਦਾ, ਅਤੇ ਜੇ ਉਹ ਬੰਦਾ ਉਹ ਕੁਝ ਨਹੀਂ ਦੱਸਦਾ ਜੋ ਉਸਨੇ ਦੇਖਿਆ ਜਾਂ ਜੋ ਉਹ ਜਾਣਦਾ, ਤਾਂ ਉਹ ਆਪਣੀ ਸਾਖੀ ਦੇਣ ਵਿੱਚ ਨਾਕਾਮਯਾਬ ਹੋਣ ਦੇ ਸਿੱਟੇ ਦਾ ਜਿੰਮੇਵਾਰ ਹੈ।
+ 2 “ਜਾਂ ਸ਼ਾਇਦ ਕੋਈ ਬੰਦਾ ਕਿਸੇ ਨਾਪਾਕ ਸ਼ੈਅ ਨੂੰ ਛੂਹ ਲਵੇ।
+ ਇਹ ਕਿਸੇ ਨਾਪਾਕ ਪਾਲਤੂ ਜਾਨਵਰ ਦੀ ਲਾਸ਼ ਹੋ ਸਕਦੀ ਹੈ, ਜਾਂ ਕਿਸੇ ਨਾਪਾਕ ਜੰਗਲੀ ਜਾਨਵਰ ਦੀ ਲਾਸ਼ ਹੋ ਸਕਦੀ ਹੈ, ਜਾਂ ਇਹ ਕਿਸੇ ਨਾਪਾਕ ਰੀਂਗਦੇ ਜਾਨਵਰ ਦੀ ਵੀ ਹੋ ਸਕਦੀ ਹੈ।
+ ਹੋ ਸਕਦਾ ਕਿ ਉਹ ਬੰਦਾ ਸਚੇਤ ਨਾ ਹੋਵੇ ਕਿ ਉਸਨੇ ਇਨ੍ਹਾਂ ਚੀਜ਼ਾਂ ਨੂੰ ਛੂਹ ਲਿਆ, ਪਰ ਹਾਲੇ ਵੀ ਉਹ ਪਲੀਤ ਹੈ ਅਤੇ ਉਹ ਦੋਸ਼ੀ ਹੈ।
+ 3 “ਜੇਕਰ ਕੋਈ ਵਿਅਕਤੀ ਮਨੁੱਖੀ ਨਾਪਾਕਤਾ ਨੂੰ ਛੂਹ ਲਵੇ, ਕੁਝ ਵੀ ਜੋ ਕਿਸੇ ਵਿਅਕਤੀ ਨੂੰ ਨਾਪਾਕ ਬਣਾਵੇ, ਭਾਵੇਂ ਉਹ ਇਸਤੋਂ ਸਚੇਤ ਨਹੀਂ, ਪਰ ਮਗਰੋਂ ਜਾਣ ਜਾਵੇ ਕਿ ਉਸਨੇ ਇਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਨਾਪਾਕ ਚੀਜ਼ ਨੂੰ ਛੂਹ ਲਿਆ ਹੈ, ਤਾਂ ਉਹ ਦੋਸ਼ੀ ਹੋਵੇਗਾ।
+ 4 “ਜਾਂ ਹੋ ਸਕਦਾ ਆਦਮੀ ਕੋਈ ਕਸਮ ਜਲਦੀ ਵਿੱਚ ਲੈ ਲਵੇ ਇਹ ਸਾਬਤ ਕਰਨ ਲਈ ਕਿ ਉਹ ਸੱਚ ਕਹਿ ਰਿਹਾ ਹੈ, ਭਾਵੇਂ ਨਤੀਜਾ ਚੰਗਾ ਹੋਵੇ ਜਾਂ ਬੁਰਾ, ਅਤੇ ਉਹ ਇਸਨੂੰ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰਦਾ।
+ ਜਦੋਂ ਉਹ ਮਹਿਸੂਸ ਕਰੇ ਕਿ ਉਸਨੇ ਕੀ ਕੀਤਾ ਹੈ, ਉਹ ਦੋਸ਼ੀ ਬਣ ਜਾਂਦਾ।
+ 5 ਜਦੋਂ ਕੋਈ ਬੰਦਾ ਇਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਦੋਸ਼ ਨੂੰ ਮਹਿਸੂਸ ਕਰੇ, ਉਸਨੂੰ, ਜੋ ਉਸਨੇ ਗਲਤ ਕੀਤਾ ਹੈ ਕਬੂਲਣਾ ਚਾਹੀਦਾ।
+ 6 ਉਸਨੂੰ ਆਪਣੇ ਪਾਪ ਲਈ ਯਹੋਵਾਹ ਨੂੰ ਆਪਣੀ ਦੋਸ਼ ਦੀ ਭੇਟ ਲੈਕੇ ਆਉਣੀ ਚਾਹੀਦੀ ਹੈ।
+ ਉਸਨੂੰ ਪਾਪ ਦੀ ਭੇਟ ਵਜੋਂ ਇੱਕ ਲੇਲੀ ਜਾਂ ਇੱਕ ਬੱਕਰੀ ਲਿਆਉਣੀ ਚਾਹੀਦੀ ਹੈ।
+ ਫ਼ੇਰ ਜਾਜਕ ਉਸ ਵਿਅਕਤੀ ਦੇ ਪਾਪ ਲਈ, ਉਸਦੇ ਬਦਲੇ ਪਰਾਸਚਿਤ ਕਰੇਗਾ।
+ 7 “ਜੇ ਉਸ ਬੰਦੇ ਤੋਂ ਲੇਲਾ ਜਾਂ ਬੱਕਰੀ ਨਾ ਸਰਦੀ ਹੋਵੇ, ਉਹ ਦੋ ਘੁੱਗੀ ਜਾਂ ਦੋ ਜਵਾਨ ਕਬੂਤਰ ਯਹੋਵਾਹ ਲਈ ਲੈਕੇ ਆਵੇ।
+ ਇਹ ਉਸਦੇ ਪਾਪ ਲਈ ਦੋਸ਼ ਦੀ ਭੇਟ ਹੋਵੇਗੀ।
+ ਇੱਕ ਪੰਛੀ ਪਾਪ ਦੀ ਭੇਟ ਲਈ ਹੋਵੇ ਤੇ ਦੂਸਰਾ ਹੋਮ ਦੀ ਭੇਟ ਲਈ।
+ 8 ਉਹ ਬੰਦਾ ਉਨ੍ਹਾਂ ਨੂੰ ਜਾਜਕ ਕੋਲ ਲੈਕੇ ਆਵੇ।
+ ਪਹਿਲਾਂ, ਜਾਜਕ ਇੱਕ ਪੰਛੀ ਨੂੰ ਪਾਪ ਦੀ ਭੇਟ ਵਜੋਂ ਚੜਾਵੇਗਾ।
+ ਜਾਜਕ ਪੰਛੀ ਦੇ ਸਿਰ ਨੂੰ ਉਸ ਦੀ ਗਿੱਚੀ ਤੋਂ ਤੋੜ ਦੇਵੇਗਾ।
+ ਪਰ ਜਾਜਕ ਪੰਛੀ ਨੂੰ ਹਿਸਿਆਂ ਵਿੱਚ ਨਹੀਂ ਵੰਡੇਗਾ।
+ 9 ਜਾਜਕ ਪਾਪ ਦੀ ਭੇਟ ਦਾ ਖੂਨ ਜਗਵੇਦੀ ਦੇ ਇੱਕ ਪਾਸੇ ਛਿੜਕੇਗਾ ਫ਼ੇਰ ਜਾਜਕ ਬਾਕੀ ਦਾ ਖੂਨ ਜਗਵੇਦੀ ਦੇ ਥੜੇ ਉੱਤੇ ਡੋਲ੍ਹੇਗਾ।
+ ਇਹ ਪਾਪ ਦੀ ਭੇਟ ਹੈ।
+ 10 ਫ਼ੇਰ ਜਾਜਕ ਨੂੰ ਦੂਸਰਾ ਪੰਛੀ ਹੋਮ ਦੀ ਭੇਟ ਦੇ ਨੇਮਾਂ ਅਨੁਸਾਰ ਭੇਟ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।
+ ਇਸ ਤਰ੍ਹਾਂ ਜਾਜਕ ਉਸ ਬੰਦੇ ਨੂੰ, ਉਸਦੇ ਕੀਤੇ ਪਾਪਾਂ ਤੋਂ ਪਾਕ ਕਰ ਦੇਵੇਗਾ।
+ ਅਤੇ ਪਰਮੇਸ਼ੁਰ ਉਸ ਬੰਦੇ ਨੂੰ ਮਾਫ਼ ਕਰ ਦੇਵੇਗਾ।
+ 11 “ਜੇ ਉਸ ਬੰਦੇ ਤੋਂ ਦੋ ਘੁੱਗੀ ਜਾਂ ਦੋ ਕਬੂਤਰ ਨਾ ਸਰਦੇ ਹੋਣ, ਉਸਨੂੰ ਆਪਣੇ ਪਾਪ ਦੀ ਭੇਟ ਲਈ ਮੈਦੇ ਦੇ 8 ਕੱਪ ਲਿਆਉਣੇ ਚਾਹੀਦੇ ਹਨ।
+ ਉਸਨੂੰ ਮੈਦੇ ਵਿੱਚ ਤੇਲ ਨਹੀਂ ਮਿਲਾਉਣਾ ਚਾਹੀਦਾ ਅਤੇ ਇਸ ਉੱਤੇ ਲੋਬਾਨ ਨਹੀਂ ਪਾਉਣਾ ਚਾਹੀਦਾ, ਕਿਉਂਕਿ ਇਹ ਪਾਪ ਦੀ ਭੇਟ ਹੈ।
+ 12 ਉਹ ਮੈਦਾ ਜਾਜਕ ਕੋਲ ਲਿਆਵੇ ਅਤੇ ਜਾਜਕ ਉਸ ਮੈਦੇ ਦੀ ਇੱਕ ਮੁੱਠੀ ਭਰੇਗਾ।
+ ਇਹ ਇੱਕ ਯਾਦਗਾਰੀ ਭੇਟ ਹੋਵੇਗੀ।
+ ਉਹ ਮੈਦੇ ਨੂੰ ਯਹੋਵਾਹ ਨੂੰ ਅੱਗ ਦੁਆਰਾ ਚੜਾਈਆਂ ਗਈਆਂ ਹੋਰਨਾਂ ਭੇਟਾਂ ਦੇ ਨਾਲ ਚੜਾਵੇਗਾ।
+ ਇਹ ਉਸਦੇ ਪਾਪ ਦੀ ਭੇਟ ਹੈ।
+ 13 ਇਸ ਤਰ੍ਹਾਂ ਜਾਜਕ ਉਸ ਬੰਦੇ ਨੂੰ ਪਾਕ ਬਣਾ ਦੇਵੇਗਾ।
+ ਅਤੇ ਪਰਮੇਸ਼ੁਰ ਉਸ ਬੰਦੇ ਨੂੰ ਮਾਫ਼ ਕਰ ਦੇਵੇਗਾ।
+ ਜਿਹੜਾ ਹਿੱਸਾ ਬਚ ਜਾਵੇਗਾ ਉਹ ਜਾਜਕ ਦਾ ਹੋਵੇਗਾ, ਜਿਵੇਂ ਅਨਾਜ਼ ਦੀ ਭੇਟ ਦਾ ਹੁੰਦਾ ਹੈ।
+” 14 ਯਹੋਵਾਹ ਨੇ ਮੂਸਾ ਨੂੰ ਆਖਿਆ, 15 “ਹੋ ਸਕਦਾ ਹੈ ਕੋਈ ਬੰਦਾ ਯਹੋਵਾਹ ਦੀਆਂ ਪਵਿੱਤਰ ਚੀਜ਼ਾਂ ਨਾਲ ਅਚਨਚੇਤ ਕੋਈ ਗਲਤ ਗੱਲ ਕਰ ਬੈਠੇ।
+ ਉਸ ਬੰਦੇ ਨੂੰ ਬਿਨਾ ਨੁਕਸ ਵਾਲਾ ਭੇਡੂ ਲੈਕੇ ਆਉਣਾ ਚਾਹੀਦਾ ਹੈ।
+ ਇਹ ਯਹੋਵਾਹ ਨੂੰ ਉਸਦੇ ਦੋਸ਼ ਦੀ ਭੇਟ ਹੋਵੇਗੀ।
+ ਤੁਹਾਨੂੰ ਸਰਕਾਰੀ ਨਾਪ ਦੀ ਵਰਤੋਂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਅਤੇ ਭੇਡੂ ਦੀ ਕੀਮਤ ਨਿਸ਼ਚਿੰਤ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।
+ 16 ਉਸਨੂੰ ਪਵਿੱਤਰ ਚੀਜ਼ਾਂ ਲਈ ਅਦਾਇਗੀ ਕਰਨੀ ਪਵੇਗੀ ਜੋ ਉਸਨੇ ਲਈਆਂ।
+ ਉਸਨੂੰ ਪੰਜਵਾਂ ਹਿੱਸਾ ਜੋੜ ਕੇ, ਜਾਜਕ ਨੂੰ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ।
+ ਫ਼ੇਰ ਜਾਜਕ ਉਸ ਵਿਅਕਤੀ ਲਈ ਦੋਸ਼ ਦੀ ਭੇਟ ਦੇ ਭੇਡੂ ਨਾਲ ਪਰਾਸਚਿਤ ਕਰੇਗਾ ਅਤੇ ਇਹ ਮਾਫ਼ ਹੋ ਜਾਵੇਗਾ।
+ 17 “ਜੇ ਕੋਈ ਬੰਦਾ ਪਾਪ ਕਰਦਾ ਅਤੇ ਉਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕੋਈ ਇੱਕ ਗੱਲ ਕਰਦਾ ਜਿਨ੍ਹਾਂ ਨੂੰ ਯਹੋਵਾਹ ਨੇ ਨਾ ਕਰਨ ਦਾ ਆਦੇਸ਼ ਦਿੱਤਾ ਭਾਵੇਂ ਉਹ ਬੰਦਾ ਨਹੀਂ ਜਾਣਦਾ, ਉਹ ਦੋਸ਼ੀ ਹੋਵੇਗਾ ਅਤੇ ਉਸਨੂੰ ਆਪਣੇ ਪਾਪ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ ਕਬੂਲ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।
+ 18 ਉਸਨੂੰ ਇੱਕ ਬੇਨੁਕਸ ਅਤੇ ਜਾਜਕ ਦੁਆਰਾ ਨਿਰਧਾਰਿਤ ਕੀਤੀ ਗਈ ਕੀਮਤ ਦਾ ਭੇਡੂ ਉਸ ਕੋਲ ਲਿਆਉਣਾ ਚਾਹੀਦਾ ਹੈ।
+ ਉਹ ਭੇਡੂ ਦੋਸ਼ ਦੀ ਭੇਟ ਹੋਵੇਗਾ।
+ ਇਸ ਤਰ੍ਹਾਂ ਜਾਜਕ ਉਸ ਬੰਦੇ ਲਈ ਉਸ ਪਾਪ ਖਾਤਰ ਪਰਾਸਚਿਤ ਕਰੇਗਾ ਜੋ ਉਸਨੇ ਅਨਜਾਣੇ ਵਿੱਚ ਕੀਤਾ ਸੀ ਅਤੇ ਉਹ ਮਾਫ਼ ਹੋ ਜਾਵੇਗਾ।
+ 19 ਇਹ ਦੋਸ਼ ਦੀ ਭੇਟ ਹੈ ਕਿਉਂਜੁ ਉਹ ਯਹੋਵਾਹ ਅੱਗੇ ਦੋਸ਼ੀ ਹੈ।
+          
 
 

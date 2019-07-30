@@ -1,34 +1,49 @@
-1 Ðây là sách chép dòng dõi của A-đam.
-Ngày mà Ðức Chúa Trời dựng nên loài người, thì người làm nên loài người giống như Ðức Chúa Trời; 2 Ngài dựng nên người nam cùng người nữ, ban phước cho họ, và trong ngày đã dựng nên, đặt tên là người.
-3 Vả, A-đam được một trăm ba mươi tuổi, sanh một con trai giống như hình tượng mình, đặt tên là Sết.
-4 Sau khi A-đam sanh Sết rồi, còn sống được tám trăm năm, sanh con trai con gái.
-5 Vậy, A-đam hưởng thọ được chín trăm ba mươi tuổi, rồi qua đời.
-6 Sết được một trăm năm tuổi, sanh Ê-nót.
-7 Sau khi Sết sanh Ê-nót rồi, còn sống được tám trăm bảy năm, sanh con trai con gái.
-8 Vậy, Sết hưởng thọ được chín trăm mười hai tuổi, rồi qua đời.
-9 Ê-nót được chín mươi tuổi, sanh Kê-nan.
-10 Sau khi sanh Kê-nan rồi, còn sống được tám trăm mười lăm năm, sanh con trai con gái.
-11 Vậy, Ê-nót hưởng thọ được chín trăm năm tuổi, rồi qua đời.
-12 Kê-nan được bảy mươi tuổi, sanh Ma-ha-la-le.
-13 Sau khi Kê-nan sanh Ma-ha-la-le rồi, còn sống được tám trăm bốn mươi năm, sanh con trai con gái.
-14 Vậy, Kê-nan hưởng thọ được chín trăm mười tuổi, rồi qua đời.
-15 Ma-ha-la-le được sáu mươi lăm tuổi, sanh Giê-rệt.
-16 Sau khi Ma-ha-la-le sanh Giê-rệt rồi, còn sống được tám trăm ba mươi năm, sanh con trai con gái.
-17 Vậy, Ma-ha-la-le hưởng thọ được tám trăm chín mươi lăm tuổi, rồi qua đời.
-18 Giê-rệt được một trăm sáu mươi hai tuổi, sanh Hê-nóc.
-19 Sau khi Giê-rệt sanh Hê-nót rồi, còn sống được tám trăm năm, sanh con trai con gái.
-20 Vậy, Giê-rệt hưởng thọ được chín trăm sáu mươi hai tuổi, rồi qua đời.
-21 Hê-nóc được sáu mươi lăm tuổi, sanh Mê-tu-sê-la.
-22 Sau khi Hê-nóc sanh Mê-tu-sê-la rồi, đồng đi cùng Ðức Chúa Trời trong ba trăm năm, sanh con trai con gái.
-23 Vậy Hê-nóc hưởng thọ được ban trăm sáu mươi lăm tuổi.
-24 Hê-nóc đồng đi cùng Ðức Chúa Trời, rồi mất biệt, bởi vì Ðức Chúa Trời tiếp người đi.
-25 Mê-tu-sê-la được một trăm tám mươi bảy tuổi, sanh Lê-méc.
-26 Sau khi Mê-tu-sê-la sanh Lê-méc rồi, còn sống được bảy trăm tám mươi hai năm, sanh con trai con gái.
-27 Vậy, Mê-tu-sê-la hưởng thọ được chín trăm sáu mươi chín tuổi, rồi qua đời.
-28 Lê-méc được một trăm tám mươi hai tuổi, sanh một trai, 29 Ðặt tên là Nô-ê, mà nói rằng: Ðứa nầy sẽ an ủy lòng ta về công việc và về sự nhọc nhằn mà đất bắt tay ta phải làm, là đất Ðức Giê-hô-va đã rủa sả.
-30 Sau khi Lê-méc sanh Nô-ê rồi, còn sống được năm trăm chín mươi lăm năm, sanh con trai con gái.
-31 Vậy, Lê-méc hưởng thọ được bảy trăm bảy mươi bảy tuổi, rồi qua đời.
-32 Còn Nô-ê, khi đến năm trăm tuổi, sanh Sem Cham và Gia-phết.
-         
+1 ਇਹ ਆਦਮ ਦੇ ਪਰਿਵਾਰ ਬਾਰੇ ਪੁਸਤਕ ਹੈ।
+ ਪਰਮੇਸ਼ੁਰ ਨੇ ਆਪਣੇ ਲੋਕਾਂ ਦੀ ਸਾਜਨਾ ਆਪਣੀ ਨਕਲ ਉੱਤੇ ਕੀਤੀ।
+ 2 ਪਰਮੇਸ਼ੁਰ ਨੇ ਉਨ੍ਹਾਂ ਨੂੰ ਨਰ ਤੇ ਮਾਦਾ ਬਣਾਇਆ।
+ ਅਤੇ ਓਸੇ ਦਿਨ ਜਦੋਂ ਪਰਮੇਸ਼ੁਰ ਨੇ ਉਨ੍ਹਾਂ ਨੂੰ ਸਾਜਿਆ ਸੀ ਉਸਨੇ ਉਨ੍ਹਾਂ ਨੂੰ “ਆਦਮ” ਦਾ ਨਾਮ ਦਿੱਤਾ।
+ 3 ਜਦੋਂ ਆਦਮ 130 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ, ਉਸਨੇ ਆਪਣੇ ਹੀ ਅਕਸ ਵਿੱਚ ਇੱਕ ਪੁੱਤਰ ਨੂੰ ਜਨਮ ਦਿੱਤਾ, ਜੋ ਸੁਭਾਅ ਵਿੱਚ ਉਸ ਵਾਂਗ ਹੀ ਸੀ।
+ ਆਦਮ ਨੇ ਉਸਦਾ ਨਾਮ ਸੇਥ ਧਰਿਆ।
+ 4 ਸੇਥ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ, ਆਦਮ 800 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ ਆਦਮ ਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 5 ਇਸ ਤਰ੍ਹਾਂ ਆਦਮ ਕੁੱਲ 930 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਸ ਦਾ ਦੇਹਾਂਤ ਹੋ ਗਿਆ।
+ 6 ਜਦੋਂ ਸੇਥ 105 ਵਰ੍ਹੇ ਦਾ ਹੋਏਆ ਉਸਦੇ ਘਰ ਅਨੋਸ਼ ਨਾਮ ਦਾ ਪੁੱਤਰ ਪੈਦਾ ਹੋਇਆ।
+ 7 ਅਨੋਸ਼ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ ਸੇਥ 807 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ ਉਸਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 8 ਇਸ ਤਰ੍ਹਾਂ ਸੇਥ ਕੁੱਲ 912 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਹ ਮਰ ਗਿਆ।
+ 9 ਜਦੋਂ ਅਨੋਸ਼ 90 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ ਉਸਦੇ ਇੱਕ ਪੁੱਤਰ ਹੋਇਆ ਜਿਸਦਾ ਨਾਮ ਕੇਨਾਨ ਸੀ, 10 ਕੇਨਾਨ ਦੇ ਜੰਮਣ ਤੋਂ ਬਾਅਦ ਅਨੋਸ਼ 815 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ ਉਸਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 11 ਇਸ ਤਰ੍ਹਾਂ ਅਨੋਸ਼ ਕੁੱਲ 905 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਹ ਮਰ ਗਿਆ।
+ 12 ਜਦੋਂ ਕੇਨਾਨ 70 ਵਰ੍ਹੇ ਦਾ ਸੀ ਉਸਦੇ ਘਰ ਮਹਲਲੇਲ ਨਾਮ ਦਾ ਪੁੱਤਰ ਪੈਦਾ ਹੋਇਆ।
+ 13 ਮਹਲਲੇਲ ਦੇ ਜਨਮ ਤੋਂ ਮਗਰੋਂ ਕੇਨਾਨ 840 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ ਇਸ ਸਮੇਂ ਦੌਰਾਨ ਕੇਨਾਨ ਦੇ ਘਰ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 14 ਇਸ ਤਰ੍ਹਾਂ ਕੇਨਾਨ ਕੁੱਲ 910 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਹ ਮਰ ਗਿਆ।
+ 15 ਜਦੋਂ ਮਹਲਲੇਲ 65 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ ਉਸਦੇ ਘਰ ਯਰਦ ਨਾਮ ਦਾ ਪੁੱਤਰ ਪੈਦਾ ਹੋਇਆ।
+ 16 ਯਰਦ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ ਮਹਲਲੇਲ 830 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ ਉਸਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 17 ਇਸ ਤਰ੍ਹਾਂ ਮਹਲਲੇਲ ਕੁੱਲ 895 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਹ ਮਰ ਗਿਆ।
+ 18 ਜਦੋਂ ਯਰਦ 162 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ ਉਸਦੇ ਘਰ ਹਨੋਕ ਨਾਮ ਦਾ ਪੁੱਤਰ ਜਨਮਿਆ।
+ 19 ਹਨੋਕ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ ਯਰਦ 800 ਵਰ੍ਹਿਆਂ ਤੱਕ ਜੀਵਿਆ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ, ਉਸਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 20 ਇਸ ਤਰ੍ਹਾਂ ਯਰਦ ਕੁੱਲ 962 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਹ ਮਰ ਗਿਆ।
+ 21 ਜਦੋਂ ਹਨੋਕ 65 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ ਉਸਦੇ ਘਰ ਮਥੂਸਲਹ ਨਾਮ ਦਾ ਪੁੱਤਰ ਜਨਮਿਆ।
+ 22 ਮਥੂਸਲਹ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ, ਹਨੋਕ ਨੇ ਪਰਮੇਸ਼ੁਰ ਦੇ ਨਾਮ ਤੁਰਦਿਆਂ 300 ਵਰ੍ਹੇ ਹੋਰ ਬਿਤਾਏ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ ਉਸਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 23 ਇਸ ਤਰ੍ਹਾਂ, ਹਨੋਕ ਕੁੱਲ 365 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ 24 ਇੱਕ ਦਿਨ ਹਨੋਕ ਪਰਮੇਸ਼ੁਰ ਦੇ ਨਾਲ ਤੁਰ ਰਿਹਾ ਸੀ, ਅਤੇ ਹਨੋਕ ਗਾਇਬ ਹੋ ਗਿਆ।
+ ਪਰਮੇਸ਼ੁਰ ਨੇ ਉਸਨੂੰ ਉਠਾ ਲਿਆ।
+ 25 ਜਦੋਂ ਮਥੂਸਲਹ 187 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ, ਉਸਦੇ ਘਰ ਲਾਮਕ ਨਾਮ ਦਾ ਪੁੱਤਰ ਜਨਮਿਆ।
+ 26 ਲਾਮਕ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ ਮਥੂਸਲਹ 782 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ ਉਸਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 27 ਇਸ ਤਰ੍ਹਾਂ ਮਥੂਸਲਹ ਕੁੱਲ 969 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਹ ਮਰ ਗਿਆ।
+ 28 ਜਦੋਂ ਲਾਮਕ 182 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ, ਉਸਦੇ ਘਰ ਇੱਕ ਪੁੱਤਰ ਜਨਮਿਆ।
+ 29 ਲਾਮਕ ਨੇ ਆਪਣੇ ਪੁੱਤਰ ਦਾ ਨਾਮ ਨੂਹ ਰੱਖਿਆ।
+ ਲਾਮਕ ਨੇ ਆਖਿਆ, “ਕਿਸਾਨਾਂ ਵਾਂਗ ਕਰੜੀ ਮਿਹਨਤ ਕਰ, ਕਿਉਂਕਿ ਪਰਮੇਸ਼ੁਰ ਨੇ ਧਰਤੀ ਨੂੰ ਸਰਾਪ ਦਿੱਤਾ ਸੀ।
+ ਪਰ ਨੂਹ ਸਾਨੂੰ ਅਰਾਮ ਦੇਵੇਗਾ।
+” 30 ਨੂਹ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ ਲਾਮਕ 595 ਵਰ੍ਹੇ ਜੀਵਿਆ।
+ ਉਸ ਸਮੇਂ ਦੌਰਾਨ ਉਸਦੇ ਹੋਰ ਧੀਆਂ ਪੁੱਤਰ ਹੋਏ।
+ 31 ਇਸ ਤਰ੍ਹਾਂ ਲਾਮਕ ਕੁੱਲ 777 ਵਰ੍ਹੇ ਜੀਵਿਆ; ਫ਼ੇਰ ਉਹ ਮਰ ਗਿਆ।
+ 32 ਜਦੋਂ ਨੂਹ 500 ਵਰ੍ਹਿਆਂ ਦਾ ਸੀ ਉਸਦੇ ਘਰ ਸ਼ੇਮ, ਹਾਮ ਅਤੇ ਯਾਫ਼ਥ ਨਾਮ ਦੇ ਪੁੱਤਰ ਜਨਮੇ।
+          
 
 

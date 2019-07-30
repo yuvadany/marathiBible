@@ -1,29 +1,38 @@
- 1 Người nào bị quở trách thường, lại cứng cổ mình, Sẽ bị bại hoại thình lình, không phương cứu chữa.
-2 Khi người công bình thêm nhiều lên, thì dân sự vui mừng; Nhưng khi kẻ ác cai trị, dân sự lại rên siết.
-3 Người ưa mến sự khôn ngoan làm cho cha mình được vui vẻ; Còn kẻ kết bạn với người kỵ nữ phá tan của cải mình.
-4 Vua nhờ sự công bình mà làm nước mình vững bền; Nhưng ai lãnh của hối lộ hủy hoại nó.
-5 Người nào dua nịnh kẻ lân cận mình, Giăng lưới trước bước người.
-6 Trong tội lỗi của kẻ ác có một cái bẫy, Nhưng người công bình ca hát mừng rỡ.
-7 Người công bình xét cho biết duyên cớ của kẻ nghèo khổ; Còn kẻ ác không có trí hiểu để biết đến.
-8 Kẻ nhạo báng châm lửa cho thành thiêu cháy; Nhưng người khôn ngoan làm nguôi cơn giận.
-9 Nếu người khôn ngoan tranh luận với kẻ ngu muội, Dầu người giận hay cười, cũng chẳng an hòa được.
-10 Kẻ làm đổ huyết ghét người trọn vẹn; Nhưng người ngay thẳng bảo tồn mạng sống người.
-11 Kẻ ngu muội tỏ ra sự nóng giận mình; Nhưng người khôn ngoan nguôi lấp nó và cầm giữ nó lại.
-12 Nếu vua lắng tai nghe lời giả dối, Thì các tôi tớ người trở nên gian ác.
-13 Kẻ nghèo khổ và người hà hiếp đều gặp nhau; Ðức Giê-hô-va làm sáng mắt cho cả hai.
-14 Vua nào theo sự chơn thật mà xét đoán kẻ nghèo khổ, Ngôi người sẽ được vững bền đời đời.
-15 Roi vọt và sự quở trách ban cho sự khôn ngoan; Còn con trẻ phóng túng làm mất cỡ cho mẹ mình.
-16 Khi kẻ ác thêm, thì tội lỗi cũng thêm; Nhưng người công bình sẽ thấy sự sa ngã chúng nó, 17 Hãy sửa phạt con người, thì nó sẽ ban sự an tịnh cho người, Và làm cho linh hồn người được khoái lạc.
-18 Ðâu thiếu sự mặc thị, dân sự bèn phóng tứ; Nhưng ai giữ gìn luật pháp lấy làm có phước thay!
- 19 Chẳng phải bởi lời nói mà sửa trị kẻ làm tội; Vì dầu nó hiểu biết, nó cũng không vâng theo.
-20 Con có thấy kẻ hốp tốp trong lời nói mình chăng? Một kẻ ngu muội còn có sự trông cậy hơn hắn.
-21 Người nào dung dưỡng kẻ tôi tớ mình từ thuở nhỏ, Ngày sau sẽ thấy nó thành con trai của nhà.
-22 Người hay giận gây ra điều tranh cạnh; Và kẻ căm gan phạm tội nhiều thay.
-23 Sự kiêu ngạo của người sẽ làm hạ người xuống; Nhưng ai có lòng khiêm nhượng sẽ được tôn vinh.
-24 Kẻ nào chia phần với tay ăn trộm ghét linh hồn mình; Nó nghe lời thế, mà không tỏ điều gì ra.
-25 Sự sợ loài người gài bẫy; Nhưng ai nhờ cậy Ðức Giê-hô-va được yên ổn vô sự.
-26 Nhiều kẻ cầu ơn vua; Song sự lý đoán của người nào do nơi Ðức Giê-hô-va mà đến.
-27 Kẻ gian tà lấy làm gớm ghiếc cho người công bình; Và người ăn ở ngay thẳng lấy làm gớm ghiếc cho kẻ gian ác.
-         
+ 1 ਇੱਕ ਜ਼ਿੱਦੀ ਵਿਅਕਤੀ ਜਿਹੜਾ ਝਿੜਕ ਤੋਂ ਨਹੀਂ ਸਿੱਖਦਾ ਅਚਾਨਕ ਹੀ ਤਬਾਹ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ ਉਸ ਨੂੰ ਕੋਈ ਵੀ ਨਹੀਂ ਬਚਾ ਸਕਦਾ।
+ 2 ਜਦੋਂ ਧਰਮੀ ਲੋਕ ਤਰਕ੍ਕੀ ਕਰਦੇ ਹਨ, ਲੋਕ ਖੁਸ਼ ਹੁੰਦੇ ਹਨ, ਪਰ ਉਦੋਂ ਹੌਁਕੇ ਭਰਦੇ ਹਨ ਜਦੋਂ ਕੋਈ ਦੁਸ਼ਟ ਆਦਮੀ ਰਾਜਾ ਬਣ ਜਾਂਦਾ ਹੈ।
+ 3 ਜਿਹੜਾ ਵਿਅਕਤੀ ਸਿਆਣਪ ਨੂੰ ਪਿਆਰ ਕਰਦਾ, ਉਹ ਆਪਣੇ ਪਿਤਾ ਨੂੰ ਖੁਸ਼ ਕਰਦਾ ਹੈ, ਪਰ ਜਿਹੜਾ ਵਿਅਕਤੀ ਵੇਸਵਾਵਾਂ ਦਾ ਸੰਗ ਕਰਦਾ ਹੈ, ਉਹ ਆਪਣੀ ਦੌਲਤ ਗੁਆ ਲੈਂਦਾ ਹੈ।
+ 4 ਜਿਹੜਾ ਰਾਜਾ ਨਿਆਂਈ ਹੋਕੇ ਸ਼ਾਸਨ ਕਰਦਾ ਹੈ ਉਹ ਆਪਣੇ ਦੇਸ ਨੂੰ ਮਜ਼ਬੂਤ ਬਣਾ ਲੈਂਦਾ ਹੈ, ਪਰ ਜਿਹੜਾ ਕੋਈ ਰਿਸ਼ਵਤ ਲੈਂਦਾ ਹੈ ਇਸ ਨੂੰ ਢਾਹ ਦਿੰਦਾ।
+ 5 ਜਿਹੜਾ ਵਿਅਕਤੀ ਆਪਣੇ ਗੁਆਂਢੀ ਦੀ ਚਾਪਲੂਸੀ ਕਰਦਾ ਹੈ, ਆਪਣੇ ਹੀ ਪੈਰਾਂ ਲਈ ਜਾਲ ਫ਼ੈਲਾਉਂਦਾ ਹੈ।
+ 6 ਇੱਕ ਬਦ ਇਨਸਾਨ ਆਪਣੇ ਖੁਦ ਦੇ ਪਾਪ ਵਿੱਚ ਹੀ ਫ਼ਸ ਜਾਂਦਾ ਹੈ ਪਰ ਇੱਕ ਨੇਕ ਇਨਸਾਨ ਗਾਉਂਦਾ ਅਤੇ ਖੁਸ਼ ਰਹਿੰਦਾ ਹੈ।
+ 7 ਧਰਮੀ ਵਿਅਕਤੀ ਜਾਣਦਾ ਹੈ ਕਿ ਗਰੀਬ ਲਈ ਨਿਆਂ ਨੂੰ ਕਿਵੇਂ ਸਿਰੇ ਚੜਾਉਣਾ, ਪਰ ਦੁਸ਼ਟ ਇਨਸਾਨ ਅਗਿਆਨੀ ਹੁੰਦੇ ਹਨ।
+ 8 ਮਖੌਲੀ ਨਗਰ ਵਿੱਚ ਦਂਗਾ-ਫ਼ਸਾਦ ਕਰਦੇ ਹਨ, ਪਰ ਸਿਆਣਾ ਵਿਅਕਤੀ ਸ਼ਾਂਤੀ ਨੂੰ ਪੁਨਰ ਸਬਾਪਿਤ ਕਰਦਾ ਹੈ।
+ 9 ਸਿਆਣਾ ਆਦਮੀ ਮੂਰਖ ਨੂੰ ਕਚਿਹਰੀ 'ਚ ਲੈ ਜਾਂਦਾ ਹੈ, ਪਰ ਮੂਰਖ ਤੈਸ਼ 'ਚ ਆ ਜਾਂਦਾ ਅਤੇ ਮਜ਼ਾਕ ਉਡਾਉਂਦਾ ਅਤੇ ਸਿਆਣੇ ਆਦਮੀ ਨੂੰ ਸੰਤੁਸ਼ਟੀ ਨਹੀਂ ਮਿਲਦੀ।
+ 10 ਕਾਤਲ ਨਿਰਦੋਸ਼ ਲੋਕਾਂ ਨੂੰ ਨਫ਼ਰਤ ਕਰਦੇ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਮਾਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਨ ਜੋ ਇਮਾਨਦਾਰ ਹੁੰਦੇ ਹਨ।
+ 11 ਇੱਕ ਮੂਰਖ ਬੰਦਾ ਛੇਤੀ ਗੁੱਸੇ ਵਿੱਚ ਆ ਜਾਂਦਾ ਹੈ।
+ ਪਰ ਸਿਆਣਾ ਬੰਦਾ ਧੀਰਜਵਾਨ ਹੁੰਦਾ ਹੈ ਅਤੇ ਆਪਣੇ-ਆਪ ਤੇ ਕਾਬੂ ਰੱਖਦਾ ਹੈ।
+ 12 ਜੇ ਕੋਈ ਹਾਕਮ ਝੂਠ ਸੁਣਦਾ ਹੈ, ਤਾਂ ਉਸ ਦੇ ਸਾਰੇ ਅਧਿਕਾਰੀ ਬੁਰੇ ਹੋਣਗੇ।
+ 13 ਗਰੀਬ ਵਿਅਕਤੀ ਅਤੇ ਸਤਾਉਣ ਵਾਲਾ ਵਿਅਕਤੀ ਦੋਵਾਂ ਵਿੱਚ ਇੱਕ ਗੱਲ ਸਾਂਝੀ ਹੈ:
+ ਯਹੋਵਾਹ ਦੋਹਾਂ ਨੂੰ ਜੀਵਨ ਦਿੰਦਾ ਹੈ।
+ 14 ਜੇ ਕੋਈ ਰਾਜਾ ਗਰੀਬਾਂ ਨਾਲ ਨਿਆਂ ਕਰਦਾ ਹੈ ਤਾਂ ਉਹ ਦੇਰ ਤੱਕ ਰਾਜ ਕਰੇਗਾ।
+ 15 ਬੈਁਤ ਅਤੇ ਝਿੜਕ ਸਿਆਣਪ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਨ, ਪਰ ਆਪ ਮੁਹਾਰਾ ਛੱਡਿਆ ਬ੍ਬੱਚਾ ਆਪਣੀ ਮਾਂ ਲਈ ਸ਼ਰਮਸਾਰੀ ਲਿਆਉਂਦਾ ਹੈ ।
+ 16 ਜਦੋਂ ਦੁਸ਼ਟ ਲੋਕ ਉਨ੍ਨਤੀ ਕਰਦੇ ਹਨ, ਪਾਪ ਵਧ ਜਾਂਦਾ ਹੈ ਪਰ ਧਰਮੀ ਲੋਕ ਉਨ੍ਹਾਂ ਦਾ ਪਤਨ ਹੁੰਦਾ ਵੇਖਣਗੇ।
+ 17 ਆਪਣੇ ਪੁੱਤਰ ਨੂੰ ਅਨੁਸ਼ਾਸਿਤ ਕਰੋ, ਅਤੇ ਉਹ ਤੁਹਾਡੇ ਲਈ ਸ਼ਾਂਤੀ ਲਿਆਵੇਗਾ ਉਹ ਤੁਹਾਡੇ ਲਈ ਪ੍ਰਸਂਨਤਾ ਦਾ ਸਤ੍ਰੋਤ ਹੋਵੇਗਾ।
+ 18 ਜਦੋਂ ਕੋਈ ਦਿਸਾ ਦਿਸਦੀ ਨਹੀਂ ਹੁੰਦੀ, ਲੋਕ ਜੰਗਲੀਆਂ ਵਾਂਗ ਭੱਜਦੇ ਹਨ, ਪਰ ਉਹ ਜਿਹੜੇ ਬਿਵਸਬਾ ਰੱਖਦੇ ਹਨ ਧੰਨ ਹੋਣਗੇ।
+ 19 ਜੇ ਤੁਸੀਂ ਉਸ ਨਾਲ ਸਿਰਫ਼ ਗੱਲਾਂ ਹੀ ਕਰੋਂਗੇ ਤਾਂ ਨੌਕਰ ਕਦੇ ਸਬਕ ਨਹੀਂ ਸਿਖੇਗਾ।
+ ਉਹ ਤੁਹਾਡੇ ਸ਼ਬਦਾਂ ਨੂੰ ਸਮਝ ਸਕਦਾ ਹੈ ਪਰ ਉਹ ਮਂਨੇਗਾ ਨਹੀਂ।
+ 20 ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਨੂੰ, ਜਾਣਦੇ ਹੋ ਕਿ ਜਿਹੜਾ ਬਿਨਾਂ ਸੋਚਿਆਂ ਬੋਲਦਾ ਹੈ? ਉਸ ਨਾਲੋਂ ਇੱਕ ਮੂਰਖ ਲਈ ਵਧੇਰੇ ਉਮੀਦ ਹੁੰਦੀ ਹੈ।
+ 21 ਜੇਕਰ ਤੁਸੀਂ ਬਚਪਨ ਤੋਂ ਹੀ ਆਪਣੇ ਨੌਕਰ ਨੂੰ ਬਹੁਤ ਲਾਡ-ਪਿਆਰ ਕਰਦੇ ਹੋ, ਤਾਂ ਅਖੀਰ ਵਿੱਚ ਉਹ ਜਿਦ੍ਦੀ ਬਣ ਜਾਵੇਗਾ।
+ 22 ਇੱਕ ਜਲਦੀ ਗੁੱਸੇ ਹੋਣ ਵਾਲਾ ਵਿਅਕਤੀ ਦਲੀਲਬਾਜ਼ੀ ਸ਼ੁਰੂ ਕਰਦਾ ਹੈ।
+ ਅਤੇ ਉਹ ਬੰਦਾ ਜਿਹੜਾ ਛੇਤੀ ਗੁੱਸੇ ਵਿੱਚ ਆ ਜਾਂਦਾ ਹੈ ਉਹ ਕਈ ਪਾਪ ਕਰ ਲੈਂਦਾ ਹੈ।
+ 23 ਘਮਂਡ ਵਿਅਕਤੀ ਨੂੰ ਉਸ ਦੀ ਬੁਨਿਆਦ ਤੋਂ ਹੇਠਾਂ ਲੈ ਆਉਂਦਾ, ਪਰ ਇੱਕ ਨਿਮਾਣਾ ਵਿਅਕਤੀ ਇੱਜ਼ਤ ਹਾਸਲ ਕਰਦਾ ਹੈ।
+ 24 ਦੋ ਚਾਰ ਜਿਹੜੇ ਮਿਲਕੇ ਚੱਲਦੇ ਹਨ ਉਹ ਇੱਕ ਦੂਸਰੇ ਦੇ ਦੁਸ਼ਮਣ ਹੁੰਦੇ ਹਨ।
+ ਇੱਕ ਚੋਰ ਦੂਜੇ ਚੋਰ ਨੂੰ ਧਮਕਾੇਗਾ, ਇਸ ਲਈ ਜੇ ਉਸ ਨੂੰ ਕਚਿਹਰੀ ਵਿੱਚ ਸੱਚ ਬੋਲਣ ਲਈ ਮਜ਼ਬੂਰ ਕੀਤਾ ਜਾਵੇਗਾ ਤਾਂ ਉਹ ਡਰ ਦਾ ਮਾਰਿਆ ਬੋਲ ਨਹੀਂ ਸਕੇਗਾ।
+ 25 ਡਰ ਇਨਸਾਨ ਲਈ ਇੱਕ ਫ਼ਂਧੇ ਵਾਂਗ ਬਣ ਸਕਦਾ ਹੈ।
+ ਪਰ ਜਿਹੜਾ ਇਨਸਾਨ ਯਹੋਵਾਹ ਵਿੱਚ ਭਰੋਸਾ ਰੱਖਦਾ ਸੁਰਖਿਅਤ ਰਹੇਗਾ।
+ 26 ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਸ਼ਾਸਕ ਤੋਂ ਨਿਆਂ ਲੋਚਦੇ ਹਨ।
+ ਪਰ ਆਦਮੀ ਯਹੋਵਾਹ ਤੋਂ ਹੀ ਨਿਆਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹੈ।
+ 27 ਧਰਮੀ ਲੋਕ ਝੂਠਿਆਂ ਨੂੰ ਨਫ਼ਰਤ ਕਰਦੇ ਹਨ, ਅਤੇ ਦੁਸ਼ਟ ਇਨਸਾਨ ਉਨ੍ਹਾਂ ਨੂੰ ਨਫ਼ਰਤ ਕਰਦੇ ਹਨ ਜਿਹੜੇ ਇਮਾਨਦਾਰ ਹੋਕੇ ਜਿਉਂਦੇ ਹਨ।
+          
 
 
